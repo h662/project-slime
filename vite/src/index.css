@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .button-style {
+    @apply w-12 md:w-16 h-12 md:h-16 rounded-lg shadow-md flex justify-center items-center;
+  }
+}
+
+ul > div > div > div > div > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
