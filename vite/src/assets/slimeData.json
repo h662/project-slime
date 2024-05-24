@@ -22,5 +22,11 @@
     "name": "스틱 슬라임",
     "scene": "https://prod.spline.design/DcAsqjZJpXqDPXZa/scene.splinecode",
     "image": "stick_slime.png"
+  },
+  {
+    "id": 5,
+    "name": "향수 슬라임",
+    "scene": "https://prod.spline.design/B5JPt3IAlA1LqhSj/scene.splinecode",
+    "image": "perfume_slime_lavender.png"
   }
 ]
