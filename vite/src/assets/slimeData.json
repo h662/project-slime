@@ -1,32 +1,26 @@
 [
   {
     "id": 1,
-    "name": "초록 슬라임",
-    "scene": "https://prod.spline.design/num3Swbgw37EGHmQ/scene.splinecode"
+    "name": "기본 슬라임",
+    "scene": "https://prod.spline.design/362YHPXh48v5muBJ/scene.splinecode",
+    "image": "basic_slime.png"
   },
   {
     "id": 2,
-    "name": "사각 슬라임",
-    "scene": "https://prod.spline.design/BjYNnJXlEEhhBPD4/scene.splinecode"
+    "name": "아이스 슬라임",
+    "scene": "https://prod.spline.design/BjYNnJXlEEhhBPD4/scene.splinecode",
+    "image": "ice_slime.png"
   },
   {
     "id": 3,
-    "name": "원통 슬라임",
-    "scene": "https://prod.spline.design/saJv4j2fKl1-c2eI/scene.splinecode"
+    "name": "체리 슬라임",
+    "scene": "https://prod.spline.design/szSke05Y5m1QHBG3/scene.splinecode",
+    "image": "cherry_slime.png"
   },
   {
     "id": 4,
-    "name": "리버스 슬라임",
-    "scene": "https://prod.spline.design/BmRzhKFImOXnVDfo/scene.splinecode"
-  },
-  {
-    "id": 5,
-    "name": "레인보우 슬라임",
-    "scene": "https://prod.spline.design/hvgbc9JAiR5RVV4Q/scene.splinecode"
-  },
-  {
-    "id": 6,
-    "name": "카멜레온 슬라임",
-    "scene": "https://prod.spline.design/hUXpzzFaP8RBrGtL/scene.splinecode"
+    "name": "스틱 슬라임",
+    "scene": "https://prod.spline.design/DcAsqjZJpXqDPXZa/scene.splinecode",
+    "image": "stick_slime.png"
   }
 ]
