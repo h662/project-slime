@@ -13,6 +13,8 @@ const Home: FC = () => {
   const [slidesToShow, setSlidesToShow] = useState<number>(1);
   const [scale, setScale] = useState<number>(window.screen.height / 1500);
 
+  const sliderRef = useRef<any>(null);
+
   const testRef = useRef<any>(null);
 
   const { currentSlimeData } = useOutletContext<OutletContext>();
@@ -23,6 +25,12 @@ const Home: FC = () => {
     }
 
     setScale(window.screen.height / 1500);
+  }, []);
+
+  useEffect(() => {
+    if (!sliderRef) return;
+
+    sliderRef?.current?.slickGoTo(Math.floor(Math.random() * slimeData.length));
   }, []);
 
   return (
@@ -52,6 +60,7 @@ const Home: FC = () => {
         </button>
         <ul className="w-full h-full">
           <Slider
+            ref={sliderRef}
             infinite={true}
             speed={500}
             slidesToShow={slidesToShow}
