@@ -1,4 +1,4 @@
-import { FC, useEffect, useState } from "react";
+import { FC, useEffect, useRef, useState } from "react";
 import Spline from "@splinetool/react-spline";
 import { useOutletContext } from "react-router-dom";
 import Slider from "react-slick";
@@ -11,7 +11,9 @@ import slimeData from "../assets/slimeData.json";
 const Home: FC = () => {
   const [isClick, setIsClick] = useState<boolean>(false);
   const [slidesToShow, setSlidesToShow] = useState<number>(1);
-  const [scale, setScale] = useState<number>();
+  const [scale, setScale] = useState<number>(window.screen.height / 1500);
+
+  const testRef = useRef<any>(null);
 
   const { currentSlimeData } = useOutletContext<OutletContext>();
 
@@ -20,7 +22,7 @@ const Home: FC = () => {
       setSlidesToShow(3);
     }
 
-    setScale(window.screen.width / 1500);
+    setScale(window.screen.height / 1500);
   }, []);
 
   return (
@@ -28,6 +30,8 @@ const Home: FC = () => {
       <section className="min-h-screen flex justify-center items-center">
         {scale && (
           <Spline
+            style={{ width: "100vw", height: "100vh" }}
+            ref={testRef}
             scene={currentSlimeData.scene}
             onLoad={(spline) => spline.setZoom(scale)}
           />
