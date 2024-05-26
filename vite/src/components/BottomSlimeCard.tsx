@@ -1,11 +1,10 @@
 import { FC } from "react";
 
-import { ISlime } from "..";
 import { useOutletContext } from "react-router-dom";
 import { OutletContext } from "./Layout";
 
 interface BottomSlimeCardProps {
-  slimeData: ISlime;
+  slimeData: SlimeMetadata;
 }
 
 const BottomSlimeCard: FC<BottomSlimeCardProps> = ({ slimeData }) => {
@@ -16,7 +15,10 @@ const BottomSlimeCard: FC<BottomSlimeCardProps> = ({ slimeData }) => {
       className="relative w-60 h-60"
       onClick={() => setCurrentSlimeData(slimeData)}
     >
-      <img src={`/images/slimes/${slimeData.image}`} alt={slimeData.name} />
+      <img
+        src={`/images/slimes/${slimeData.image_name}`}
+        alt={slimeData.name}
+      />
     </li>
   );
 };

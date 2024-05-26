@@ -3,15 +3,14 @@ import { Outlet } from "react-router-dom";
 import Header from "./Header";
 
 import slimeData from "../assets/slimeData.json";
-import { ISlime } from "..";
 
 export interface OutletContext {
-  currentSlimeData: ISlime;
-  setCurrentSlimeData: Dispatch<SetStateAction<ISlime>>;
+  currentSlimeData: SlimeMetadata;
+  setCurrentSlimeData: Dispatch<SetStateAction<SlimeMetadata>>;
 }
 
 const Layout: FC = () => {
-  const [currentSlimeData, setCurrentSlimeData] = useState<ISlime>(
+  const [currentSlimeData, setCurrentSlimeData] = useState<SlimeMetadata>(
     slimeData[Math.floor(Math.random() * slimeData.length)]
   );
 
