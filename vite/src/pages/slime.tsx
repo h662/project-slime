@@ -3,10 +3,9 @@ import { useParams } from "react-router-dom";
 
 import slimeData from "../assets/slimeData.json";
 import Spline from "@splinetool/react-spline";
-import { ISlime } from "..";
 
 const Slime: FC = () => {
-  const [slime, setSlime] = useState<ISlime>();
+  const [slime, setSlime] = useState<SlimeMetadata>();
 
   const { id } = useParams();
 
