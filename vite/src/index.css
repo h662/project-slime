@@ -28,6 +28,10 @@
   .button-style {
     @apply w-12 md:w-16 h-12 md:h-16 rounded-lg shadow-md flex justify-center items-center;
   }
+
+  .language-button-style {
+    @apply bg-white px-2 rounded-full shadow-md active:bg-gray-100;
+  }
 }
 
 ul > div > div > div > div > div {

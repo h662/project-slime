@@ -40,7 +40,7 @@ const Header: FC = () => {
         <div
           className={`${
             isButtonClick ? "opacity-100" : "opacity-0"
-          } transition delay-150 duration-300 ease-in-out bg-blue-100 mt-4 px-2 md:px-4 flex justify-between`}
+          } transition delay-150 duration-300 ease-in-out mt-4 px-2 md:px-4 flex justify-between`}
         >
           <nav></nav>
           <LanguageSelector />
