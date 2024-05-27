@@ -30,7 +30,7 @@
   }
 
   .language-button-style {
-    @apply bg-white px-2 rounded-full shadow-md active:bg-gray-100;
+    @apply bg-opacity-0 bg-white px-2 rounded-full shadow-md hover:bg-slimeGreen-300 active:bg-slimeGreen-200;
   }
 }
 

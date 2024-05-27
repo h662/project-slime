@@ -1,7 +1,7 @@
 import { FC, useState } from "react";
 import { FaPowerOff } from "react-icons/fa6";
 import { Link } from "react-router-dom";
-import Logo from "/images/logo.svg";
+import Logo from "../icons/Logo";
 import { useTranslation } from "react-i18next";
 import LanguageSelector from "./LanguageSelector";
 
@@ -16,9 +16,9 @@ const Header: FC = () => {
       <header
         className={`${
           isButtonClick ? "translate-y-16 md:translate-y-28" : ""
-        }  px-2 -mt-16 md:-mt-28 h-16 md:h-28 transition delay-150 duration-300 ease-in-out fixed top-2 md:top-6 w-full `}
+        } -mt-[72px] md:-mt-[136px] h-16 md:h-28 transition delay-150 duration-300 ease-in-out fixed top-2 md:top-6 w-full `}
       >
-        <div>
+        <div className="bg-slimeGreen-100 p-2 md:p-6">
           <Link
             className="flex items-center text-lg font-bold w-fit"
             to="/"
@@ -27,20 +27,13 @@ const Header: FC = () => {
             onTouchStart={() => setIsLinkHover(true)}
             onTouchEnd={() => setIsLinkHover(false)}
           >
-            <img
-              className={`${
-                isLinkHover && "bg-slimeGreen-200"
-              } pb-1 w-12 h-12 md:w-16 md:h-16 flex justify-center items-center rounded-full mr-2`}
-              src={Logo}
-              alt="Slime Project"
-            />{" "}
-            {t("logo")}
+            <Logo isLinkHover={isLinkHover} /> {t("logo")}
           </Link>
         </div>
         <div
           className={`${
             isButtonClick ? "opacity-100" : "opacity-0"
-          } transition delay-150 duration-300 ease-in-out mt-4 px-2 md:px-4 flex justify-between`}
+          } bg-gradient-to-b from-slimeGreen-100 transition delay-150 duration-300 ease-in-out pt-4 px-2 md:px-4 flex justify-between`}
         >
           <nav></nav>
           <LanguageSelector />

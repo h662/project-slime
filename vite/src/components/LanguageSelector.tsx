@@ -13,7 +13,7 @@ const LanguageSelector: FC = () => {
     <div>
       <button
         className={`mb-1 language-button-style ${
-          isClicked && "bg-slimeGreen-100"
+          isClicked && "bg-slimeGreen-300"
         }`}
         onClick={() => setIsClicked(!isClicked)}
       >
