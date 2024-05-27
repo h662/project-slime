@@ -1,0 +1,52 @@
+{
+  "id": 7,
+  "name": "Pill Slime",
+  "localizedNames": {
+    "en": "Pill Slime",
+    "ko": "알약 슬라임",
+    "jp": "カプセルスライム",
+    "zh-CN": "药丸史莱姆",
+    "es": "Slime de Pastilla",
+    "fr": "Slime Pilule",
+    "de": "Pillen-Schleim",
+    "pt": "Slime de Pílula",
+    "ru": "Пилюля Слайм",
+    "ar": "سلايم حبوب",
+    "hi": "गोली स्लाइम"
+  },
+  "description": "A healing slime that resembles a pill. It has the unique ability to heal injuries and restore vitality. In the Slime Project, Pill Slime is highly valued for its healing properties. Researchers study its abilities to develop new medical applications and improve the health of other slimes. Despite its small size, Pill Slime plays a crucial role in maintaining the well-being of the team, ensuring everyone is in top condition for their experiments.",
+  "localizedDescriptions": {
+    "en": "A healing slime that resembles a pill. It has the unique ability to heal injuries and restore vitality. In the Slime Project, Pill Slime is highly valued for its healing properties. Researchers study its abilities to develop new medical applications and improve the health of other slimes. Despite its small size, Pill Slime plays a crucial role in maintaining the well-being of the team, ensuring everyone is in top condition for their experiments.",
+    "ko": "알약을 닮은 치유 슬라임입니다. 상처를 치유하고 활력을 회복시키는 독특한 능력을 가지고 있습니다. 슬라임 프로젝트에서 알약 슬라임은 그 치유 특성으로 인해 매우 중요하게 여겨집니다. 연구자들은 이를 연구하여 새로운 의료 응용 프로그램을 개발하고 다른 슬라임들의 건강을 개선합니다. 작은 크기에도 불구하고, 알약 슬라임은 팀의 건강을 유지하는 데 중요한 역할을 하며, 모든 사람들이 실험을 위해 최상의 상태를 유지하도록 합니다.",
+    "jp": "カプセルに似た治癒スライムです。傷を治癒し、活力を回復する独自の能力を持っています。スライムプロジェクトでは、その治癒特性で非常に価値があります。研究者たちはその能力を研究し、新しい医療アプリケーションを開発し、他のスライムの健康を改善しています。小さなサイズにもかかわらず、カプセルスライムはチームの健康を維持する上で重要な役割を果たし、全員が実験のために最高の状態を維持できるようにします。",
+    "zh-CN": "一种类似药丸的治疗史莱姆。 它具有治愈伤口和恢复活力的独特能力。 在史莱姆项目中，药丸史莱姆因其治愈特性而受到高度重视。 研究人员研究其能力，以开发新的医疗应用并改善其他史莱姆的健康状况。 尽管体型小，药丸史莱姆在维持团队健康方面发挥着至关重要的作用，确保每个人都处于最佳状态进行实验。",
+    "es": "Un slime curativo que se asemeja a una pastilla. Tiene la capacidad única de curar heridas y restaurar la vitalidad. En el Proyecto Slime, el Slime de Pastilla es muy valorado por sus propiedades curativas. Los investigadores estudian sus habilidades para desarrollar nuevas aplicaciones médicas y mejorar la salud de otros slimes. A pesar de su pequeño tamaño, el Slime de Pastilla juega un papel crucial en mantener el bienestar del equipo, asegurando que todos estén en óptimas condiciones para sus experimentos.",
+    "fr": "Un slime curatif qui ressemble à une pilule. Il a la capacité unique de guérir les blessures et de restaurer la vitalité. Dans le Projet Slime, le Slime Pilule est très apprécié pour ses propriétés curatives. Les chercheurs étudient ses capacités pour développer de nouvelles applications médicales et améliorer la santé des autres slimes. Malgré sa petite taille, le Slime Pilule joue un rôle crucial dans le maintien du bien-être de l'équipe, garantissant que tout le monde est en pleine forme pour leurs expériences.",
+    "de": "Ein heilender Schleim, der einer Pille ähnelt. Es hat die einzigartige Fähigkeit, Verletzungen zu heilen und Vitalität wiederherzustellen. Im Slime-Projekt wird der Pillen-Schleim wegen seiner heilenden Eigenschaften hoch geschätzt. Forscher untersuchen seine Fähigkeiten, um neue medizinische Anwendungen zu entwickeln und die Gesundheit anderer Schleime zu verbessern. Trotz seiner geringen Größe spielt der Pillen-Schleim eine entscheidende Rolle bei der Aufrechterhaltung des Wohlbefindens des Teams und stellt sicher, dass alle in bester Verfassung für ihre Experimente sind.",
+    "pt": "Um slime curativo que se assemelha a uma pílula. Ele tem a capacidade única de curar feridas e restaurar a vitalidade. No Projeto Slime, o Slime de Pílula é muito valorizado por suas propriedades curativas. Os pesquisadores estudam suas habilidades para desenvolver novas aplicações médicas e melhorar a saúde de outros slimes. Apesar de seu pequeno tamanho, o Slime de Pílula desempenha um papel crucial na manutenção do bem-estar da equipe, garantindo que todos estejam em ótimas condições para seus experimentos.",
+    "ru": "Целебный слайм, напоминающий пилюлю. Он обладает уникальной способностью лечить раны и восстанавливать жизненные силы. В проекте Slime пилюля слайм высоко ценится за свои целебные свойства. Исследователи изучают его способности для разработки новых медицинских приложений и улучшения здоровья других слаймов. Несмотря на свой небольшой размер, пилюля слайм играет важнейшую роль в поддержании благополучия команды, обеспечивая, чтобы все были в отличной форме для своих экспериментов.",
+    "ar": "سلايم علاجي يشبه الحبة. لديها القدرة الفريدة على شفاء الإصابات واستعادة الحيوية. في مشروع السلايم، يحظى سلايم الحبوب بتقدير كبير لخصائصه العلاجية. يدرس الباحثون قدراته لتطوير تطبيقات طبية جديدة وتحسين صحة السلايمات الأخرى. على الرغم من صغر حجمها، يلعب سلايم الحبوب دورًا حاسمًا في الحفاظ على صحة الفريق، مما يضمن أن يكون الجميع في حالة جيدة لإجراء تجاربهم.",
+    "hi": "एक उपचार करने वाला स्लाइम जो एक गोली जैसा दिखता है। इसमें चोटों को ठीक करने और जीवन शक्ति को बहाल करने की अनूठी क्षमता है। स्लाइम प्रोजेक्ट में, इसके उपचार गुणों के लिए गोली स्लाइम को अत्यधिक महत्व दिया जाता है। शोधकर्ता नई चिकित्सा अनुप्रयोगों को विकसित करने और अन्य स्लाइम्स के स्वास्थ्य में सुधार करने के लिए इसकी क्षमताओं का अध्ययन करते हैं। छोटे आकार के बावजूद, पिल स्लाइम टीम की भलाई बनाए रखने में महत्वपूर्ण भूमिका निभाता है, यह सुनिश्चित करता है कि उनके प्रयोगों के लिए हर कोई शीर्ष स्थिति में है।"
+  },
+  "scene": "https://prod.spline.design/J8aMR0qi6LQUlcyw/scene.splinecode",
+  "image": "file-sUSsVmWO7mM3h26eLFE2yNpk",
+  "image_name": "pill_slime.png",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Red and Blue"
+    },
+    {
+      "trait_type": "Shape",
+      "value": "Pill"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Healing"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Restore Vitality"
+    }
+  ]
+}

@@ -8,15 +8,15 @@ interface BottomSlimeCardProps {
 }
 
 const BottomSlimeCard: FC<BottomSlimeCardProps> = ({ slimeData }) => {
-  const { setCurrentSlimeData } = useOutletContext<OutletContext>();
+  const { setCurrentMetadata } = useOutletContext<OutletContext>();
 
   return (
     <li
       className="relative w-60 h-60"
-      onClick={() => setCurrentSlimeData(slimeData)}
+      onClick={() => setCurrentMetadata(slimeData)}
     >
       <img
-        src={`/images/slimes/${slimeData.image_name}`}
+        src={`/slime-data/images/${slimeData.image_name}`}
         alt={slimeData.name}
       />
     </li>

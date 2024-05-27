@@ -1,28 +1,53 @@
 import i18n from "i18next";
 import { initReactI18next } from "react-i18next";
-import tHeaderEn from "./locales/en/components/Header.json";
-import tHeaderKo from "./locales/ko/components/Header.json";
-import tSlimeCardEn from "./locales/en/components/SlimeCard.json";
-import tSlimeCardKo from "./locales/ko/components/SlimeCard.json";
-import tHomeEn from "./locales/en/pages/home.json";
-import tHomeKo from "./locales/ko/pages/home.json";
+import LanguageDetector from "i18next-browser-languagedetector";
+import HttpApi from "i18next-http-backend";
 
-const resources = {
-  en: {
-    translation: { ...tHeaderEn, ...tSlimeCardEn, ...tHomeEn },
-  },
-  ko: {
-    translation: { ...tHeaderKo, ...tSlimeCardKo, ...tHomeKo },
-  },
+export const supportedLngs = [
+  "en",
+  "ko",
+  "jp",
+  "zh-CN",
+  "es",
+  "fr",
+  "de",
+  "pt",
+  "ru",
+  "ar",
+  "hi",
+];
+
+export const languageNames: { [key: string]: string } = {
+  en: "English",
+  ko: "한국어",
+  jp: "日本語",
+  "zh-CN": "中文",
+  es: "Español",
+  fr: "Français",
+  de: "Deutsch",
+  pt: "Português",
+  ru: "Русский",
+  ar: "العربية",
+  hi: "हिंदी",
 };
 
-i18n.use(initReactI18next).init({
-  resources,
-  lng: "ko",
-  fallbackLng: "en",
-  interpolation: {
-    escapeValue: false,
-  },
-});
+i18n
+  .use(HttpApi)
+  .use(LanguageDetector)
+  .use(initReactI18next)
+  .init({
+    supportedLngs,
+    fallbackLng: "ko",
+    detection: {
+      order: ["path", "cookie", "htmlTag"],
+      caches: ["cookie"],
+    },
+    backend: {
+      loadPath: "/locales/{{lng}}/translation.json",
+    },
+    react: {
+      useSuspense: false,
+    },
+  });
 
 export default i18n;

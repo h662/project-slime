@@ -1,0 +1,56 @@
+{
+  "id": 5,
+  "name": "Perfume Slime (Lavender)",
+  "localizedNames": {
+    "en": "Perfume Slime (Lavender)",
+    "ko": "향수 슬라임 (라벤더)",
+    "jp": "香水スライム (ラベンダー)",
+    "zh-CN": "香水史莱姆（薰衣草）",
+    "es": "Slime de Perfume (Lavanda)",
+    "fr": "Slime Parfumé (Lavande)",
+    "de": "Parfüm-Schleim (Lavendel)",
+    "pt": "Slime de Perfume (Lavanda)",
+    "ru": "Парфюмированный Слайм (Лаванда)",
+    "ar": "سلايم العطر (الخزامى)",
+    "hi": "परफ्यूम स्लाइम (लैवेंडर)"
+  },
+  "description": "A calm and soothing lavender-scented slime. It is known for its ability to relieve stress and provide a sense of tranquility. In the Slime Project, Perfume Slime (Lavender) is cherished for its calming presence. Researchers study its properties to develop new methods of stress relief and relaxation. Despite its gentle nature, Lavender Slime plays a crucial role in maintaining a peaceful atmosphere in the lab. Its unique ability to soothe and relax makes it an essential part of the research team, especially during intense experiments.",
+  "localizedDescriptions": {
+    "en": "A calm and soothing lavender-scented slime. It is known for its ability to relieve stress and provide a sense of tranquility. In the Slime Project, Perfume Slime (Lavender) is cherished for its calming presence. Researchers study its properties to develop new methods of stress relief and relaxation. Despite its gentle nature, Lavender Slime plays a crucial role in maintaining a peaceful atmosphere in the lab. Its unique ability to soothe and relax makes it an essential part of the research team, especially during intense experiments.",
+    "ko": "차분하고 진정시키는 라벤더 향이 나는 슬라임입니다. 스트레스를 해소하고 평온함을 제공하는 능력으로 유명합니다. 슬라임 프로젝트에서 향수 슬라임 (라벤더)은 그 차분한 존재감으로 사랑받고 있습니다. 연구자들은 이를 연구하여 새로운 스트레스 해소 및 이완 방법을 개발합니다. 부드러운 성격에도 불구하고, 라벤더 슬라임은 실험실 내 평화로운 분위기를 유지하는 데 중요한 역할을 합니다. 진정과 이완 능력 덕분에 특히 강도 높은 실험 중에 연구팀의 필수적인 부분입니다.",
+    "jp": "落ち着いて心を和らげるラベンダーの香りのスライムです。ストレスを軽減し、安らぎを提供する能力で知られています。スライムプロジェクトでは、その落ち着いた存在感で大切にされています。研究者たちは、その特性を研究して新しいストレス解消とリラクゼーションの方法を開発しています。穏やかな性質にもかかわらず、ラベンダースライムは実験室内の平和な雰囲気を維持する上で重要な役割を果たしています。心を落ち着かせリラックスさせる独特の能力のおかげで、特に強度の高い実験中に研究チームの必須の部分となっています。",
+    "zh-CN": "一种平静而舒缓的薰衣草香味史莱姆。 它以其缓解压力和提供宁静感的能力而闻名。 在史莱姆项目中，香水史莱姆（薰衣草）因其令人安心的存在而受到珍视。 研究人员研究其特性以开发新的压力缓解和放松方法。 尽管它性情温和，但薰衣草史莱姆在保持实验室平静氛围方面发挥着至关重要的作用。 其独特的舒缓和放松能力使其成为研究团队的重要组成部分，尤其是在紧张的实验期间。",
+    "es": "Un slime con aroma a lavanda calmante y relajante. Es conocido por su capacidad para aliviar el estrés y proporcionar una sensación de tranquilidad. En el Proyecto Slime, el Slime de Perfume (Lavanda) es apreciado por su presencia calmante. Los investigadores estudian sus propiedades para desarrollar nuevos métodos de alivio del estrés y relajación. A pesar de su naturaleza suave, el Slime de Lavanda desempeña un papel crucial en mantener una atmósfera pacífica en el laboratorio. Su capacidad única para calmar y relajar lo convierte en una parte esencial del equipo de investigación, especialmente durante experimentos intensos.",
+    "fr": "Un slime parfumé à la lavande, calme et apaisant. Il est connu pour sa capacité à soulager le stress et à apporter une sensation de tranquillité. Dans le Projet Slime, le Slime Parfumé (Lavande) est apprécié pour sa présence apaisante. Les chercheurs étudient ses propriétés pour développer de nouvelles méthodes de soulagement du stress et de relaxation. Malgré sa nature douce, le Slime Lavande joue un rôle crucial dans le maintien d'une atmosphère paisible dans le laboratoire. Sa capacité unique à apaiser et à détendre en fait une partie essentielle de l'équipe de recherche, en particulier pendant les expériences intenses.",
+    "de": "Ein ruhiger und beruhigender Lavendelduftschleim. Er ist bekannt für seine Fähigkeit, Stress abzubauen und ein Gefühl der Ruhe zu vermitteln. Im Slime-Projekt wird der Parfüm-Schleim (Lavendel) wegen seiner beruhigenden Präsenz geschätzt. Forscher untersuchen seine Eigenschaften, um neue Methoden zur Stressbewältigung und Entspannung zu entwickeln. Trotz seiner sanften Natur spielt der Lavendel-Schleim eine entscheidende Rolle bei der Aufrechterhaltung einer friedlichen Atmosphäre im Labor. Seine einzigartige Fähigkeit, zu beruhigen und zu entspannen, macht ihn zu einem unverzichtbaren Bestandteil des Forschungsteams, insbesondere bei intensiven Experimenten.",
+    "pt": "Um slime perfumado com lavanda, calmo e relaxante. É conhecido por sua capacidade de aliviar o estresse e proporcionar uma sensação de tranquilidade. No Projeto Slime, o Slime de Perfume (Lavanda) é apreciado por sua presença calmante. Os pesquisadores estudam suas propriedades para desenvolver novos métodos de alívio do estresse e relaxamento. Apesar de sua natureza suave, o Slime de Lavanda desempenha um papel crucial na manutenção de uma atmosfera pacífica no laboratório. Sua capacidade única de acalmar e relaxar o torna uma parte essencial da equipe de pesquisa, especialmente durante experimentos intensos.",
+    "ru": "Спокойный и успокаивающий слайм с ароматом лаванды. Он известен своей способностью снимать стресс и обеспечивать чувство покоя. В проекте Slime парфюмированный слайм (лаванда) ценится за его успокаивающее присутствие. Исследователи изучают его свойства для разработки новых методов снятия стресса и релаксации. Несмотря на свой мягкий характер, лавандовый слайм играет ключевую роль в поддержании спокойной атмосферы в лаборатории. Его уникальная способность успокаивать и расслаблять делает его незаменимой частью исследовательской команды, особенно во время интенсивных экспериментов.",
+    "ar": "سلايم مهدئ ومريح برائحة اللافندر. يشتهر بقدرته على تخفيف التوتر وتوفير الشعور بالهدوء. في مشروع السلايم، يحظى سلايم العطر (الخزامى) بتقدير كبير لوجوده المهدئ. يدرس الباحثون خصائصه لتطوير طرق جديدة لتخفيف التوتر والاسترخاء. على الرغم من طبيعته اللطيفة، يلعب سلايم اللافندر دورًا حاسمًا في الحفاظ على جو هادئ في المختبر. تجعل قدرته الفريدة على التهدئة والاسترخاء جزءًا أساسيًا من فريق البحث، خاصة أثناء التجارب المكثفة.",
+    "hi": "एक शांत और सुखदायक लैवेंडर-सुगंधित स्लाइम। यह तनाव दूर करने और शांति की भावना प्रदान करने की अपनी क्षमता के लिए जाना जाता है। स्लाइम प्रोजेक्ट में, परफ्यूम स्लाइम (लैवेंडर) को इसकी सुखदायक उपस्थिति के लिए संजोया जाता है। शोधकर्ता तनाव निवारण और विश्राम के नए तरीकों को विकसित करने के लिए इसके गुणों का अध्ययन करते हैं। इसके कोमल स्वभाव के बावजूद, लैवेंडर स्लाइम प्रयोगशाला में शांतिपूर्ण वातावरण बनाए रखने में महत्वपूर्ण भूमिका निभाता है। इसकी अनूठी क्षमता को शांत और आराम देने की क्षमता के कारण यह अनुसंधान टीम का एक आवश्यक हिस्सा बनाता है, विशेष रूप से तीव्र प्रयोगों के दौरान।"
+  },
+  "scene": "https://prod.spline.design/B5JPt3IAlA1LqhSj/scene.splinecode",
+  "image": "file-9w0HCTFYe3IHc8HpwXQ7VV7p",
+  "image_name": "perfume_slime_lavender.png",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Calm"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Stress Relief"
+    },
+    {
+      "trait_type": "Relationship",
+      "value": "Twin"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 4,
+  "name": "Stick Slime",
+  "localizedNames": {
+    "en": "Stick Slime",
+    "ko": "스틱 슬라임",
+    "jp": "スティックスライム",
+    "zh-CN": "棒棒史莱姆",
+    "es": "Slime de Palo",
+    "fr": "Slime Bâton",
+    "de": "Stab-Schleim",
+    "pt": "Slime de Pau",
+    "ru": "Палочный Слайм",
+    "ar": "سلايم العصا",
+    "hi": "स्टिक स्लाइम"
+  },
+  "description": "A playful and cheerful slime that resembles a hard ice cream stick. It is known for its ability to cool down its surroundings and bring smiles to everyone's faces. In the Slime Project, Stick Slime is celebrated for its refreshing presence and its ability to lighten the mood. Researchers study its cooling properties to develop new ways to regulate temperature within the lab. Despite its playful nature, Stick Slime is crucial in keeping the lab environment stable and enjoyable. Its unique ability to combine fun and functionality makes it a favorite among the research team.",
+  "localizedDescriptions": {
+    "en": "A playful and cheerful slime that resembles a hard ice cream stick. It is known for its ability to cool down its surroundings and bring smiles to everyone's faces. In the Slime Project, Stick Slime is celebrated for its refreshing presence and its ability to lighten the mood. Researchers study its cooling properties to develop new ways to regulate temperature within the lab. Despite its playful nature, Stick Slime is crucial in keeping the lab environment stable and enjoyable. Its unique ability to combine fun and functionality makes it a favorite among the research team.",
+    "ko": "하드 아이스크림 막대를 닮은 장난기 많고 명랑한 슬라임입니다. 주변을 시원하게 하고 모든 사람들에게 웃음을 가져다 주는 능력으로 유명합니다. 슬라임 프로젝트에서 스틱 슬라임은 신선한 존재감과 분위기를 밝게 만드는 능력으로 유명합니다. 연구자들은 실험실 내 온도를 조절하는 새로운 방법을 개발하기 위해 그 냉각 특성을 연구합니다. 장난기 많은 성격에도 불구하고, 스틱 슬라임은 실험실 환경을 안정적이고 즐겁게 유지하는 데 중요한 역할을 합니다. 재미와 기능성을 결합하는 독특한 능력 덕분에 연구팀에서 인기가 많습니다.",
+    "jp": "ハードアイスクリームの棒に似た遊び心があり陽気なスライムです。周囲を冷やし、皆に笑顔をもたらす能力で知られています。スライムプロジェクトでは、その爽やかな存在感と雰囲気を明るくする能力で称賛されています。研究者たちは、実験室内の温度を調整する新しい方法を開発するために、その冷却特性を研究しています。遊び心のある性格にもかかわらず、スティックスライムは実験室の環境を安定させ、楽しく保つために重要な役割を果たしています。楽しさと機能性を組み合わせる独特の能力のおかげで、研究チームの中で人気があります。",
+    "zh-CN": "一个顽皮而开朗的史莱姆，像一根硬冰淇淋棒。 它以其冷却周围环境并给每个人带来笑容的能力而闻名。 在史莱姆项目中，棒棒史莱姆因其清爽的存在感和轻松的氛围而受到赞誉。 研究人员研究其冷却特性，以开发调节实验室温度的新方法。 尽管它具有顽皮的本性，但棒棒史莱姆在保持实验室环境的稳定和愉快方面至关重要。 它将乐趣与功能性结合的独特能力使其成为研究团队中的最爱。",
+    "es": "Un slime juguetón y alegre que se asemeja a un palo de helado duro. Es conocido por su capacidad para enfriar su entorno y traer sonrisas a todos. En el Proyecto Slime, el Slime de Palo es celebrado por su presencia refrescante y su capacidad para alegrar el ambiente. Los investigadores estudian sus propiedades de enfriamiento para desarrollar nuevas formas de regular la temperatura dentro del laboratorio. A pesar de su naturaleza juguetona, el Slime de Palo es crucial para mantener el ambiente del laboratorio estable y agradable. Su capacidad única de combinar diversión y funcionalidad lo convierte en un favorito entre el equipo de investigación.",
+    "fr": "Un slime enjoué et joyeux qui ressemble à un bâton de glace dure. Il est connu pour sa capacité à rafraîchir son environnement et à apporter des sourires à tous. Dans le Projet Slime, le Slime Bâton est célébré pour sa présence rafraîchissante et sa capacité à égayer l'ambiance. Les chercheurs étudient ses propriétés de refroidissement pour développer de nouvelles façons de réguler la température dans le laboratoire. Malgré sa nature enjouée, le Slime Bâton est crucial pour maintenir l'environnement du laboratoire stable et agréable. Sa capacité unique à combiner plaisir et fonctionnalité en fait un favori de l'équipe de recherche.",
+    "de": "Ein verspielter und fröhlicher Schleim, der einem harten Eisstiel ähnelt. Es ist bekannt für seine Fähigkeit, seine Umgebung abzukühlen und jedem ein Lächeln ins Gesicht zu zaubern. Im Slime-Projekt wird der Stab-Schleim für seine erfrischende Präsenz und seine Fähigkeit, die Stimmung zu heben, gefeiert. Forscher untersuchen seine Kühleigenschaften, um neue Methoden zur Temperaturregulierung im Labor zu entwickeln. Trotz seiner verspielten Natur ist der Stab-Schleim entscheidend, um die Laborumgebung stabil und angenehm zu halten. Seine einzigartige Fähigkeit, Spaß und Funktionalität zu kombinieren, macht ihn bei dem Forschungsteam beliebt.",
+    "pt": "Um slime brincalhão e alegre que se assemelha a um palito de sorvete duro. É conhecido por sua capacidade de resfriar o ambiente e trazer sorrisos a todos. No Projeto Slime, o Slime de Pau é celebrado por sua presença refrescante e sua capacidade de alegrar o ambiente. Os pesquisadores estudam suas propriedades de resfriamento para desenvolver novas formas de regular a temperatura dentro do laboratório. Apesar de sua natureza brincalhona, o Slime de Pau é crucial para manter o ambiente do laboratório estável e agradável. Sua capacidade única de combinar diversão e funcionalidade o torna um favorito entre a equipe de pesquisa.",
+    "ru": "Игривый и жизнерадостный слайм, напоминающий палочку мороженого. Он известен своей способностью охлаждать окружающую среду и вызывать улыбки на лицах всех вокруг. В проекте Slime палочный слайм ценится за его освежающее присутствие и способность поднимать настроение. Исследователи изучают его охлаждающие свойства, чтобы разработать новые способы регулирования температуры в лаборатории. Несмотря на свою игривую природу, палочный слайм играет важную роль в поддержании стабильной и приятной атмосферы в лаборатории. Его уникальная способность сочетать веселье и функциональность делает его любимцем исследовательской команды.",
+    "ar": "سلايم لعوب ومبهج يشبه عصا الآيس كريم الصلبة. إنه معروف بقدرته على تبريد محيطه وجلب الابتسامات على وجوه الجميع. في مشروع السلايم، يتم الاحتفال بسلايم العصا لحضوره المنعش وقدرته على تخفيف الأجواء. يدرس الباحثون خصائصه التبريدية لتطوير طرق جديدة لتنظيم درجة الحرارة داخل المختبر. على الرغم من طبيعته المرحة، فإن سلايم العصا ضروري للحفاظ على بيئة المختبر مستقرة وممتعة. قدرته الفريدة على الجمع بين المرح والوظائف تجعله المفضل بين فريق البحث.",
+    "hi": "एक चंचल और हंसमुख स्लाइम जो एक सख्त आइसक्रीम स्टिक जैसा दिखता है। यह अपने परिवेश को ठंडा करने और सभी के चेहरों पर मुस्कान लाने की अपनी क्षमता के लिए जाना जाता है। स्लाइम प्रोजेक्ट में, स्टिक स्लाइम को इसकी ताज़ा उपस्थिति और मूड को हल्का करने की क्षमता के लिए मनाया जाता है। शोधकर्ता प्रयोगशाला के भीतर तापमान को नियंत्रित करने के नए तरीकों को विकसित करने के लिए इसकी शीतलन गुणों का अध्ययन करते हैं। इसके चंचल स्वभाव के बावजूद, स्टिक स्लाइम प्रयोगशाला के वातावरण को स्थिर और सुखद बनाए रखने में महत्वपूर्ण है। मस्ती और कार्यक्षमता को संयोजित करने की इसकी अनूठी क्षमता इसे शोध दल के बीच एक पसंदीदा बनाती है।"
+  },
+  "scene": "https://prod.spline.design/DcAsqjZJpXqDPXZa/scene.splinecode",
+  "image": "file-SnsH0badh8GGRQ9UNYrgBEjq",
+  "image_name": "stick_slime.png",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Shape",
+      "value": "Stick"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Cheerful"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Cooling"
+    }
+  ]
+}

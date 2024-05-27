@@ -1,0 +1,52 @@
+{
+  "id": 1,
+  "name": "Basic Slime",
+  "localizedNames": {
+    "en": "Basic Slime",
+    "ko": "기본 슬라임",
+    "jp": "ベーシックスライム",
+    "zh-CN": "基础史莱姆",
+    "es": "Slime Básico",
+    "fr": "Slime de Base",
+    "de": "Grundlegender Schleim",
+    "pt": "Slime Básico",
+    "ru": "Основной Слайм",
+    "ar": "سلايم أساسي",
+    "hi": "मूल स्लाइम"
+  },
+  "description": "A common green slime created from ordinary jelly through magical transformation. It is flexible and has the ability to shape shift. In the Slime Project, Basic Slime is the foundation for many experiments due to its adaptability. Researchers continually test its limits, finding new uses for its shape-shifting abilities. Despite its simplicity, Basic Slime plays a crucial role in assisting other slimes, often combining abilities to create powerful new forms. Its reliability and versatility make it an essential part of the research team.",
+  "localizedDescriptions": {
+    "en": "A common green slime created from ordinary jelly through magical transformation. It is flexible and has the ability to shape shift. In the Slime Project, Basic Slime is the foundation for many experiments due to its adaptability. Researchers continually test its limits, finding new uses for its shape-shifting abilities. Despite its simplicity, Basic Slime plays a crucial role in assisting other slimes, often combining abilities to create powerful new forms. Its reliability and versatility make it an essential part of the research team.",
+    "ko": "마법의 변환을 통해 평범한 젤리에서 만들어진 흔한 녹색 슬라임입니다. 유연하며 형태를 변환하는 능력이 있습니다. 슬라임 프로젝트에서 기본 슬라임은 적응력 덕분에 많은 실험의 기초가 됩니다. 연구자들은 끊임없이 그 한계를 테스트하여 형태 변환 능력을 활용하는 새로운 방법들을 찾아냅니다. 단순해 보이지만, 기본 슬라임은 다른 슬라임을 돕는 데 중요한 역할을 하며, 종종 능력을 결합해 강력한 새로운 형태를 만듭니다. 신뢰성과 다재다능함 덕분에 연구팀의 필수적인 부분입니다.",
+    "jp": "魔法の変換により普通のゼリーから作られた一般的な緑のスライムです。柔軟で形を変える能力があります。スライムプロジェクトでは、その適応力のおかげで多くの実験の基礎となっています。研究者たちはその限界を絶えずテストし、形を変える能力を活用する新しい方法を見つけています。シンプルに見えますが、基本スライムは他のスライムを支援する上で重要な役割を果たし、しばしば能力を組み合わせて強力な新しい形態を作り出します。信頼性と多用途性のおかげで、研究チームの重要な部分となっています。",
+    "zh-CN": "通过魔法转化从普通果冻中创造的普通绿色史莱姆。 它具有灵活性并具有变形能力。 在史莱姆项目中，基础史莱姆因其适应性成为许多实验的基础。 研究人员不断测试它的极限，找到使用它的变形能力的新方法。 尽管其简单性，基础史莱姆在协助其他史莱姆方面发挥着至关重要的作用，通常结合能力创造强大的新形态。 它的可靠性和多功能性使其成为研究团队的重要组成部分。",
+    "es": "Un slime verde común creado a partir de gelatina ordinaria mediante transformación mágica. Es flexible y tiene la capacidad de cambiar de forma. En el Proyecto Slime, el Slime Básico es la base para muchos experimentos debido a su adaptabilidad. Los investigadores prueban continuamente sus límites, encontrando nuevos usos para sus habilidades de cambio de forma. A pesar de su simplicidad, el Slime Básico juega un papel crucial en la asistencia a otros slimes, a menudo combinando habilidades para crear nuevas formas poderosas. Su fiabilidad y versatilidad lo convierten en una parte esencial del equipo de investigación.",
+    "fr": "Un slime vert commun créé à partir de gelée ordinaire par transformation magique. Il est flexible et a la capacité de changer de forme. Dans le Projet Slime, le Slime de Base est la base de nombreuses expériences en raison de son adaptabilité. Les chercheurs testent continuellement ses limites, trouvant de nouvelles utilisations pour ses capacités de changement de forme. Malgré sa simplicité, le Slime de Base joue un rôle crucial en aidant les autres slimes, combinant souvent des capacités pour créer de nouvelles formes puissantes. Sa fiabilité et sa polyvalence en font une partie essentielle de l'équipe de recherche.",
+    "de": "Ein gewöhnlicher grüner Schleim, der durch magische Transformation aus gewöhnlichem Gelee hergestellt wird. Es ist flexibel und hat die Fähigkeit, die Form zu wechseln. Im Slime-Projekt ist der grundlegende Schleim aufgrund seiner Anpassungsfähigkeit die Grundlage für viele Experimente. Forscher testen ständig seine Grenzen und finden neue Verwendungsmöglichkeiten für seine Formwandel-Fähigkeiten. Trotz seiner Einfachheit spielt der grundlegende Schleim eine entscheidende Rolle bei der Unterstützung anderer Schleime, indem er oft Fähigkeiten kombiniert, um mächtige neue Formen zu schaffen. Seine Zuverlässigkeit und Vielseitigkeit machen ihn zu einem wesentlichen Bestandteil des Forschungsteams.",
+    "pt": "Um slime verde comum criado a partir de gelatina comum por meio de transformação mágica. É flexível e tem a capacidade de mudar de forma. No Projeto Slime, o Slime Básico é a base para muitos experimentos devido à sua adaptabilidade. Os pesquisadores testam continuamente seus limites, encontrando novos usos para suas habilidades de mudança de forma. Apesar de sua simplicidade, o Slime Básico desempenha um papel crucial na assistência a outros slimes, muitas vezes combinando habilidades para criar novas formas poderosas. Sua confiabilidade e versatilidade o tornam uma parte essencial da equipe de pesquisa.",
+    "ru": "Обычный зеленый слайм, созданный из обычного желе посредством магического превращения. Он гибкий и обладает способностью менять форму. В проекте Slime Basic Slime является основой для многих экспериментов благодаря своей адаптивности. Исследователи постоянно проверяют его пределы, находя новые применения его способностям к изменению формы. Несмотря на свою простоту, Basic Slime играет ключевую роль в помощи другим слаймам, часто сочетая способности для создания мощных новых форм. Его надежность и универсальность делают его неотъемлемой частью исследовательской команды.",
+    "ar": "سلايم أخضر شائع تم إنشاؤه من الجيلي العادي من خلال التحول السحري. إنه مرن ولديه القدرة على تغيير الشكل. في مشروع السلايم، يعتبر السلايم الأساسي أساسًا للعديد من التجارب نظرًا لقابليته للتكيف. يختبر الباحثون حدوده باستمرار، ويجدون استخدامات جديدة لقدراته على تغيير الشكل. على الرغم من بساطته، يلعب السلايم الأساسي دورًا حاسمًا في مساعدة السلايمات الأخرى، وغالبًا ما يجمع القدرات لإنشاء أشكال جديدة قوية. إن موثوقيته وتعدد استخداماته تجعله جزءًا أساسيًا من فريق البحث.",
+    "hi": "साधारण जेली से जादुई परिवर्तन के माध्यम से बनाया गया एक सामान्य हरा स्लाइम। यह लचीला है और इसमें आकार बदलने की क्षमता है। स्लाइम प्रोजेक्ट में, बेसिक स्लाइम अपनी अनुकूलनशीलता के कारण कई प्रयोगों की नींव है। शोधकर्ता लगातार इसकी सीमाओं का परीक्षण करते हैं, इसके आकार बदलने की क्षमताओं के लिए नए उपयोग पाते हैं। इसकी सादगी के बावजूद, बेसिक स्लाइम अन्य स्लाइम्स की सहायता करने में एक महत्वपूर्ण भूमिका निभाता है, अक्सर शक्तिशाली नए रूपों को बनाने के लिए क्षमताओं को मिलाता है। इसकी विश्वसनीयता और बहुमुखी प्रतिभा इसे अनुसंधान टीम का एक अनिवार्य हिस्सा बनाती है।"
+  },
+  "scene": "https://prod.spline.design/362YHPXh48v5muBJ/scene.splinecode",
+  "image": "file-gsanJfz0MGntSrgvQDR41pCj",
+  "image_name": "basic_slime.png",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Jelly"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Flexible"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Shape Shifting"
+    }
+  ]
+}

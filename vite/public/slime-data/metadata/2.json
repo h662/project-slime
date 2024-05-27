@@ -1,0 +1,52 @@
+{
+  "id": 2,
+  "name": "Ice Slime",
+  "localizedNames": {
+    "en": "Ice Slime",
+    "ko": "얼음 슬라임",
+    "jp": "アイススライム",
+    "zh-CN": "冰史莱姆",
+    "es": "Slime de Hielo",
+    "fr": "Slime de Glace",
+    "de": "Eis-Schleim",
+    "pt": "Slime de Gelo",
+    "ru": "Ледяной Слайм",
+    "ar": "سلايم الجليد",
+    "hi": "बर्फ स्लाइम"
+  },
+  "description": "A cool and composed ice blue slime. It can freeze its surroundings and remains calm under pressure. In the Slime Project, Ice Slime is known for its ability to control temperature and create ice structures. Researchers study its properties to develop new methods of preservation and cooling. Despite its cold exterior, Ice Slime often assists other slimes by using its freezing abilities to enhance their powers. Its calm demeanor under pressure makes it a reliable part of the team, essential for critical experiments and breakthroughs.",
+  "localizedDescriptions": {
+    "en": "A cool and composed ice blue slime. It can freeze its surroundings and remains calm under pressure. In the Slime Project, Ice Slime is known for its ability to control temperature and create ice structures. Researchers study its properties to develop new methods of preservation and cooling. Despite its cold exterior, Ice Slime often assists other slimes by using its freezing abilities to enhance their powers. Its calm demeanor under pressure makes it a reliable part of the team, essential for critical experiments and breakthroughs.",
+    "ko": "차갑고 침착한 얼음 슬라임입니다. 주변을 얼릴 수 있으며 압박 속에서도 침착함을 유지합니다. 슬라임 프로젝트에서 얼음 슬라임은 온도 조절 및 얼음 구조물 생성 능력으로 유명합니다. 연구자들은 이를 연구하여 새로운 보존 및 냉각 방법을 개발합니다. 차가운 외관에도 불구하고, 얼음 슬라임은 다른 슬라임들을 도와 그들의 능력을 강화하는 데 자주 사용됩니다. 위기 상황에서도 침착한 태도 덕분에 팀의 신뢰할 수 있는 일원이자 중요한 실험과 돌파구를 위한 필수 요소입니다.",
+    "jp": "冷たくて落ち着いたアイスブルーのスライムです。周囲を凍らせることができ、プレッシャーに負けず冷静さを保ちます。スライムプロジェクトでは、温度を制御し氷の構造を作り出す能力で知られています。研究者たちはその特性を研究し、新しい保存および冷却方法を開発しています。冷たい外観にもかかわらず、アイススライムは他のスライムを助けてその能力を強化するためによく使用されます。危機の際にも冷静な態度のおかげで、チームの信頼できるメンバーであり、重要な実験や突破口のための必須要素です。",
+    "zh-CN": "一种冷静的冰蓝色史莱姆。 它可以冻结周围环境，在压力下保持冷静。 在史莱姆项目中，冰史莱姆因其控制温度和创造冰结构的能力而闻名。 研究人员研究其特性以开发新的保存和冷却方法。 尽管外表冰冷，冰史莱姆经常通过使用其冷冻能力来增强其他史莱姆的能力。 在压力下它的冷静态度使它成为团队中可靠的一部分，对于关键实验和突破至关重要。",
+    "es": "Un slime azul hielo fresco y compuesto. Puede congelar su entorno y permanece tranquilo bajo presión. En el Proyecto Slime, el Slime de Hielo es conocido por su capacidad para controlar la temperatura y crear estructuras de hielo. Los investigadores estudian sus propiedades para desarrollar nuevos métodos de preservación y enfriamiento. A pesar de su exterior frío, el Slime de Hielo a menudo ayuda a otros slimes utilizando sus habilidades de congelación para mejorar sus poderes. Su actitud tranquila bajo presión lo convierte en una parte confiable del equipo, esencial para experimentos críticos y avances.",
+    "fr": "Un slime bleu glace frais et composé. Il peut geler son environnement et reste calme sous pression. Dans le Projet Slime, le Slime de Glace est connu pour sa capacité à contrôler la température et à créer des structures de glace. Les chercheurs étudient ses propriétés pour développer de nouvelles méthodes de conservation et de refroidissement. Malgré son extérieur froid, le Slime de Glace aide souvent les autres slimes en utilisant ses capacités de congélation pour améliorer leurs pouvoirs. Son attitude calme sous pression en fait un élément fiable de l'équipe, essentiel pour les expériences critiques et les percées.",
+    "de": "Ein kühler und zusammengesetzter eisblauer Schleim. Er kann seine Umgebung einfrieren und bleibt unter Druck ruhig. Im Slime-Projekt ist der Eis-Schleim für seine Fähigkeit bekannt, die Temperatur zu kontrollieren und Eisstrukturen zu erzeugen. Forscher untersuchen seine Eigenschaften, um neue Methoden zur Konservierung und Kühlung zu entwickeln. Trotz seines kalten Äußeren hilft der Eis-Schleim oft anderen Schleimen, indem er seine Gefrierfähigkeiten nutzt, um ihre Kräfte zu verstärken. Seine ruhige Haltung unter Druck macht ihn zu einem zuverlässigen Teil des Teams, der für kritische Experimente und Durchbrüche unerlässlich ist.",
+    "pt": "Um slime azul gelo fresco e composto. Ele pode congelar seus arredores e permanece calmo sob pressão. No Projeto Slime, o Slime de Gelo é conhecido por sua capacidade de controlar a temperatura e criar estruturas de gelo. Os pesquisadores estudam suas propriedades para desenvolver novos métodos de preservação e resfriamento. Apesar de seu exterior frio, o Slime de Gelo frequentemente ajuda outros slimes, usando suas habilidades de congelamento para aprimorar seus poderes. Sua postura calma sob pressão o torna uma parte confiável da equipe, essencial para experimentos críticos e avanços.",
+    "ru": "Прохладный и спокойный ледяной слайм. Он может замораживать окружающую среду и сохранять спокойствие под давлением. В проекте Slime ледяной слайм известен своей способностью контролировать температуру и создавать ледяные структуры. Исследователи изучают его свойства для разработки новых методов сохранения и охлаждения. Несмотря на свой холодный внешний вид, ледяной слайм часто помогает другим слаймам, используя свои способности к замораживанию для усиления их сил. Его спокойное поведение под давлением делает его надежной частью команды, необходимой для критических экспериментов и прорывов.",
+    "ar": "سلايم أزرق جليدي بارد وهادئ. يمكنه تجميد محيطه ويظل هادئًا تحت الضغط. في مشروع السلايم، يُعرف السلايم الجليدي بقدرته على التحكم في درجة الحرارة وإنشاء هياكل الجليد. يدرس الباحثون خصائصه لتطوير طرق جديدة للحفظ والتبريد. على الرغم من مظهره البارد، غالبًا ما يساعد السلايم الجليدي السلايمات الأخرى باستخدام قدراته في التجميد لتعزيز قواها. إن سلوكه الهادئ تحت الضغط يجعله جزءًا موثوقًا من الفريق، وهو أمر ضروري للتجارب والاختراقات الحرجة.",
+    "hi": "एक ठंडा और संयमित बर्फ नीला स्लाइम। यह अपने परिवेश को फ्रीज कर सकता है और दबाव में शांत रहता है। स्लाइम प्रोजेक्ट में, आइस स्लाइम तापमान को नियंत्रित करने और बर्फ की संरचनाएं बनाने की अपनी क्षमता के लिए जाना जाता है। शोधकर्ता इसके गुणों का अध्ययन नए संरक्षण और शीतलन तरीकों को विकसित करने के लिए करते हैं। इसके ठंडे बाहरी हिस्से के बावजूद, आइस स्लाइम अक्सर अन्य स्लाइम्स की उनकी शक्तियों को बढ़ाने के लिए अपनी फ्रीजिंग क्षमताओं का उपयोग करके सहायता करता है। दबाव में इसका शांत व्यवहार इसे टीम का एक विश्वसनीय हिस्सा बनाता है, जो महत्वपूर्ण प्रयोगों और सफलताओं के लिए आवश्यक है।"
+  },
+  "scene": "https://prod.spline.design/BjYNnJXlEEhhBPD4/scene.splinecode",
+  "image": "file-myIsoJm1p3b5LqD08ieXUlF3",
+  "image_name": "ice_slime.png",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Composed"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Freeze"
+    }
+  ]
+}

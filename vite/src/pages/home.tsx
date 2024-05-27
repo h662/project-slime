@@ -6,7 +6,6 @@ import { FaAngleUp } from "react-icons/fa6";
 
 import { OutletContext } from "../components/Layout";
 import BottomSlimeCard from "../components/BottomSlimeCard";
-import slimeData from "../assets/slimeData.json";
 
 const Home: FC = () => {
   const [isClick, setIsClick] = useState<boolean>(false);
@@ -15,9 +14,7 @@ const Home: FC = () => {
 
   const sliderRef = useRef<any>(null);
 
-  const testRef = useRef<any>(null);
-
-  const { currentSlimeData } = useOutletContext<OutletContext>();
+  const { metadata, currentMetadata } = useOutletContext<OutletContext>();
 
   useEffect(() => {
     if (window.screen.width >= 768) {
@@ -30,17 +27,16 @@ const Home: FC = () => {
   useEffect(() => {
     if (!sliderRef) return;
 
-    sliderRef?.current?.slickGoTo(Math.floor(Math.random() * slimeData.length));
+    sliderRef?.current?.slickGoTo(Math.floor(Math.random() * metadata.length));
   }, []);
 
   return (
     <>
       <section className="min-h-screen flex justify-center items-center">
-        {scale && (
+        {currentMetadata && scale && (
           <Spline
             style={{ width: "100vw", height: "100vh" }}
-            ref={testRef}
-            scene={currentSlimeData.scene}
+            scene={currentMetadata.scene}
             onLoad={(spline) => spline.setZoom(scale)}
           />
         )}
@@ -66,7 +62,7 @@ const Home: FC = () => {
             slidesToShow={slidesToShow}
             slidesToScroll={1}
           >
-            {slimeData.map((v, i) => (
+            {metadata.map((v, i) => (
               <BottomSlimeCard key={i} slimeData={v} />
             ))}
           </Slider>
