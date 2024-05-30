@@ -1,5 +1,8 @@
 res
 .env
+.deps
+artifacts
+.states
 
 # Logs
 logs

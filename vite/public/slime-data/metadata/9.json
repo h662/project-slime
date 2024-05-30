@@ -1,0 +1,53 @@
+{
+  "id": 9,
+  "name": "Planet Slime",
+  "localizedNames": {
+    "en": "Planet Slime",
+    "ko": "행성 슬라임",
+    "jp": "惑星スライム",
+    "zh-CN": "行星史莱姆",
+    "es": "Slime de Planeta",
+    "fr": "Slime Planète",
+    "de": "Planeten-Schleim",
+    "pt": "Slime Planeta",
+    "ru": "Планетный Слайм",
+    "ar": "سلايم كوكب",
+    "hi": "ग्रह स्लाइम"
+  },
+  "description": "A unique slime resembling a planet, complete with rings. It embodies the mystery and beauty of the cosmos. In the Slime Project, Planet Slime is revered for its cosmic attributes. Researchers study its structure to understand more about space and otherworldly elements. Despite its alien appearance, Planet Slime plays a vital role in inspiring curiosity and innovation among the team. Its ability to represent the vastness and wonder of space makes it a standout character in the research team.",
+  "localizedDescriptions": {
+    "en": "A unique slime resembling a planet, complete with rings. It embodies the mystery and beauty of the cosmos. In the Slime Project, Planet Slime is revered for its cosmic attributes. Researchers study its structure to understand more about space and otherworldly elements. Despite its alien appearance, Planet Slime plays a vital role in inspiring curiosity and innovation among the team. Its ability to represent the vastness and wonder of space makes it a standout character in the research team.",
+    "ko": "고리와 함께 행성을 닮은 독특한 슬라임입니다. 우주의 신비와 아름다움을 구현하고 있습니다. 슬라임 프로젝트에서 행성 슬라임은 그 우주적 속성으로 존경받고 있습니다. 연구자들은 공간과 외계 요소에 대해 더 많이 이해하기 위해 그 구조를 연구합니다. 외계적 외관에도 불구하고, 행성 슬라임은 팀 내 호기심과 혁신을 자극하는 데 중요한 역할을 합니다. 우주의 광대함과 경이로움을 표현할 수 있는 능력 덕분에 연구팀에서 두드러진 캐릭터입니다.",
+    "jp": "リング付きの惑星に似たユニークなスライムです。宇宙の神秘と美しさを体現しています。スライムプロジェクトでは、その宇宙的な特性から惑星スライムが崇拝されています。研究者たちは、空間と異世界の要素についてもっと理解するためにその構造を研究しています。異星の外見にもかかわらず、惑星スライムはチームの好奇心とイノベーションを刺激する上で重要な役割を果たしています。宇宙の広大さと不思議さを表現する能力のおかげで、研究チームの中で目立つキャラクターです。",
+    "zh-CN": "一种独特的史莱姆，类似于带有环的行星。 它体现了宇宙的神秘和美丽。 在史莱姆项目中，行星史莱姆因其宇宙属性而备受推崇。 研究人员研究其结构以了解更多关于空间和外星元素的知识。 尽管其外星外观，行星史莱姆在激发团队的好奇心和创新方面发挥着至关重要的作用。 它能够代表宇宙的广阔性和奇妙性，使其成为研究团队中引人注目的角色。",
+    "es": "Un slime único que se asemeja a un planeta, completo con anillos. Encierra el misterio y la belleza del cosmos. En el Proyecto Slime, el Slime de Planeta es reverenciado por sus atributos cósmicos. Los investigadores estudian su estructura para entender más sobre el espacio y los elementos de otro mundo. A pesar de su apariencia alienígena, el Slime de Planeta juega un papel vital en la inspiración de la curiosidad y la innovación entre el equipo. Su capacidad para representar la inmensidad y la maravilla del espacio lo convierte en un personaje destacado en el equipo de investigación.",
+    "fr": "Un slime unique ressemblant à une planète, avec des anneaux. Il incarne le mystère et la beauté du cosmos. Dans le Projet Slime, le Slime Planète est révéré pour ses attributs cosmiques. Les chercheurs étudient sa structure pour mieux comprendre l'espace et les éléments extraterrestres. Malgré son apparence extraterrestre, le Slime Planète joue un rôle vital dans l'inspiration de la curiosité et de l'innovation au sein de l'équipe. Sa capacité à représenter l'immensité et la merveille de l'espace en fait un personnage exceptionnel dans l'équipe de recherche.",
+    "de": "Ein einzigartiger Schleim, der einem Planeten ähnelt, komplett mit Ringen. Er verkörpert das Geheimnis und die Schönheit des Kosmos. Im Slime-Projekt wird der Planeten-Schleim für seine kosmischen Eigenschaften verehrt. Forscher untersuchen seine Struktur, um mehr über den Weltraum und außerirdische Elemente zu erfahren. Trotz seines außerirdischen Aussehens spielt der Planeten-Schleim eine wichtige Rolle bei der Inspiration von Neugier und Innovation im Team. Seine Fähigkeit, die Weite und das Wunder des Weltraums darzustellen, macht ihn zu einem herausragenden Charakter im Forschungsteam.",
+    "pt": "Um slime único que se assemelha a um planeta, completo com anéis. Ele incorpora o mistério e a beleza do cosmos. No Projeto Slime, o Slime Planeta é reverenciado por seus atributos cósmicos. Os pesquisadores estudam sua estrutura para entender mais sobre o espaço e os elementos de outro mundo. Apesar de sua aparência alienígena, o Slime Planeta desempenha um papel vital em inspirar curiosidade e inovação entre a equipe. Sua capacidade de representar a vastidão e a maravilha do espaço o torna um personagem de destaque na equipe de pesquisa.",
+    "ru": "Уникальный слайм, напоминающий планету с кольцами. Он воплощает в себе тайну и красоту космоса. В проекте Slime планетный слайм почитается за его космические свойства. Исследователи изучают его структуру, чтобы лучше понять космос и внеземные элементы. Несмотря на его инопланетный вид, планетный слайм играет важную роль в вдохновении любопытства и инноваций в команде. Его способность представлять огромность и чудо космоса делает его выдающимся персонажем в исследовательской команде.",
+    "ar": "سلايم فريد يشبه كوكبًا، مزودًا بحلقات. يجسد غموض وجمال الكون. في مشروع السلايم، يُقدَّر سلايم الكوكب لخصائصه الكونية. يدرس الباحثون هيكله لفهم المزيد عن الفضاء والعناصر الغريبة. على الرغم من مظهره الغريب، يلعب سلايم الكوكب دورًا حيويًا في إلهام الفضول والابتكار بين الفريق. قدرته على تمثيل اتساع وعجائب الفضاء تجعله شخصية بارزة في فريق البحث.",
+    "hi": "एक अनोखा स्लाइम जो छल्लों के साथ एक ग्रह जैसा दिखता है। यह ब्रह्मांड के रहस्य और सुंदरता को समाहित करता है। स्लाइम प्रोजेक्ट में, ग्रह स्लाइम को इसके ब्रह्मांडीय गुणों के लिए सम्मानित किया जाता है। शोधकर्ता इसके ढांचे का अध्ययन करते हैं ताकि अंतरिक्ष और अन्य दुनिया के तत्वों के बारे में अधिक समझ सकें। इसके विदेशी रूप के बावजूद, ग्रह स्लाइम टीम के बीच जिज्ञासा और नवाचार को प्रेरित करने में एक महत्वपूर्ण भूमिका निभाता है। अंतरिक्ष की विशालता और आश्चर्य को दर्शाने की इसकी क्षमता इसे अनुसंधान टीम में एक प्रमुख चरित्र बनाती है।"
+  },
+  "scene": "https://prod.spline.design/MTcBB8k5eSmZA7l8/scene.splinecode",
+  "image": "https://slime-project.mypinata.cloud/ipfs/Qmbk9mXZfi4jMVCj76ZxhjHkfccAYHnyafWq7E7SZCAXJR",
+  "image_name": "planet_slime.png",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Planet"
+    },
+    {
+      "trait_type": "Rings",
+      "value": "Present"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Mysterious"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Inspire Curiosity"
+    }
+  ],
+  "birthday": ""
+}
