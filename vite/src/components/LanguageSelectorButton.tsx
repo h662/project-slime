@@ -12,7 +12,7 @@ const LanguageSelectorButton: FC<LanguageSelectorButtonProps> = ({ lng }) => {
 
   return (
     <li
-      className="cursor-pointer language-button-style"
+      className="cursor-pointer button-style-sm"
       onClick={onClickChangeLanguage}
     >
       {languageNames[lng]}

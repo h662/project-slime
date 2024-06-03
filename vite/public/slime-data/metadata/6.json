@@ -29,7 +29,7 @@
     "hi": "एक जीवंत और ऊर्जावान गुलाब-सुगंधित स्लाइम। यह ऊर्जा और सकारात्मकता को संक्रमित करने की अपनी क्षमता के लिए जाना जाता है। स्लाइम प्रोजेक्ट में, परफ्यूम स्लाइम (गुलाब) को इसकी जीवंत उपस्थिति के लिए मनाया जाता है। शोधकर्ता इसके गुणों का अध्ययन नए तरीकों को विकसित करने के लिए करते हैं। इसकी ऊर्जावान प्रकृति के बावजूद, गुलाब स्लाइम टीम की आत्माओं को ऊपर उठाने में महत्वपूर्ण भूमिका निभाता है। अपनी अनूठी ऊर्जा और ऊर्जावान क्षमता के कारण यह लंबे प्रयोगों के दौरान शोध टीम का एक अनिवार्य हिस्सा बनाता है।"
   },
   "scene": "https://prod.spline.design/t0LxBNYYfm6RiIrP/scene.splinecode",
-  "image": "file-UeUUwlGUqoSL3Z9z6VaTQXZi",
+  "image": "https://slime-project.mypinata.cloud/ipfs/QmQGeUEpYTqik5F2a7zhmz7eu7FLi9xiXSHJdciuT3yucW",
   "image_name": "perfume_slime_rose.png",
   "attributes": [
     {
@@ -52,5 +52,6 @@
       "trait_type": "Relationship",
       "value": "Twin"
     }
-  ]
+  ],
+  "birthday": "2024-06-02"
 }

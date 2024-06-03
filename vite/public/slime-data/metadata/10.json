@@ -1,0 +1,53 @@
+{
+  "id": 10,
+  "name": "Sad Emoji Slime",
+  "localizedNames": {
+    "en": "Sad Emoji Slime",
+    "ko": "슬픈 이모지 슬라임",
+    "jp": "悲しい絵文字スライム",
+    "zh-CN": "悲伤表情史莱姆",
+    "es": "Slime de Emoji Triste",
+    "fr": "Slime Émoji Triste",
+    "de": "Trauriger Emoji-Schleim",
+    "pt": "Slime de Emoji Triste",
+    "ru": "Грустный Эмодзи Слайм",
+    "ar": "سلايم الوجه الحزين",
+    "hi": "दुखी इमोजी स्लाइम"
+  },
+  "description": "A unique slime that takes the form of a sad emoji. It embodies emotions and helps to express feelings in the Slime Project. Researchers study its structure to understand more about emotional representation in digital forms. Despite its sad appearance, Sad Emoji Slime plays a vital role in helping the team explore the emotional aspects of their creations.",
+  "localizedDescriptions": {
+    "en": "A unique slime that takes the form of a sad emoji. It embodies emotions and helps to express feelings in the Slime Project. Researchers study its structure to understand more about emotional representation in digital forms. Despite its sad appearance, Sad Emoji Slime plays a vital role in helping the team explore the emotional aspects of their creations.",
+    "ko": "슬픈 이모지 형태를 취한 독특한 슬라임입니다. 감정을 구현하고 슬라임 프로젝트에서 감정을 표현하는 데 도움을 줍니다. 연구자들은 디지털 형태로 감정 표현을 이해하기 위해 그 구조를 연구합니다. 슬픈 외모에도 불구하고, 슬픈 이모지 슬라임은 팀이 창작물의 감정적 측면을 탐구하는 데 중요한 역할을 합니다.",
+    "jp": "悲しい絵文字の形をしたユニークなスライムです。感情を体現し、スライムプロジェクトで感情を表現するのに役立ちます。研究者たちは、デジタル形式での感情表現について理解するためにその構造を研究しています。悲しい外見にもかかわらず、悲しい絵文字スライムはチームが創作物の感情的な側面を探求するのに重要な役割を果たしています。",
+    "zh-CN": "一种独特的史莱姆，呈现悲伤表情符号的形态。 它体现了情感，并帮助在史莱姆项目中表达感情。 研究人员研究其结构以了解更多关于情感在数字形式中的表达。 尽管其外表悲伤，悲伤表情史莱姆在帮助团队探索其创作物的情感方面发挥着至关重要的作用。",
+    "es": "Un slime único que toma la forma de un emoji triste. Encierra emociones y ayuda a expresar sentimientos en el Proyecto Slime. Los investigadores estudian su estructura para entender más sobre la representación emocional en formas digitales. A pesar de su apariencia triste, el Slime de Emoji Triste juega un papel vital en ayudar al equipo a explorar los aspectos emocionales de sus creaciones.",
+    "fr": "Un slime unique qui prend la forme d'un émoji triste. Il incarne des émotions et aide à exprimer des sentiments dans le Projet Slime. Les chercheurs étudient sa structure pour mieux comprendre la représentation émotionnelle sous forme numérique. Malgré son apparence triste, le Slime Émoji Triste joue un rôle essentiel en aidant l'équipe à explorer les aspects émotionnels de leurs créations.",
+    "de": "Ein einzigartiger Schleim, der die Form eines traurigen Emojis annimmt. Er verkörpert Emotionen und hilft, Gefühle im Slime-Projekt auszudrücken. Forscher untersuchen seine Struktur, um mehr über die emotionale Darstellung in digitalen Formen zu verstehen. Trotz seines traurigen Aussehens spielt der traurige Emoji-Schleim eine wichtige Rolle dabei, dem Team zu helfen, die emotionalen Aspekte ihrer Kreationen zu erkunden.",
+    "pt": "Um slime único que assume a forma de um emoji triste. Incorpora emoções e ajuda a expressar sentimentos no Projeto Slime. Os pesquisadores estudam sua estrutura para entender mais sobre a representação emocional em formas digitais. Apesar de sua aparência triste, o Slime de Emoji Triste desempenha um papel vital em ajudar a equipe a explorar os aspectos emocionais de suas criações.",
+    "ru": "Уникальный слайм, который принимает форму грустного эмодзи. Он воплощает эмоции и помогает выражать чувства в проекте Slime. Исследователи изучают его структуру, чтобы лучше понять эмоциональное представление в цифровых формах. Несмотря на его грустный вид, грустный эмодзи-слайм играет важную роль в помощи команде в изучении эмоциональных аспектов их творений.",
+    "ar": "سلايم فريد يأخذ شكل وجه حزين. يجسد العواطف ويساعد في التعبير عن المشاعر في مشروع السلايم. يدرس الباحثون هيكله لفهم المزيد عن التمثيل العاطفي في الأشكال الرقمية. على الرغم من مظهره الحزين، يلعب سلايم الوجه الحزين دورًا حيويًا في مساعدة الفريق على استكشاف الجوانب العاطفية لإبداعاتهم.",
+    "hi": "एक अनोखा स्लाइम जो उदास इमोजी का रूप लेता है। यह भावनाओं को समाहित करता है और स्लाइम प्रोजेक्ट में भावनाओं को व्यक्त करने में मदद करता है। शोधकर्ता इसके ढांचे का अध्ययन करते हैं ताकि डिजिटल रूपों में भावनात्मक प्रतिनिधित्व के बारे में अधिक समझ सकें। इसके दुखी रूप के बावजूद, दुखी इमोजी स्लाइम टीम को उनकी रचनाओं के भावनात्मक पहलुओं का पता लगाने में मदद करने में एक महत्वपूर्ण भूमिका निभाता है।"
+  },
+  "scene": "https://prod.spline.design/cJnM7qTHnWEc-tpX/scene.splinecode",
+  "image": "",
+  "image_name": "sad_emoji_slime.png",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Emotion",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Emotional"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Express Feelings"
+    }
+  ],
+  "birthday": ""
+}

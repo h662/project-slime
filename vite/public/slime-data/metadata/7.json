@@ -29,7 +29,7 @@
     "hi": "एक उपचार करने वाला स्लाइम जो एक गोली जैसा दिखता है। इसमें चोटों को ठीक करने और जीवन शक्ति को बहाल करने की अनूठी क्षमता है। स्लाइम प्रोजेक्ट में, इसके उपचार गुणों के लिए गोली स्लाइम को अत्यधिक महत्व दिया जाता है। शोधकर्ता नई चिकित्सा अनुप्रयोगों को विकसित करने और अन्य स्लाइम्स के स्वास्थ्य में सुधार करने के लिए इसकी क्षमताओं का अध्ययन करते हैं। छोटे आकार के बावजूद, पिल स्लाइम टीम की भलाई बनाए रखने में महत्वपूर्ण भूमिका निभाता है, यह सुनिश्चित करता है कि उनके प्रयोगों के लिए हर कोई शीर्ष स्थिति में है।"
   },
   "scene": "https://prod.spline.design/J8aMR0qi6LQUlcyw/scene.splinecode",
-  "image": "file-sUSsVmWO7mM3h26eLFE2yNpk",
+  "image": "https://slime-project.mypinata.cloud/ipfs/QmejMVwsBmJENhnyUA1rVLJdemVpvVRVppSBK8VbWZ9QPj",
   "image_name": "pill_slime.png",
   "attributes": [
     {
@@ -48,5 +48,6 @@
       "trait_type": "Ability",
       "value": "Restore Vitality"
     }
-  ]
+  ],
+  "birthday": "2024-06-03"
 }

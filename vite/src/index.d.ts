@@ -16,3 +16,9 @@ interface SlimeMetadata {
   image_name: string;
   attributes: SlimeAttributes[];
 }
+
+interface OutletContext {
+  metadata: SlimeMetadata[];
+  currentMetadata: SlimeMetadata;
+  setCurrentMetadata: Dispatch<SetStateAction<SlimeMetadata>>;
+}

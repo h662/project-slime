@@ -2,18 +2,18 @@ import { FC, useState } from "react";
 
 import { useOutletContext } from "react-router-dom";
 
-interface BottomSlimeCardProps {
+interface SlimeCardProps {
   slimeData: SlimeMetadata;
 }
 
-const BottomSlimeCard: FC<BottomSlimeCardProps> = ({ slimeData }) => {
+const SlimeCard: FC<SlimeCardProps> = ({ slimeData }) => {
   const [isClicked, setIsClicked] = useState<boolean>(false);
 
   const { setCurrentMetadata } = useOutletContext<OutletContext>();
 
   return (
-    <div
-      className={`relative w-60 h-60 cursor-pointer ${
+    <li
+      className={`w-full cursor-pointer ${
         isClicked ? "transition delay-150 duration-300 scale-110" : ""
       }`}
       onClick={() => setCurrentMetadata(slimeData)}
@@ -26,8 +26,8 @@ const BottomSlimeCard: FC<BottomSlimeCardProps> = ({ slimeData }) => {
         src={`/slime-data/images/${slimeData.image_name}`}
         alt={slimeData.name}
       />
-    </div>
+    </li>
   );
 };
 
-export default BottomSlimeCard;
+export default SlimeCard;

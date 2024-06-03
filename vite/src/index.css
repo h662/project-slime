@@ -29,12 +29,12 @@
     @apply w-12 md:w-16 h-12 md:h-16 rounded-lg shadow-md flex justify-center items-center;
   }
 
-  .language-button-style {
+  .button-style-sm {
     @apply bg-opacity-0 bg-white px-2 rounded-full shadow-md hover:bg-slimeGreen-300 active:bg-slimeGreen-200;
   }
 }
 
-ul > div > div > div > div > div {
+div > div > div > div > div > div {
   display: flex;
   justify-content: center;
   align-items: center;

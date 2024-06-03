@@ -1,13 +1,7 @@
-import { Dispatch, FC, SetStateAction, useEffect, useState } from "react";
+import { FC, useEffect, useState } from "react";
 import { Outlet, useNavigate } from "react-router-dom";
 import Header from "./Header";
 import i18n, { supportedLngs } from "../lib/i18n";
-
-export interface OutletContext {
-  metadata: SlimeMetadata[];
-  currentMetadata: SlimeMetadata;
-  setCurrentMetadata: Dispatch<SetStateAction<SlimeMetadata>>;
-}
 
 const Layout: FC = () => {
   const [metadata, setMetadata] = useState<SlimeMetadata[]>([]);
@@ -29,6 +23,7 @@ const Layout: FC = () => {
         "7.json",
         "8.json",
         "9.json",
+        "10.json",
       ];
 
       const fetches = fileNames.map((v) =>

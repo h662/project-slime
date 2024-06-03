@@ -5,23 +5,21 @@ import { useTranslation } from "react-i18next";
 import { supportedLngs } from "../lib/i18n";
 
 const LanguageSelector: FC = () => {
-  const [isClicked, setIsClicked] = useState(false);
+  const [isClickeded, setIsClickeded] = useState(false);
 
   const { t } = useTranslation();
 
   return (
     <div>
       <button
-        className={`mb-1 language-button-style ${
-          isClicked && "bg-slimeGreen-300"
-        }`}
-        onClick={() => setIsClicked(!isClicked)}
+        className={`mb-1 button-style-sm ${isClickeded && "bg-slimeGreen-300"}`}
+        onClick={() => setIsClickeded(!isClickeded)}
       >
         {t("languageSelection")}
       </button>
       <ul
         className={`flex flex-col gap-1 transition delay-150 duration-300 ease-in-out ${
-          isClicked ? "opacity-100" : "opacity-0 -translate-y-2"
+          isClickeded ? "opacity-100" : "opacity-0 -translate-y-2"
         }`}
       >
         {supportedLngs.map((v, i) => (
