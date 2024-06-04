@@ -1,6 +1,6 @@
 import { FC, useState } from "react";
 import { FaPowerOff } from "react-icons/fa6";
-import { Link, useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import Logo from "../icons/Logo";
 import { useTranslation } from "react-i18next";
 import LanguageSelector from "./LanguageSelector";
