@@ -49,5 +49,205 @@
       "value": "Cooling"
     }
   ],
+  "localizedAttributes": {
+    "en": [
+      {
+        "trait_type": "Body",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Stick"
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Cheerful"
+      },
+      {
+        "trait_type": "Ability",
+        "value": "Cooling"
+      }
+    ],
+    "ko": [
+      {
+        "trait_type": "몸",
+        "value": "주황"
+      },
+      {
+        "trait_type": "형태",
+        "value": "막대"
+      },
+      {
+        "trait_type": "성격",
+        "value": "명랑한"
+      },
+      {
+        "trait_type": "능력",
+        "value": "냉각"
+      }
+    ],
+    "jp": [
+      {
+        "trait_type": "体",
+        "value": "オレンジ"
+      },
+      {
+        "trait_type": "形",
+        "value": "スティック"
+      },
+      {
+        "trait_type": "性格",
+        "value": "陽気"
+      },
+      {
+        "trait_type": "能力",
+        "value": "冷却"
+      }
+    ],
+    "zh-CN": [
+      {
+        "trait_type": "身体",
+        "value": "橙色"
+      },
+      {
+        "trait_type": "形状",
+        "value": "棒状"
+      },
+      {
+        "trait_type": "性格",
+        "value": "开朗"
+      },
+      {
+        "trait_type": "能力",
+        "value": "冷却"
+      }
+    ],
+    "es": [
+      {
+        "trait_type": "Cuerpo",
+        "value": "Naranja"
+      },
+      {
+        "trait_type": "Forma",
+        "value": "Palo"
+      },
+      {
+        "trait_type": "Personalidad",
+        "value": "Alegre"
+      },
+      {
+        "trait_type": "Habilidad",
+        "value": "Enfriamiento"
+      }
+    ],
+    "fr": [
+      {
+        "trait_type": "Corps",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Forme",
+        "value": "Bâton"
+      },
+      {
+        "trait_type": "Personnalité",
+        "value": "Enjoué"
+      },
+      {
+        "trait_type": "Capacité",
+        "value": "Refroidissement"
+      }
+    ],
+    "de": [
+      {
+        "trait_type": "Körper",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Form",
+        "value": "Stock"
+      },
+      {
+        "trait_type": "Persönlichkeit",
+        "value": "Fröhlich"
+      },
+      {
+        "trait_type": "Fähigkeit",
+        "value": "Kühlung"
+      }
+    ],
+    "pt": [
+      {
+        "trait_type": "Corpo",
+        "value": "Laranja"
+      },
+      {
+        "trait_type": "Forma",
+        "value": "Pau"
+      },
+      {
+        "trait_type": "Personalidade",
+        "value": "Alegre"
+      },
+      {
+        "trait_type": "Habilidade",
+        "value": "Resfriamento"
+      }
+    ],
+    "ru": [
+      {
+        "trait_type": "Тело",
+        "value": "Оранжевый"
+      },
+      {
+        "trait_type": "Форма",
+        "value": "Палочка"
+      },
+      {
+        "trait_type": "Характер",
+        "value": "Веселый"
+      },
+      {
+        "trait_type": "Способность",
+        "value": "Охлаждение"
+      }
+    ],
+    "ar": [
+      {
+        "trait_type": "الجسم",
+        "value": "برتقالي"
+      },
+      {
+        "trait_type": "شكل",
+        "value": "عصا"
+      },
+      {
+        "trait_type": "شخصية",
+        "value": "مرح"
+      },
+      {
+        "trait_type": "قدرة",
+        "value": "تبريد"
+      }
+    ],
+    "hi": [
+      {
+        "trait_type": "शरीर",
+        "value": "नारंगी"
+      },
+      {
+        "trait_type": "आकार",
+        "value": "छड़ी"
+      },
+      {
+        "trait_type": "व्यक्तित्व",
+        "value": "प्रसन्नचित्त"
+      },
+      {
+        "trait_type": "क्षमता",
+        "value": "ठंडा करना"
+      }
+    ]
+  },
   "birthday": "2024-06-01"
 }

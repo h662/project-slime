@@ -49,5 +49,205 @@
       "value": "Joy Bringer"
     }
   ],
+  "localizedAttributes": {
+    "en": [
+      {
+        "trait_type": "Body",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Scent",
+        "value": "Cherry"
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Energetic"
+      },
+      {
+        "trait_type": "Ability",
+        "value": "Joy Bringer"
+      }
+    ],
+    "ko": [
+      {
+        "trait_type": "몸",
+        "value": "빨강"
+      },
+      {
+        "trait_type": "향기",
+        "value": "체리"
+      },
+      {
+        "trait_type": "성격",
+        "value": "활기찬"
+      },
+      {
+        "trait_type": "능력",
+        "value": "기쁨 전파자"
+      }
+    ],
+    "jp": [
+      {
+        "trait_type": "体",
+        "value": "赤"
+      },
+      {
+        "trait_type": "香り",
+        "value": "チェリー"
+      },
+      {
+        "trait_type": "性格",
+        "value": "元気"
+      },
+      {
+        "trait_type": "能力",
+        "value": "喜びの伝道者"
+      }
+    ],
+    "zh-CN": [
+      {
+        "trait_type": "身体",
+        "value": "红色"
+      },
+      {
+        "trait_type": "香味",
+        "value": "樱桃"
+      },
+      {
+        "trait_type": "性格",
+        "value": "充满活力"
+      },
+      {
+        "trait_type": "能力",
+        "value": "快乐传递者"
+      }
+    ],
+    "es": [
+      {
+        "trait_type": "Cuerpo",
+        "value": "Rojo"
+      },
+      {
+        "trait_type": "Aroma",
+        "value": "Cereza"
+      },
+      {
+        "trait_type": "Personalidad",
+        "value": "Enérgico"
+      },
+      {
+        "trait_type": "Habilidad",
+        "value": "Portador de Alegría"
+      }
+    ],
+    "fr": [
+      {
+        "trait_type": "Corps",
+        "value": "Rouge"
+      },
+      {
+        "trait_type": "Parfum",
+        "value": "Cerise"
+      },
+      {
+        "trait_type": "Personnalité",
+        "value": "Énergique"
+      },
+      {
+        "trait_type": "Capacité",
+        "value": "Apporteur de Joie"
+      }
+    ],
+    "de": [
+      {
+        "trait_type": "Körper",
+        "value": "Rot"
+      },
+      {
+        "trait_type": "Duft",
+        "value": "Kirsche"
+      },
+      {
+        "trait_type": "Persönlichkeit",
+        "value": "Energisch"
+      },
+      {
+        "trait_type": "Fähigkeit",
+        "value": "Freudebringer"
+      }
+    ],
+    "pt": [
+      {
+        "trait_type": "Corpo",
+        "value": "Vermelho"
+      },
+      {
+        "trait_type": "Cheiro",
+        "value": "Cereja"
+      },
+      {
+        "trait_type": "Personalidade",
+        "value": "Energético"
+      },
+      {
+        "trait_type": "Habilidade",
+        "value": "Portador de Alegria"
+      }
+    ],
+    "ru": [
+      {
+        "trait_type": "Тело",
+        "value": "Красный"
+      },
+      {
+        "trait_type": "Аромат",
+        "value": "Вишня"
+      },
+      {
+        "trait_type": "Характер",
+        "value": "Энергичный"
+      },
+      {
+        "trait_type": "Способность",
+        "value": "Приносящий Радость"
+      }
+    ],
+    "ar": [
+      {
+        "trait_type": "الجسم",
+        "value": "أحمر"
+      },
+      {
+        "trait_type": "رائحة",
+        "value": "كرز"
+      },
+      {
+        "trait_type": "شخصية",
+        "value": "نشيط"
+      },
+      {
+        "trait_type": "قدرة",
+        "value": "جالب البهجة"
+      }
+    ],
+    "hi": [
+      {
+        "trait_type": "शरीर",
+        "value": "लाल"
+      },
+      {
+        "trait_type": "सुगंध",
+        "value": "चेरी"
+      },
+      {
+        "trait_type": "व्यक्तित्व",
+        "value": "ऊर्जावान"
+      },
+      {
+        "trait_type": "क्षमता",
+        "value": "खुशी लाने वाला"
+      }
+    ]
+  },
   "birthday": "2024-05-31"
 }

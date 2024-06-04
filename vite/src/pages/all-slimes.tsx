@@ -7,7 +7,7 @@ const AllSlimes: FC = () => {
 
   return (
     <section>
-      <ul className="max-w-screen-xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 justify-items-center gap-8 p-8">
+      <ul className="max-w-screen-xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 justify-items-center gap-16 p-16">
         {metadata.map((v) => (
           <SlimeCard key={v.id} slimeData={v} />
         ))}

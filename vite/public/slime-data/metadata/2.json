@@ -49,5 +49,205 @@
       "value": "Freeze"
     }
   ],
+  "localizedAttributes": {
+    "en": [
+      {
+        "trait_type": "Body",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Ice"
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Composed"
+      },
+      {
+        "trait_type": "Ability",
+        "value": "Freeze"
+      }
+    ],
+    "ko": [
+      {
+        "trait_type": "몸",
+        "value": "파랑"
+      },
+      {
+        "trait_type": "원소",
+        "value": "얼음"
+      },
+      {
+        "trait_type": "성격",
+        "value": "침착한"
+      },
+      {
+        "trait_type": "능력",
+        "value": "얼리기"
+      }
+    ],
+    "jp": [
+      {
+        "trait_type": "体",
+        "value": "青"
+      },
+      {
+        "trait_type": "元素",
+        "value": "氷"
+      },
+      {
+        "trait_type": "性格",
+        "value": "冷静"
+      },
+      {
+        "trait_type": "能力",
+        "value": "凍らせる"
+      }
+    ],
+    "zh-CN": [
+      {
+        "trait_type": "身体",
+        "value": "蓝色"
+      },
+      {
+        "trait_type": "元素",
+        "value": "冰"
+      },
+      {
+        "trait_type": "性格",
+        "value": "镇定"
+      },
+      {
+        "trait_type": "能力",
+        "value": "冻结"
+      }
+    ],
+    "es": [
+      {
+        "trait_type": "Cuerpo",
+        "value": "Azul"
+      },
+      {
+        "trait_type": "Elemento",
+        "value": "Hielo"
+      },
+      {
+        "trait_type": "Personalidad",
+        "value": "Compuesta"
+      },
+      {
+        "trait_type": "Habilidad",
+        "value": "Congelar"
+      }
+    ],
+    "fr": [
+      {
+        "trait_type": "Corps",
+        "value": "Bleu"
+      },
+      {
+        "trait_type": "Élément",
+        "value": "Glace"
+      },
+      {
+        "trait_type": "Personnalité",
+        "value": "Composée"
+      },
+      {
+        "trait_type": "Capacité",
+        "value": "Geler"
+      }
+    ],
+    "de": [
+      {
+        "trait_type": "Körper",
+        "value": "Blau"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Eis"
+      },
+      {
+        "trait_type": "Persönlichkeit",
+        "value": "Gelassen"
+      },
+      {
+        "trait_type": "Fähigkeit",
+        "value": "Einfrieren"
+      }
+    ],
+    "pt": [
+      {
+        "trait_type": "Corpo",
+        "value": "Azul"
+      },
+      {
+        "trait_type": "Elemento",
+        "value": "Gelo"
+      },
+      {
+        "trait_type": "Personalidade",
+        "value": "Composta"
+      },
+      {
+        "trait_type": "Habilidade",
+        "value": "Congelar"
+      }
+    ],
+    "ru": [
+      {
+        "trait_type": "Тело",
+        "value": "Синий"
+      },
+      {
+        "trait_type": "Элемент",
+        "value": "Лёд"
+      },
+      {
+        "trait_type": "Характер",
+        "value": "Спокойный"
+      },
+      {
+        "trait_type": "Способность",
+        "value": "Замораживание"
+      }
+    ],
+    "ar": [
+      {
+        "trait_type": "الجسم",
+        "value": "أزرق"
+      },
+      {
+        "trait_type": "عنصر",
+        "value": "جليد"
+      },
+      {
+        "trait_type": "شخصية",
+        "value": "هادئة"
+      },
+      {
+        "trait_type": "قدرة",
+        "value": "تجميد"
+      }
+    ],
+    "hi": [
+      {
+        "trait_type": "शरीर",
+        "value": "नीला"
+      },
+      {
+        "trait_type": "तत्व",
+        "value": "बर्फ"
+      },
+      {
+        "trait_type": "व्यक्तित्व",
+        "value": "शांत"
+      },
+      {
+        "trait_type": "क्षमता",
+        "value": "जमाना"
+      }
+    ]
+  },
   "birthday": "2024-05-29"
 }

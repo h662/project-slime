@@ -49,5 +49,205 @@
       "value": "Restore Vitality"
     }
   ],
+  "localizedAttributes": {
+    "en": [
+      {
+        "trait_type": "Body",
+        "value": "Red and Blue"
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Pill"
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Healing"
+      },
+      {
+        "trait_type": "Ability",
+        "value": "Restore Vitality"
+      }
+    ],
+    "ko": [
+      {
+        "trait_type": "몸",
+        "value": "빨강과 파랑"
+      },
+      {
+        "trait_type": "모양",
+        "value": "알약"
+      },
+      {
+        "trait_type": "성격",
+        "value": "치유"
+      },
+      {
+        "trait_type": "능력",
+        "value": "활력 회복"
+      }
+    ],
+    "jp": [
+      {
+        "trait_type": "体",
+        "value": "赤と青"
+      },
+      {
+        "trait_type": "形",
+        "value": "カプセル"
+      },
+      {
+        "trait_type": "性格",
+        "value": "ヒーリング"
+      },
+      {
+        "trait_type": "能力",
+        "value": "活力回復"
+      }
+    ],
+    "zh-CN": [
+      {
+        "trait_type": "身体",
+        "value": "红和蓝"
+      },
+      {
+        "trait_type": "形状",
+        "value": "药丸"
+      },
+      {
+        "trait_type": "性格",
+        "value": "治疗"
+      },
+      {
+        "trait_type": "能力",
+        "value": "恢复活力"
+      }
+    ],
+    "es": [
+      {
+        "trait_type": "Cuerpo",
+        "value": "Rojo y Azul"
+      },
+      {
+        "trait_type": "Forma",
+        "value": "Píldora"
+      },
+      {
+        "trait_type": "Personalidad",
+        "value": "Sanador"
+      },
+      {
+        "trait_type": "Habilidad",
+        "value": "Restaurar Vitalidad"
+      }
+    ],
+    "fr": [
+      {
+        "trait_type": "Corps",
+        "value": "Rouge et Bleu"
+      },
+      {
+        "trait_type": "Forme",
+        "value": "Pilule"
+      },
+      {
+        "trait_type": "Personnalité",
+        "value": "Guérisseur"
+      },
+      {
+        "trait_type": "Capacité",
+        "value": "Restaurer la Vitalité"
+      }
+    ],
+    "de": [
+      {
+        "trait_type": "Körper",
+        "value": "Rot und Blau"
+      },
+      {
+        "trait_type": "Form",
+        "value": "Pille"
+      },
+      {
+        "trait_type": "Persönlichkeit",
+        "value": "Heilung"
+      },
+      {
+        "trait_type": "Fähigkeit",
+        "value": "Vitalität Wiederherstellen"
+      }
+    ],
+    "pt": [
+      {
+        "trait_type": "Corpo",
+        "value": "Vermelho e Azul"
+      },
+      {
+        "trait_type": "Forma",
+        "value": "Pílula"
+      },
+      {
+        "trait_type": "Personalidade",
+        "value": "Cura"
+      },
+      {
+        "trait_type": "Habilidade",
+        "value": "Restaurar Vitalidade"
+      }
+    ],
+    "ru": [
+      {
+        "trait_type": "Тело",
+        "value": "Красный и Синий"
+      },
+      {
+        "trait_type": "Форма",
+        "value": "Таблетка"
+      },
+      {
+        "trait_type": "Характер",
+        "value": "Лечение"
+      },
+      {
+        "trait_type": "Способность",
+        "value": "Восстановление Жизненных Сил"
+      }
+    ],
+    "ar": [
+      {
+        "trait_type": "الجسم",
+        "value": "أحمر وأزرق"
+      },
+      {
+        "trait_type": "الشكل",
+        "value": "حبوب"
+      },
+      {
+        "trait_type": "الشخصية",
+        "value": "شفاء"
+      },
+      {
+        "trait_type": "القدرة",
+        "value": "استعادة الحيوية"
+      }
+    ],
+    "hi": [
+      {
+        "trait_type": "शरीर",
+        "value": "लाल और नीला"
+      },
+      {
+        "trait_type": "आकार",
+        "value": "गोली"
+      },
+      {
+        "trait_type": "व्यक्तित्व",
+        "value": "चिकित्सा"
+      },
+      {
+        "trait_type": "क्षमता",
+        "value": "जीवन शक्ति बहाल"
+      }
+    ]
+  },
   "birthday": "2024-06-03"
 }

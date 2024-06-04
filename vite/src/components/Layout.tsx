@@ -12,7 +12,7 @@ const Layout: FC = () => {
 
   useEffect(() => {
     const fetchMetadata = async () => {
-      const baseUrl = "slime-data/metadata/";
+      const baseUrl = "/slime-data/metadata/";
       const fileNames = [
         "1.json",
         "2.json",
@@ -45,7 +45,6 @@ const Layout: FC = () => {
   }, [metadata]);
 
   useEffect(() => {
-    console.log("Current language:", i18n.language);
     if (!i18n.language || !supportedLngs.includes(i18n.language)) {
       navigate("/ko");
     }

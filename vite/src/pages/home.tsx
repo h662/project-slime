@@ -8,16 +8,11 @@ import BottomSlimeCard from "../components/BottomSlimeCard";
 
 const Home: FC = () => {
   const [isClicked, setIsClicked] = useState<boolean>(false);
-  const [slidesToShow, setSlidesToShow] = useState<number>(1);
   const [scale, setScale] = useState<number>(window.screen.height / 1500);
 
   const { metadata, currentMetadata } = useOutletContext<OutletContext>();
 
   useEffect(() => {
-    if (window.screen.width >= 768) {
-      setSlidesToShow(3);
-    }
-
     setScale(window.screen.height / 1500);
   }, []);
 
@@ -49,7 +44,7 @@ const Home: FC = () => {
           <Slider
             infinite={true}
             speed={500}
-            slidesToShow={slidesToShow}
+            slidesToShow={window.screen.width >= 768 ? 3 : 1}
             slidesToScroll={1}
           >
             {metadata.map((v, i) => (

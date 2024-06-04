@@ -49,5 +49,205 @@
       "value": "Shape Shifting"
     }
   ],
+  "localizedAttributes": {
+    "en": [
+      {
+        "trait_type": "Body",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Origin",
+        "value": "Jelly"
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Flexible"
+      },
+      {
+        "trait_type": "Ability",
+        "value": "Shape Shifting"
+      }
+    ],
+    "ko": [
+      {
+        "trait_type": "몸",
+        "value": "초록"
+      },
+      {
+        "trait_type": "기원",
+        "value": "젤리"
+      },
+      {
+        "trait_type": "성격",
+        "value": "유연한"
+      },
+      {
+        "trait_type": "능력",
+        "value": "형태 변환"
+      }
+    ],
+    "jp": [
+      {
+        "trait_type": "体",
+        "value": "緑"
+      },
+      {
+        "trait_type": "起源",
+        "value": "ゼリー"
+      },
+      {
+        "trait_type": "性格",
+        "value": "柔軟"
+      },
+      {
+        "trait_type": "能力",
+        "value": "形状変化"
+      }
+    ],
+    "zh-CN": [
+      {
+        "trait_type": "身体",
+        "value": "绿色"
+      },
+      {
+        "trait_type": "起源",
+        "value": "果冻"
+      },
+      {
+        "trait_type": "性格",
+        "value": "灵活"
+      },
+      {
+        "trait_type": "能力",
+        "value": "变形"
+      }
+    ],
+    "es": [
+      {
+        "trait_type": "Cuerpo",
+        "value": "Verde"
+      },
+      {
+        "trait_type": "Origen",
+        "value": "Gelatina"
+      },
+      {
+        "trait_type": "Personalidad",
+        "value": "Flexible"
+      },
+      {
+        "trait_type": "Habilidad",
+        "value": "Cambio de Forma"
+      }
+    ],
+    "fr": [
+      {
+        "trait_type": "Corps",
+        "value": "Vert"
+      },
+      {
+        "trait_type": "Origine",
+        "value": "Gelée"
+      },
+      {
+        "trait_type": "Personnalité",
+        "value": "Flexible"
+      },
+      {
+        "trait_type": "Capacité",
+        "value": "Changement de Forme"
+      }
+    ],
+    "de": [
+      {
+        "trait_type": "Körper",
+        "value": "Grün"
+      },
+      {
+        "trait_type": "Herkunft",
+        "value": "Gelee"
+      },
+      {
+        "trait_type": "Persönlichkeit",
+        "value": "Flexibel"
+      },
+      {
+        "trait_type": "Fähigkeit",
+        "value": "Formveränderung"
+      }
+    ],
+    "pt": [
+      {
+        "trait_type": "Corpo",
+        "value": "Verde"
+      },
+      {
+        "trait_type": "Origem",
+        "value": "Gelatina"
+      },
+      {
+        "trait_type": "Personalidade",
+        "value": "Flexível"
+      },
+      {
+        "trait_type": "Habilidade",
+        "value": "Mudança de Forma"
+      }
+    ],
+    "ru": [
+      {
+        "trait_type": "Тело",
+        "value": "Зеленый"
+      },
+      {
+        "trait_type": "Происхождение",
+        "value": "Желе"
+      },
+      {
+        "trait_type": "Личность",
+        "value": "Гибкий"
+      },
+      {
+        "trait_type": "Способность",
+        "value": "Изменение формы"
+      }
+    ],
+    "ar": [
+      {
+        "trait_type": "جسم",
+        "value": "أخضر"
+      },
+      {
+        "trait_type": "الأصل",
+        "value": "جيلي"
+      },
+      {
+        "trait_type": "شخصية",
+        "value": "مرن"
+      },
+      {
+        "trait_type": "قدرة",
+        "value": "تغيير الشكل"
+      }
+    ],
+    "hi": [
+      {
+        "trait_type": "शरीर",
+        "value": "हरा"
+      },
+      {
+        "trait_type": "मूल",
+        "value": "जेली"
+      },
+      {
+        "trait_type": "व्यक्तित्व",
+        "value": "लचीला"
+      },
+      {
+        "trait_type": "क्षमता",
+        "value": "आकार बदलना"
+      }
+    ]
+  },
   "birthday": "2024-05-29"
 }

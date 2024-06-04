@@ -1,20 +1,51 @@
+interface Language {
+  en: string;
+  ko: string;
+  jp: string;
+  "zh-CN": string;
+  es: string;
+  fr: string;
+  de: string;
+  pt: string;
+  ru: string;
+  ar: string;
+  hi: string;
+}
+
+interface LocalizedAttributes {
+  en: SlimeAttributes[];
+  ko: SlimeAttributes[];
+  jp: SlimeAttributes[];
+  "zh-CN": SlimeAttributes[];
+  es: SlimeAttributes[];
+  fr: SlimeAttributes[];
+  de: SlimeAttributes[];
+  pt: SlimeAttributes[];
+  ru: SlimeAttributes[];
+  ar: SlimeAttributes[];
+  hi: SlimeAttributes[];
+}
+
 interface SlimeAttributes {
   trait_type: string;
   value: string;
 }
 
 interface SlimeMetadata {
-  id: number;
+  id: 1;
   name: string;
-  name_ko: string;
-  name_jp: string;
+  localizedNames: Language;
   description: string;
-  description_ko: string;
-  description_jp: string;
+  localizedDescriptions: Language;
   scene: string;
   image: string;
   image_name: string;
-  attributes: SlimeAttributes[];
+  attributes: {
+    trait_type: string;
+    value: string;
+  }[];
+  localizedAttributes: LocalizedAttributes;
+  birthday: string;
 }
 
 interface OutletContext {

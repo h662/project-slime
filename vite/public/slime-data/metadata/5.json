@@ -53,5 +53,249 @@
       "value": "Twin"
     }
   ],
+  "localizedAttributes": {
+    "en": [
+      {
+        "trait_type": "Body",
+        "value": "Light Purple"
+      },
+      {
+        "trait_type": "Scent",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Calm"
+      },
+      {
+        "trait_type": "Ability",
+        "value": "Stress Relief"
+      },
+      {
+        "trait_type": "Relationship",
+        "value": "Twin"
+      }
+    ],
+    "ko": [
+      {
+        "trait_type": "몸",
+        "value": "연보라"
+      },
+      {
+        "trait_type": "향기",
+        "value": "라벤더"
+      },
+      {
+        "trait_type": "성격",
+        "value": "차분한"
+      },
+      {
+        "trait_type": "능력",
+        "value": "스트레스 해소"
+      },
+      {
+        "trait_type": "관계",
+        "value": "쌍둥이"
+      }
+    ],
+    "jp": [
+      {
+        "trait_type": "体",
+        "value": "ライトパープル"
+      },
+      {
+        "trait_type": "香り",
+        "value": "ラベンダー"
+      },
+      {
+        "trait_type": "性格",
+        "value": "落ち着いた"
+      },
+      {
+        "trait_type": "能力",
+        "value": "ストレス緩和"
+      },
+      {
+        "trait_type": "関係",
+        "value": "双子"
+      }
+    ],
+    "zh-CN": [
+      {
+        "trait_type": "身体",
+        "value": "浅紫色"
+      },
+      {
+        "trait_type": "气味",
+        "value": "薰衣草"
+      },
+      {
+        "trait_type": "性格",
+        "value": "冷静"
+      },
+      {
+        "trait_type": "能力",
+        "value": "减压"
+      },
+      {
+        "trait_type": "关系",
+        "value": "双胞胎"
+      }
+    ],
+    "es": [
+      {
+        "trait_type": "Cuerpo",
+        "value": "Púrpura Claro"
+      },
+      {
+        "trait_type": "Fragancia",
+        "value": "Lavanda"
+      },
+      {
+        "trait_type": "Personalidad",
+        "value": "Calma"
+      },
+      {
+        "trait_type": "Habilidad",
+        "value": "Alivio del Estrés"
+      },
+      {
+        "trait_type": "Relación",
+        "value": "Gemelo"
+      }
+    ],
+    "fr": [
+      {
+        "trait_type": "Corps",
+        "value": "Violet Clair"
+      },
+      {
+        "trait_type": "Parfum",
+        "value": "Lavande"
+      },
+      {
+        "trait_type": "Personnalité",
+        "value": "Calme"
+      },
+      {
+        "trait_type": "Capacité",
+        "value": "Soulagement du Stress"
+      },
+      {
+        "trait_type": "Relation",
+        "value": "Jumeau"
+      }
+    ],
+    "de": [
+      {
+        "trait_type": "Körper",
+        "value": "Hell Lila"
+      },
+      {
+        "trait_type": "Duft",
+        "value": "Lavendel"
+      },
+      {
+        "trait_type": "Persönlichkeit",
+        "value": "Ruhig"
+      },
+      {
+        "trait_type": "Fähigkeit",
+        "value": "Stressabbau"
+      },
+      {
+        "trait_type": "Beziehung",
+        "value": "Zwilling"
+      }
+    ],
+    "pt": [
+      {
+        "trait_type": "Corpo",
+        "value": "Roxo Claro"
+      },
+      {
+        "trait_type": "Cheiro",
+        "value": "Lavanda"
+      },
+      {
+        "trait_type": "Personalidade",
+        "value": "Calmo"
+      },
+      {
+        "trait_type": "Habilidade",
+        "value": "Alívio de Estresse"
+      },
+      {
+        "trait_type": "Relação",
+        "value": "Gêmeo"
+      }
+    ],
+    "ru": [
+      {
+        "trait_type": "Тело",
+        "value": "Светло-фиолетовый"
+      },
+      {
+        "trait_type": "Аромат",
+        "value": "Лаванда"
+      },
+      {
+        "trait_type": "Характер",
+        "value": "Спокойный"
+      },
+      {
+        "trait_type": "Способность",
+        "value": "Снятие стресса"
+      },
+      {
+        "trait_type": "Отношение",
+        "value": "Близнец"
+      }
+    ],
+    "ar": [
+      {
+        "trait_type": "الجسم",
+        "value": "أرجواني فاتح"
+      },
+      {
+        "trait_type": "رائحة",
+        "value": "لافندر"
+      },
+      {
+        "trait_type": "شخصية",
+        "value": "هادئ"
+      },
+      {
+        "trait_type": "قدرة",
+        "value": "تخفيف التوتر"
+      },
+      {
+        "trait_type": "علاقة",
+        "value": "توأم"
+      }
+    ],
+    "hi": [
+      {
+        "trait_type": "शरीर",
+        "value": "हल्का बैंगनी"
+      },
+      {
+        "trait_type": "सुगंध",
+        "value": "लैवेंडर"
+      },
+      {
+        "trait_type": "व्यक्तित्व",
+        "value": "शांत"
+      },
+      {
+        "trait_type": "क्षमता",
+        "value": "तनाव निवारण"
+      },
+      {
+        "trait_type": "संबंध",
+        "value": "जुड़वां"
+      }
+    ]
+  },
   "birthday": "2024-06-02"
 }

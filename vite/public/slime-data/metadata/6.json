@@ -53,5 +53,249 @@
       "value": "Twin"
     }
   ],
+  "localizedAttributes": {
+    "en": [
+      {
+        "trait_type": "Body",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Scent",
+        "value": "Rose"
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Passionate"
+      },
+      {
+        "trait_type": "Ability",
+        "value": "Energy Boost"
+      },
+      {
+        "trait_type": "Relationship",
+        "value": "Twin"
+      }
+    ],
+    "ko": [
+      {
+        "trait_type": "몸",
+        "value": "핑크"
+      },
+      {
+        "trait_type": "향기",
+        "value": "장미"
+      },
+      {
+        "trait_type": "성격",
+        "value": "열정적인"
+      },
+      {
+        "trait_type": "능력",
+        "value": "에너지 부스트"
+      },
+      {
+        "trait_type": "관계",
+        "value": "쌍둥이"
+      }
+    ],
+    "jp": [
+      {
+        "trait_type": "体",
+        "value": "ピンク"
+      },
+      {
+        "trait_type": "香り",
+        "value": "バラ"
+      },
+      {
+        "trait_type": "性格",
+        "value": "情熱的"
+      },
+      {
+        "trait_type": "能力",
+        "value": "エナジーブースト"
+      },
+      {
+        "trait_type": "関係",
+        "value": "双子"
+      }
+    ],
+    "zh-CN": [
+      {
+        "trait_type": "身体",
+        "value": "粉色"
+      },
+      {
+        "trait_type": "气味",
+        "value": "玫瑰"
+      },
+      {
+        "trait_type": "性格",
+        "value": "热情"
+      },
+      {
+        "trait_type": "能力",
+        "value": "能量提升"
+      },
+      {
+        "trait_type": "关系",
+        "value": "双胞胎"
+      }
+    ],
+    "es": [
+      {
+        "trait_type": "Cuerpo",
+        "value": "Rosa"
+      },
+      {
+        "trait_type": "Fragancia",
+        "value": "Rosa"
+      },
+      {
+        "trait_type": "Personalidad",
+        "value": "Apasionado"
+      },
+      {
+        "trait_type": "Habilidad",
+        "value": "Impulso de Energía"
+      },
+      {
+        "trait_type": "Relación",
+        "value": "Gemelo"
+      }
+    ],
+    "fr": [
+      {
+        "trait_type": "Corps",
+        "value": "Rose"
+      },
+      {
+        "trait_type": "Parfum",
+        "value": "Rose"
+      },
+      {
+        "trait_type": "Personnalité",
+        "value": "Passionné"
+      },
+      {
+        "trait_type": "Capacité",
+        "value": "Boost d'Énergie"
+      },
+      {
+        "trait_type": "Relation",
+        "value": "Jumeau"
+      }
+    ],
+    "de": [
+      {
+        "trait_type": "Körper",
+        "value": "Rosa"
+      },
+      {
+        "trait_type": "Duft",
+        "value": "Rose"
+      },
+      {
+        "trait_type": "Persönlichkeit",
+        "value": "Leidenschaftlich"
+      },
+      {
+        "trait_type": "Fähigkeit",
+        "value": "Energieschub"
+      },
+      {
+        "trait_type": "Beziehung",
+        "value": "Zwilling"
+      }
+    ],
+    "pt": [
+      {
+        "trait_type": "Corpo",
+        "value": "Rosa"
+      },
+      {
+        "trait_type": "Cheiro",
+        "value": "Rosa"
+      },
+      {
+        "trait_type": "Personalidade",
+        "value": "Apaixonado"
+      },
+      {
+        "trait_type": "Habilidade",
+        "value": "Impulso de Energia"
+      },
+      {
+        "trait_type": "Relação",
+        "value": "Gêmeo"
+      }
+    ],
+    "ru": [
+      {
+        "trait_type": "Тело",
+        "value": "Розовый"
+      },
+      {
+        "trait_type": "Аромат",
+        "value": "Роза"
+      },
+      {
+        "trait_type": "Характер",
+        "value": "Страстный"
+      },
+      {
+        "trait_type": "Способность",
+        "value": "Энергетический Подъем"
+      },
+      {
+        "trait_type": "Отношение",
+        "value": "Близнец"
+      }
+    ],
+    "ar": [
+      {
+        "trait_type": "الجسم",
+        "value": "وردي"
+      },
+      {
+        "trait_type": "رائحة",
+        "value": "وردة"
+      },
+      {
+        "trait_type": "شخصية",
+        "value": "عاطفي"
+      },
+      {
+        "trait_type": "قدرة",
+        "value": "تعزيز الطاقة"
+      },
+      {
+        "trait_type": "علاقة",
+        "value": "توأم"
+      }
+    ],
+    "hi": [
+      {
+        "trait_type": "शरीर",
+        "value": "गुलाबी"
+      },
+      {
+        "trait_type": "सुगंध",
+        "value": "गुलाब"
+      },
+      {
+        "trait_type": "व्यक्तित्व",
+        "value": "जोशीला"
+      },
+      {
+        "trait_type": "क्षमता",
+        "value": "ऊर्जा बढ़ाना"
+      },
+      {
+        "trait_type": "संबंध",
+        "value": "जुड़वां"
+      }
+    ]
+  },
   "birthday": "2024-06-02"
 }

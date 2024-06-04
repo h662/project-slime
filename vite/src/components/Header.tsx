@@ -13,10 +13,10 @@ const Header: FC = () => {
 
   const navigate = useNavigate();
 
-  const onClickLink = () => {
+  const navigatePage = (to: string) => {
     setIsButtonClicked(false);
 
-    navigate("/all-slimes");
+    navigate(to);
   };
 
   return (
@@ -27,16 +27,16 @@ const Header: FC = () => {
         } -mt-[72px] md:-mt-[136px] h-16 md:h-28 transition delay-150 duration-300 ease-in-out fixed top-2 md:top-6 w-full`}
       >
         <div className="bg-slimeGreen-100 p-2 md:p-6">
-          <Link
+          <button
             className="flex items-center text-lg font-bold w-fit"
-            to="/"
             onMouseEnter={() => setIsLinkHover(true)}
             onMouseLeave={() => setIsLinkHover(false)}
             onTouchStart={() => setIsLinkHover(true)}
             onTouchEnd={() => setIsLinkHover(false)}
+            onClick={() => navigatePage("/")}
           >
             <Logo isLinkHover={isLinkHover} /> {t("logo")}
-          </Link>
+          </button>
         </div>
         <div
           className={`${
@@ -44,7 +44,10 @@ const Header: FC = () => {
           } bg-gradient-to-b from-slimeGreen-100 transition delay-150 duration-300 ease-in-out pt-4 px-2 md:px-4 flex justify-between`}
         >
           <nav>
-            <button className="button-style-sm" onClick={onClickLink}>
+            <button
+              className="button-style-sm"
+              onClick={() => navigatePage("/all-slimes")}
+            >
               모든 슬라임 보기
             </button>
           </nav>
