@@ -46,7 +46,7 @@ const SlimeCard: FC<SlimeCardProps> = ({ slimeData }) => {
           navigate(`/slime/${slimeData.id}`, { state: { slimeData } })
         }
       >
-        상세보기
+        {t("view")}
       </button>
     </li>
   );

@@ -1,0 +1,253 @@
+{
+  "id": 11,
+  "name": "Mouse Slime",
+  "localizedNames": {
+    "en": "Mouse Slime",
+    "ko": "쥐 슬라임",
+    "jp": "ネズミスライム",
+    "zh-CN": "鼠史莱姆",
+    "es": "Slime de Ratón",
+    "fr": "Slime de Souris",
+    "de": "Maus-Schleim",
+    "pt": "Slime de Rato",
+    "ru": "Мышиный Слайм",
+    "ar": "سلايم الفأر",
+    "hi": "माउस स्लाइम"
+  },
+  "description": "A curious yellow slime that loves to eavesdrop on others. Its big ears make it excellent at picking up sounds from a distance. In the Slime Project, Mouse Slime is known for its keen sense of hearing and its ability to gather information. Researchers use it to monitor the environment and gather data that other slimes might miss. Despite its mischievous nature, Mouse Slime plays a crucial role in the team's information network, providing valuable insights and helping to keep the project on track.",
+  "localizedDescriptions": {
+    "en": "A curious yellow slime that loves to eavesdrop on others. Its big ears make it excellent at picking up sounds from a distance. In the Slime Project, Mouse Slime is known for its keen sense of hearing and its ability to gather information. Researchers use it to monitor the environment and gather data that other slimes might miss. Despite its mischievous nature, Mouse Slime plays a crucial role in the team's information network, providing valuable insights and helping to keep the project on track.",
+    "ko": "남의 이야기를 엿듣는 것을 좋아하는 호기심 많은 노란색 슬라임입니다. 큰 귀는 멀리서도 소리를 잘 들을 수 있게 합니다. 슬라임 프로젝트에서 쥐 슬라임은 예민한 청각과 정보를 수집하는 능력으로 유명합니다. 연구자들은 이를 사용해 환경을 모니터링하고 다른 슬라임들이 놓칠 수 있는 데이터를 수집합니다. 장난기 많은 성격에도 불구하고, 쥐 슬라임은 팀의 정보 네트워크에서 중요한 역할을 하며, 귀중한 통찰력을 제공하고 프로젝트를 올바른 방향으로 유지하는 데 도움을 줍니다.",
+    "jp": "他の話を盗み聞きするのが好きな好奇心旺盛な黄色のスライムです。大きな耳は遠くからでも音を拾うのに優れています。スライムプロジェクトでは、ネズミスライムは鋭い聴覚と情報を集める能力で知られています。研究者たちはそれを使って環境を監視し、他のスライムが見逃す可能性のあるデータを収集します。いたずら好きな性格にもかかわらず、ネズミスライムはチームの情報ネットワークで重要な役割を果たし、貴重な洞察を提供してプロジェクトを軌道に乗せるのに役立っています。",
+    "zh-CN": "一种好奇的黄色史莱姆，喜欢偷听别人的谈话。 它的大耳朵使它能够从远处拾取声音。 在史莱姆项目中，鼠史莱姆以其敏锐的听力和收集信息的能力而闻名。 研究人员使用它来监控环境并收集其他史莱姆可能会错过的数据。 尽管它调皮的本性，鼠史莱姆在团队的信息网络中发挥着至关重要的作用，提供宝贵的见解并帮助项目保持正轨。",
+    "es": "Un slime amarillo curioso que le encanta escuchar a escondidas a los demás. Sus grandes orejas lo hacen excelente para captar sonidos desde la distancia. En el Proyecto Slime, el Slime de Ratón es conocido por su agudo sentido del oído y su capacidad para reunir información. Los investigadores lo usan para monitorear el entorno y recopilar datos que otros slimes podrían perder. A pesar de su naturaleza traviesa, el Slime de Ratón juega un papel crucial en la red de información del equipo, proporcionando información valiosa y ayudando a mantener el proyecto en marcha.",
+    "fr": "Un slime jaune curieux qui adore écouter les autres en cachette. Ses grandes oreilles lui permettent de capter les sons à distance. Dans le Projet Slime, le Slime de Souris est connu pour son sens aigu de l'écoute et sa capacité à recueillir des informations. Les chercheurs l'utilisent pour surveiller l'environnement et recueillir des données que d'autres slimes pourraient manquer. Malgré son caractère espiègle, le Slime de Souris joue un rôle crucial dans le réseau d'information de l'équipe, fournissant des informations précieuses et aidant à maintenir le projet sur la bonne voie.",
+    "de": "Ein neugieriger gelber Schleim, der es liebt, andere zu belauschen. Seine großen Ohren machen ihn hervorragend darin, Geräusche aus der Ferne aufzunehmen. Im Slime-Projekt ist der Maus-Schleim für sein gutes Gehör und seine Fähigkeit, Informationen zu sammeln, bekannt. Forscher verwenden ihn, um die Umgebung zu überwachen und Daten zu sammeln, die andere Schleime möglicherweise übersehen. Trotz seiner schelmischen Natur spielt der Maus-Schleim eine entscheidende Rolle im Informationsnetzwerk des Teams, liefert wertvolle Erkenntnisse und hilft, das Projekt auf Kurs zu halten.",
+    "pt": "Um slime amarelo curioso que adora escutar os outros. Suas grandes orelhas o tornam excelente em captar sons à distância. No Projeto Slime, o Slime de Rato é conhecido por seu aguçado sentido de audição e sua capacidade de reunir informações. Os pesquisadores o usam para monitorar o ambiente e coletar dados que outros slimes podem perder. Apesar de sua natureza travessa, o Slime de Rato desempenha um papel crucial na rede de informações da equipe, fornecendo informações valiosas e ajudando a manter o projeto nos trilhos.",
+    "ru": "Любопытный желтый слизень, который любит подслушивать других. Его большие уши делают его отличным в улавливании звуков на расстоянии. В проекте Slime мышиный слизень известен своим острым слухом и способностью собирать информацию. Исследователи используют его для мониторинга окружающей среды и сбора данных, которые могут пропустить другие слизни. Несмотря на свою озорную натуру, мышиный слизень играет важную роль в информационной сети команды, предоставляя ценные сведения и помогая удерживать проект на правильном пути.",
+    "ar": "سلايم أصفر فضولي يحب التنصت على الآخرين. آذانه الكبيرة تجعله ممتازًا في التقاط الأصوات من مسافة بعيدة. في مشروع السلايم، يُعرف سلايم الفأر بحسه السمعي الحاد وقدرته على جمع المعلومات. يستخدمه الباحثون لمراقبة البيئة وجمع البيانات التي قد تفوتها السلايمات الأخرى. على الرغم من طبيعته المؤذية، يلعب سلايم الفأر دورًا حاسمًا في شبكة معلومات الفريق، حيث يقدم رؤى قيمة ويساعد في الحفاظ على المشروع على المسار الصحيح.",
+    "hi": "एक जिज्ञासु पीला स्लाइम जिसे दूसरों की बातें सुनना बहुत पसंद है। इसके बड़े कान इसे दूर से आवाजें उठाने में उत्कृष्ट बनाते हैं। स्लाइम प्रोजेक्ट में, माउस स्लाइम अपनी तेज सुनने की क्षमता और जानकारी इकट्ठा करने की क्षमता के लिए जाना जाता है। शोधकर्ता इसका उपयोग पर्यावरण की निगरानी और डेटा एकत्र करने के लिए करते हैं जो अन्य स्लाइम्स याद कर सकते हैं। अपनी शरारती प्रकृति के बावजूद, माउस स्लाइम टीम के सूचना नेटवर्क में एक महत्वपूर्ण भूमिका निभाता है, मूल्यवान अंतर्दृष्टि प्रदान करता है और परियोजना को ट्रैक पर रखने में मदद करता है।"
+  },
+  "scene": "https://prod.spline.design/carfYyDslm6chceq/scene.splinecode",
+  "image": "",
+  "image_name": "mouse_slime.png",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Big"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Curious"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Eavesdropping"
+    }
+  ],
+  "localizedAttributes": {
+    "en": [
+      {
+        "trait_type": "Body",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "Big"
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Curious"
+      },
+      {
+        "trait_type": "Ability",
+        "value": "Eavesdropping"
+      }
+    ],
+    "ko": [
+      {
+        "trait_type": "몸",
+        "value": "노랑"
+      },
+      {
+        "trait_type": "귀",
+        "value": "크다"
+      },
+      {
+        "trait_type": "성격",
+        "value": "호기심 많은"
+      },
+      {
+        "trait_type": "능력",
+        "value": "엿듣기"
+      }
+    ],
+    "jp": [
+      {
+        "trait_type": "体",
+        "value": "黄色"
+      },
+      {
+        "trait_type": "耳",
+        "value": "大きい"
+      },
+      {
+        "trait_type": "性格",
+        "value": "好奇心旺盛"
+      },
+      {
+        "trait_type": "能力",
+        "value": "盗み聞き"
+      }
+    ],
+    "zh-CN": [
+      {
+        "trait_type": "身体",
+        "value": "黄色"
+      },
+      {
+        "trait_type": "耳朵",
+        "value": "大"
+      },
+      {
+        "trait_type": "性格",
+        "value": "好奇"
+      },
+      {
+        "trait_type": "能力",
+        "value": "窃听"
+      }
+    ],
+    "es": [
+      {
+        "trait_type": "Cuerpo",
+        "value": "Amarillo"
+      },
+      {
+        "trait_type": "Orejas",
+        "value": "Grandes"
+      },
+      {
+        "trait_type": "Personalidad",
+        "value": "Curioso"
+      },
+      {
+        "trait_type": "Habilidad",
+        "value": "Escuchar a Escondidas"
+      }
+    ],
+    "fr": [
+      {
+        "trait_type": "Corps",
+        "value": "Jaune"
+      },
+      {
+        "trait_type": "Oreilles",
+        "value": "Grandes"
+      },
+      {
+        "trait_type": "Personnalité",
+        "value": "Curieux"
+      },
+      {
+        "trait_type": "Capacité",
+        "value": "Écouter en Cachette"
+      }
+    ],
+    "de": [
+      {
+        "trait_type": "Körper",
+        "value": "Gelb"
+      },
+      {
+        "trait_type": "Ohren",
+        "value": "Groß"
+      },
+      {
+        "trait_type": "Persönlichkeit",
+        "value": "Neugierig"
+      },
+      {
+        "trait_type": "Fähigkeit",
+        "value": "Belauschen"
+      }
+    ],
+    "pt": [
+      {
+        "trait_type": "Corpo",
+        "value": "Amarelo"
+      },
+      {
+        "trait_type": "Orelhas",
+        "value": "Grandes"
+      },
+      {
+        "trait_type": "Personalidade",
+        "value": "Curioso"
+      },
+      {
+        "trait_type": "Habilidade",
+        "value": "Escutar"
+      }
+    ],
+    "ru": [
+      {
+        "trait_type": "Тело",
+        "value": "Желтый"
+      },
+      {
+        "trait_type": "Уши",
+        "value": "Большие"
+      },
+      {
+        "trait_type": "Личность",
+        "value": "Любопытный"
+      },
+      {
+        "trait_type": "Способность",
+        "value": "Подслушивание"
+      }
+    ],
+    "ar": [
+      {
+        "trait_type": "جسم",
+        "value": "أصفر"
+      },
+      {
+        "trait_type": "آذان",
+        "value": "كبير"
+      },
+      {
+        "trait_type": "شخصية",
+        "value": "فضولي"
+      },
+      {
+        "trait_type": "قدرة",
+        "value": "التنصت"
+      }
+    ],
+    "hi": [
+      {
+        "trait_type": "शरीर",
+        "value": "पीला"
+      },
+      {
+        "trait_type": "कान",
+        "value": "बड़े"
+      },
+      {
+        "trait_type": "व्यक्तित्व",
+        "value": "जिज्ञासु"
+      },
+      {
+        "trait_type": "क्षमता",
+        "value": "सुनना"
+      }
+    ]
+  },
+  "birthday": ""
+}

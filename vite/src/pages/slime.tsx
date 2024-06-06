@@ -83,6 +83,14 @@ const Slime: FC = () => {
               </div>
             </li>
           ))}
+          {slimeData.birthday && (
+            <li>
+              <div className="underline underline-offset-8">
+                {t("birthday")}
+              </div>
+              <div className="mt-1 font-semibold">{slimeData.birthday}</div>
+            </li>
+          )}
         </ul>
       </div>
     </div>

@@ -26,7 +26,7 @@ const Header: FC = () => {
           isButtonClicked ? "translate-y-16 md:translate-y-28 z-10" : "-z-10"
         } -mt-[72px] md:-mt-[136px] h-16 md:h-28 transition delay-150 duration-300 ease-in-out fixed top-2 md:top-6 w-full`}
       >
-        <div className="bg-slimeGreen-100 p-2 md:p-6">
+        <div className="bg-white bg-opacity-40 p-2 md:p-6">
           <button
             className="flex items-center text-lg font-bold w-fit"
             onMouseEnter={() => setIsLinkHover(true)}
@@ -41,14 +41,20 @@ const Header: FC = () => {
         <div
           className={`${
             isButtonClicked ? "opacity-100" : "opacity-0"
-          } bg-gradient-to-b from-slimeGreen-100 transition delay-150 duration-300 ease-in-out pt-4 px-2 md:px-4 flex justify-between`}
+          } bg-white bg-opacity-40 shadow-lg transition delay-150 duration-300 ease-in-out pt-4 px-2 md:px-4 py-4 md:py-8 flex justify-between`}
         >
-          <nav>
+          <nav className="flex flex-col gap-1">
             <button
-              className="button-style-sm"
+              className="button-style-sm text-left"
+              onClick={() => navigatePage("/report")}
+            >
+              {t("slimeProjectReport")}
+            </button>
+            <button
+              className="button-style-sm text-left"
               onClick={() => navigatePage("/all-slimes")}
             >
-              모든 슬라임 보기
+              {t("seeAllSlimes")}
             </button>
           </nav>
           <LanguageSelector />

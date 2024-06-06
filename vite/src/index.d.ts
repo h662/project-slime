@@ -45,7 +45,7 @@ interface SlimeMetadata {
     value: string;
   }[];
   localizedAttributes: LocalizedAttributes;
-  birthday: string;
+  birthday?: string;
 }
 
 interface OutletContext {

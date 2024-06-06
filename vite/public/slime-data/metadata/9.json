@@ -29,7 +29,7 @@
     "hi": "एक अनोखा स्लाइम जो छल्लों के साथ एक ग्रह जैसा दिखता है। यह ब्रह्मांड के रहस्य और सुंदरता को समाहित करता है। स्लाइम प्रोजेक्ट में, ग्रह स्लाइम को इसके ब्रह्मांडीय गुणों के लिए सम्मानित किया जाता है। शोधकर्ता इसके ढांचे का अध्ययन करते हैं ताकि अंतरिक्ष और अन्य दुनिया के तत्वों के बारे में अधिक समझ सकें। इसके विदेशी रूप के बावजूद, ग्रह स्लाइम टीम के बीच जिज्ञासा और नवाचार को प्रेरित करने में एक महत्वपूर्ण भूमिका निभाता है। अंतरिक्ष की विशालता और आश्चर्य को दर्शाने की इसकी क्षमता इसे अनुसंधान टीम में एक प्रमुख चरित्र बनाती है।"
   },
   "scene": "https://prod.spline.design/MTcBB8k5eSmZA7l8/scene.splinecode",
-  "image": "https://slime-project.mypinata.cloud/ipfs/Qmbk9mXZfi4jMVCj76ZxhjHkfccAYHnyafWq7E7SZCAXJR",
+  "image": "https://slime-project.mypinata.cloud/ipfs/QmSQSWTjEqnHtXgAQmskMH3bdwe3h5pSQELw339ezq9ush",
   "image_name": "planet_slime.png",
   "attributes": [
     {
@@ -249,5 +249,6 @@
       }
     ]
   },
-  "birthday": ""
+  "birthday": "2024-06-06",
+  "version": 2
 }

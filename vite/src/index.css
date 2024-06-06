@@ -30,7 +30,7 @@
   }
 
   .button-style-sm {
-    @apply bg-opacity-0 bg-white px-2 rounded-full shadow-md hover:bg-slimeGreen-300 active:bg-slimeGreen-200;
+    @apply text-xs md:text-base bg-opacity-0 bg-white px-2 rounded-full shadow-md hover:bg-slimeGreen-300 active:bg-slimeGreen-200;
   }
 }
 
