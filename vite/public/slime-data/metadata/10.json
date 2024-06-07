@@ -29,7 +29,7 @@
     "hi": "एक अनोखा स्लाइम जो उदास इमोजी का रूप लेता है। यह भावनाओं को समाहित करता है और स्लाइम प्रोजेक्ट में भावनाओं को व्यक्त करने में मदद करता है। शोधकर्ता इसके ढांचे का अध्ययन करते हैं ताकि डिजिटल रूपों में भावनात्मक प्रतिनिधित्व के बारे में अधिक समझ सकें। इसके दुखी रूप के बावजूद, दुखी इमोजी स्लाइम टीम को उनकी रचनाओं के भावनात्मक पहलुओं का पता लगाने में मदद करने में एक महत्वपूर्ण भूमिका निभाता है।"
   },
   "scene": "https://prod.spline.design/cJnM7qTHnWEc-tpX/scene.splinecode",
-  "image": "",
+  "image": "https://slime-project.mypinata.cloud/ipfs/Qma2UwgoQFVA9XAvigeDC2EQkxweZxrQsRCkuTvfqebS3S",
   "image_name": "sad_emoji_slime.png",
   "attributes": [
     {
@@ -249,5 +249,6 @@
       }
     ]
   },
-  "birthday": ""
+  "birthday": "2024-06-07",
+  "version": 2
 }

@@ -1,0 +1,253 @@
+{
+  "id": 12,
+  "name": "Schrödinger's Slime",
+  "localizedNames": {
+    "en": "Schrödinger's Slime",
+    "ko": "슈뢰딩거 슬라임",
+    "jp": "シュレディンガースライム",
+    "zh-CN": "薛定谔的史莱姆",
+    "es": "Slime de Schrödinger",
+    "fr": "Slime de Schrödinger",
+    "de": "Schrödingers Schleim",
+    "pt": "Slime de Schrödinger",
+    "ru": "Слизь Шредингера",
+    "ar": "سلايم شرودنجر",
+    "hi": "श्रोडिंगर का स्लाइम"
+  },
+  "description": "A mysterious blue slime that embodies the paradox of Schrödinger's cat. It may or may not contain a cat inside it. In the Slime Project, Schrödinger's Slime is known for its quantum characteristics and unpredictability. Researchers use it to study quantum effects and the nature of probability. Its enigmatic nature makes it a fascinating subject of study, providing unique insights into the behavior of quantum systems.",
+  "localizedDescriptions": {
+    "en": "A mysterious blue slime that embodies the paradox of Schrödinger's cat. It may or may not contain a cat inside it. In the Slime Project, Schrödinger's Slime is known for its quantum characteristics and unpredictability. Researchers use it to study quantum effects and the nature of probability. Its enigmatic nature makes it a fascinating subject of study, providing unique insights into the behavior of quantum systems.",
+    "ko": "안에 고양이가 있을 수도 있고 없을 수도 있는 신비한 파란색 슬라임입니다. 슬라임 프로젝트에서 슈뢰딩거 슬라임은 양자 특성과 예측 불가능성으로 유명합니다. 연구자들은 이를 사용해 양자 효과와 확률의 본질을 연구합니다. 그 신비로운 특성은 양자 시스템의 행동에 대한 독특한 통찰력을 제공하여 매혹적인 연구 대상이 됩니다.",
+    "jp": "内部に猫がいるかもしれないし、いないかもしれない神秘的な青いスライムです。スライムプロジェクトでは、シュレディンガースライムは量子特性と予測不可能性で知られています。研究者たちはそれを使って量子効果と確率の本質を研究します。その謎めいた性質は、量子システムの振る舞いに関する独自の洞察を提供し、魅力的な研究対象となります。",
+    "zh-CN": "一种神秘的蓝色史莱姆，体现了薛定谔猫的悖论。 它可能包含也可能不包含一只猫。 在史莱姆项目中，薛定谔的史莱姆以其量子特性和不可预测性而闻名。 研究人员使用它来研究量子效应和概率的本质。 其神秘的性质使其成为研究的一个迷人主题，提供了对量子系统行为的独特见解。",
+    "es": "Un misterioso slime azul que encarna la paradoja del gato de Schrödinger. Puede contener o no un gato en su interior. En el Proyecto Slime, el Slime de Schrödinger es conocido por sus características cuánticas e imprevisibilidad. Los investigadores lo utilizan para estudiar los efectos cuánticos y la naturaleza de la probabilidad. Su naturaleza enigmática lo convierte en un fascinante objeto de estudio, proporcionando ideas únicas sobre el comportamiento de los sistemas cuánticos.",
+    "fr": "Un slime bleu mystérieux qui incarne le paradoxe du chat de Schrödinger. Il peut ou non contenir un chat à l'intérieur. Dans le Projet Slime, le Slime de Schrödinger est connu pour ses caractéristiques quantiques et son imprévisibilité. Les chercheurs l'utilisent pour étudier les effets quantiques et la nature de la probabilité. Sa nature énigmatique en fait un sujet d'étude fascinant, fournissant des informations uniques sur le comportement des systèmes quantiques.",
+    "de": "Ein mysteriöser blauer Schleim, der das Paradoxon von Schrödingers Katze verkörpert. Es kann eine Katze enthalten oder auch nicht. Im Slime-Projekt ist Schrödingers Schleim für seine quantenmechanischen Eigenschaften und Unvorhersehbarkeit bekannt. Forscher verwenden ihn, um Quanteneffekte und die Natur der Wahrscheinlichkeit zu untersuchen. Seine rätselhafte Natur macht ihn zu einem faszinierenden Studienobjekt und bietet einzigartige Einblicke in das Verhalten von Quantensystemen.",
+    "pt": "Um misterioso slime azul que incorpora o paradoxo do gato de Schrödinger. Pode ou não conter um gato dentro dele. No Projeto Slime, o Slime de Schrödinger é conhecido por suas características quânticas e imprevisibilidade. Os pesquisadores o utilizam para estudar os efeitos quânticos e a natureza da probabilidade. Sua natureza enigmática o torna um objeto de estudo fascinante, proporcionando insights únicos sobre o comportamento dos sistemas quânticos.",
+    "ru": "Таинственная синяя слизь, воплощающая парадокс кошки Шредингера. Внутри нее может быть, а может и не быть кошка. В проекте Slime слизь Шредингера известна своими квантовыми характеристиками и непредсказуемостью. Исследователи используют ее для изучения квантовых эффектов и природы вероятности. Ее загадочная природа делает ее увлекательным объектом исследования, предоставляя уникальные взгляды на поведение квантовых систем.",
+    "ar": "سلايم أزرق غامض يجسد مفارقة قطة شرودنغر. قد يحتوي أو لا يحتوي على قطة بداخله. في مشروع السلايم، يُعرف سلايم شرودنغر بخصائصه الكمية وعدم القدرة على التنبؤ به. يستخدمه الباحثون لدراسة التأثيرات الكمية وطبيعة الاحتمال. طبيعته الغامضة تجعله موضوعًا مثيرًا للدراسة، حيث يوفر رؤى فريدة في سلوك الأنظمة الكمية.",
+    "hi": "एक रहस्यमय नीला स्लाइम जो श्रोडिंगर की बिल्ली के विरोधाभास को दर्शाता है। इसमें एक बिल्ली हो भी सकती है और नहीं भी। स्लाइम प्रोजेक्ट में, श्रोडिंगर का स्लाइम अपनी क्वांटम विशेषताओं और अप्रत्याशितता के लिए जाना जाता है। शोधकर्ता इसका उपयोग क्वांटम प्रभावों और संभाव्यता की प्रकृति का अध्ययन करने के लिए करते हैं। इसकी रहस्यमय प्रकृति इसे अध्ययन का एक आकर्षक विषय बनाती है, जो क्वांटम प्रणालियों के व्यवहार में अनूठी अंतर्दृष्टि प्रदान करती है।"
+  },
+  "scene": "https://prod.spline.design/Ltz-1RANhtV0QXg4/scene.splinecode",
+  "image": "",
+  "image_name": "schrödingers_slime.png",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Contents",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Mysterious"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Quantum Effects"
+    }
+  ],
+  "localizedAttributes": {
+    "en": [
+      {
+        "trait_type": "Body",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Contents",
+        "value": "Unknown"
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Mysterious"
+      },
+      {
+        "trait_type": "Ability",
+        "value": "Quantum Effects"
+      }
+    ],
+    "ko": [
+      {
+        "trait_type": "몸",
+        "value": "파랑"
+      },
+      {
+        "trait_type": "내용물",
+        "value": "미지"
+      },
+      {
+        "trait_type": "성격",
+        "value": "신비"
+      },
+      {
+        "trait_type": "능력",
+        "value": "양자 효과"
+      }
+    ],
+    "jp": [
+      {
+        "trait_type": "体",
+        "value": "青"
+      },
+      {
+        "trait_type": "内容物",
+        "value": "未知"
+      },
+      {
+        "trait_type": "性格",
+        "value": "神秘的"
+      },
+      {
+        "trait_type": "能力",
+        "value": "量子効果"
+      }
+    ],
+    "zh-CN": [
+      {
+        "trait_type": "身体",
+        "value": "蓝色"
+      },
+      {
+        "trait_type": "内容",
+        "value": "未知"
+      },
+      {
+        "trait_type": "性格",
+        "value": "神秘"
+      },
+      {
+        "trait_type": "能力",
+        "value": "量子效应"
+      }
+    ],
+    "es": [
+      {
+        "trait_type": "Cuerpo",
+        "value": "Azul"
+      },
+      {
+        "trait_type": "Contenido",
+        "value": "Desconocido"
+      },
+      {
+        "trait_type": "Personalidad",
+        "value": "Misterioso"
+      },
+      {
+        "trait_type": "Habilidad",
+        "value": "Efectos Cuánticos"
+      }
+    ],
+    "fr": [
+      {
+        "trait_type": "Corps",
+        "value": "Bleu"
+      },
+      {
+        "trait_type": "Contenu",
+        "value": "Inconnu"
+      },
+      {
+        "trait_type": "Personnalité",
+        "value": "Mystérieux"
+      },
+      {
+        "trait_type": "Capacité",
+        "value": "Effets Quantiques"
+      }
+    ],
+    "de": [
+      {
+        "trait_type": "Körper",
+        "value": "Blau"
+      },
+      {
+        "trait_type": "Inhalt",
+        "value": "Unbekannt"
+      },
+      {
+        "trait_type": "Persönlichkeit",
+        "value": "Mysteriös"
+      },
+      {
+        "trait_type": "Fähigkeit",
+        "value": "Quanteneffekte"
+      }
+    ],
+    "pt": [
+      {
+        "trait_type": "Corpo",
+        "value": "Azul"
+      },
+      {
+        "trait_type": "Conteúdo",
+        "value": "Desconhecido"
+      },
+      {
+        "trait_type": "Personalidade",
+        "value": "Misterioso"
+      },
+      {
+        "trait_type": "Habilidade",
+        "value": "Efeitos Quânticos"
+      }
+    ],
+    "ru": [
+      {
+        "trait_type": "Тело",
+        "value": "Синий"
+      },
+      {
+        "trait_type": "Содержимое",
+        "value": "Неизвестно"
+      },
+      {
+        "trait_type": "Личность",
+        "value": "Загадочный"
+      },
+      {
+        "trait_type": "Способность",
+        "value": "Квантовые Эффекты"
+      }
+    ],
+    "ar": [
+      {
+        "trait_type": "جسم",
+        "value": "أزرق"
+      },
+      {
+        "trait_type": "محتويات",
+        "value": "مجهول"
+      },
+      {
+        "trait_type": "شخصية",
+        "value": "غامض"
+      },
+      {
+        "trait_type": "قدرة",
+        "value": "التأثيرات الكمومية"
+      }
+    ],
+    "hi": [
+      {
+        "trait_type": "शरीर",
+        "value": "नीला"
+      },
+      {
+        "trait_type": "सामग्री",
+        "value": "अज्ञात"
+      },
+      {
+        "trait_type": "व्यक्तित्व",
+        "value": "रहस्यमय"
+      },
+      {
+        "trait_type": "क्षमता",
+        "value": "क्वांटम प्रभाव"
+      }
+    ]
+  },
+  "birthday": ""
+}
