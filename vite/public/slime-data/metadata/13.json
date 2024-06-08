@@ -1,0 +1,254 @@
+{
+  "id": 13,
+  "name": "Cake Slime",
+  "localizedNames": {
+    "en": "Cake Slime",
+    "ko": "케잌 슬라임",
+    "jp": "ケーキスライム",
+    "zh-CN": "蛋糕史莱姆",
+    "es": "Slime de Pastel",
+    "fr": "Slime Gâteau",
+    "de": "Kuchen Schleim",
+    "pt": "Slime de Bolo",
+    "ru": "Торт Слизь",
+    "ar": "سلايم الكيك",
+    "hi": "केक स्लाइम"
+  },
+  "description": "A slime filled with strawberries that loves to celebrate others. In the Slime Project, Cake Slime is known for its cheerful personality and its ability to bring joy to any occasion. Researchers observe it to study the effects of positive emotions and social bonding among slimes.",
+  "localizedDescriptions": {
+    "en": "A slime filled with strawberries that loves to celebrate others. In the Slime Project, Cake Slime is known for its cheerful personality and its ability to bring joy to any occasion. Researchers observe it to study the effects of positive emotions and social bonding among slimes.",
+    "ko": "딸기가 가득하고 남들을 축하해주는 것을 좋아하는 슬라임입니다. 슬라임 프로젝트에서 케잌 슬라임은 밝은 성격과 어떤 상황에서도 기쁨을 주는 능력으로 유명합니다. 연구자들은 이를 관찰하여 긍정적인 감정과 슬라임 간의 사회적 유대감의 영향을 연구합니다.",
+    "jp": "いちごがたくさん入っていて、人々を祝うのが大好きなスライムです。スライムプロジェクトでは、ケーキスライムは明るい性格と、どんな場面でも喜びをもたらす能力で知られています。研究者たちは、それを観察して、スライム同士の社会的絆とポジティブな感情の影響を研究します。",
+    "zh-CN": "一种充满草莓的史莱姆，喜欢庆祝他人。在史莱姆项目中，蛋糕史莱姆以其开朗的性格和在任何场合带来欢乐的能力而闻名。研究人员观察它，以研究积极情绪和史莱姆之间社会联系的影响。",
+    "es": "Un slime lleno de fresas que ama celebrar a los demás. En el Proyecto Slime, el Slime de Pastel es conocido por su personalidad alegre y su capacidad para traer alegría a cualquier ocasión. Los investigadores lo observan para estudiar los efectos de las emociones positivas y la unión social entre slimes.",
+    "fr": "Un slime rempli de fraises qui aime célébrer les autres. Dans le Projet Slime, le Slime Gâteau est connu pour sa personnalité joyeuse et sa capacité à apporter de la joie à toute occasion. Les chercheurs l'observent pour étudier les effets des émotions positives et des liens sociaux entre les slimes.",
+    "de": "Ein Schleim, der mit Erdbeeren gefüllt ist und es liebt, andere zu feiern. Im Slime-Projekt ist der Kuchen Schleim für seine fröhliche Persönlichkeit und seine Fähigkeit bekannt, bei jeder Gelegenheit Freude zu verbreiten. Forscher beobachten ihn, um die Auswirkungen positiver Emotionen und sozialer Bindungen unter den Schleimen zu untersuchen.",
+    "pt": "Um slime cheio de morangos que adora celebrar os outros. No Projeto Slime, o Slime de Bolo é conhecido por sua personalidade alegre e sua capacidade de trazer alegria a qualquer ocasião. Os pesquisadores o observam para estudar os efeitos das emoções positivas e da ligação social entre os slimes.",
+    "ru": "Слизь, наполненная клубникой, которая любит праздновать других. В проекте Slime торт слизь известна своей веселой личностью и способностью приносить радость в любое время. Исследователи наблюдают за ней, чтобы изучить влияние положительных эмоций и социальных связей среди слизней.",
+    "ar": "سلايم مليء بالفراولة ويحب الاحتفال بالآخرين. في مشروع السلايم، يُعرف سلايم الكيك بشخصيته المبتهجة وقدرته على جلب الفرح في أي مناسبة. يراقبها الباحثون لدراسة تأثيرات المشاعر الإيجابية والترابط الاجتماعي بين السلايم.",
+    "hi": "एक स्लाइम जिसमें स्ट्रॉबेरी भरी होती है और जो दूसरों को मनाना पसंद करता है। स्लाइम प्रोजेक्ट में, केक स्लाइम अपने हंसमुख व्यक्तित्व और किसी भी अवसर पर खुशी लाने की क्षमता के लिए जाना जाता है। शोधकर्ता सकारात्मक भावनाओं और स्लाइम्स के बीच सामाजिक बंधन के प्रभावों का अध्ययन करने के लिए इसे देखते हैं।"
+  },
+  "scene": "https://prod.spline.design/bjxgmAlrZUU5x1HH/scene.splinecode",
+  "image": "",
+  "image_name": "cake_slime.png",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Cake"
+    },
+    {
+      "trait_type": "Contents",
+      "value": "Strawberries"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Cheerful"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Brings Joy"
+    }
+  ],
+  "localizedAttributes": {
+    "en": [
+      {
+        "trait_type": "Body",
+        "value": "Cake"
+      },
+      {
+        "trait_type": "Contents",
+        "value": "Strawberries"
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Cheerful"
+      },
+      {
+        "trait_type": "Ability",
+        "value": "Brings Joy"
+      }
+    ],
+    "ko": [
+      {
+        "trait_type": "몸",
+        "value": "케이크"
+      },
+      {
+        "trait_type": "내용물",
+        "value": "딸기"
+      },
+      {
+        "trait_type": "성격",
+        "value": "밝은"
+      },
+      {
+        "trait_type": "능력",
+        "value": "기쁨을 가져다 줌"
+      }
+    ],
+    "jp": [
+      {
+        "trait_type": "体",
+        "value": "ケーキ"
+      },
+      {
+        "trait_type": "内容物",
+        "value": "いちご"
+      },
+      {
+        "trait_type": "性格",
+        "value": "明るい"
+      },
+      {
+        "trait_type": "能力",
+        "value": "喜びをもたらす"
+      }
+    ],
+    "zh-CN": [
+      {
+        "trait_type": "身体",
+        "value": "蛋糕"
+      },
+      {
+        "trait_type": "内容",
+        "value": "草莓"
+      },
+      {
+        "trait_type": "性格",
+        "value": "开朗"
+      },
+      {
+        "trait_type": "能力",
+        "value": "带来欢乐"
+      }
+    ],
+    "es": [
+      {
+        "trait_type": "Cuerpo",
+        "value": "Pastel"
+      },
+      {
+        "trait_type": "Contenido",
+        "value": "Fresas"
+      },
+      {
+        "trait_type": "Personalidad",
+        "value": "Alegre"
+      },
+      {
+        "trait_type": "Habilidad",
+        "value": "Trae Alegría"
+      }
+    ],
+    "fr": [
+      {
+        "trait_type": "Corps",
+        "value": "Gâteau"
+      },
+      {
+        "trait_type": "Contenu",
+        "value": "Fraises"
+      },
+      {
+        "trait_type": "Personnalité",
+        "value": "Joyeux"
+      },
+      {
+        "trait_type": "Capacité",
+        "value": "Apporte de la Joie"
+      }
+    ],
+    "de": [
+      {
+        "trait_type": "Körper",
+        "value": "Kuchen"
+      },
+      {
+        "trait_type": "Inhalt",
+        "value": "Erdbeeren"
+      },
+      {
+        "trait_type": "Persönlichkeit",
+        "value": "Fröhlich"
+      },
+      {
+        "trait_type": "Fähigkeit",
+        "value": "Bringt Freude"
+      }
+    ],
+    "pt": [
+      {
+        "trait_type": "Corpo",
+        "value": "Bolo"
+      },
+      {
+        "trait_type": "Conteúdo",
+        "value": "Morangos"
+      },
+      {
+        "trait_type": "Personalidade",
+        "value": "Alegre"
+      },
+      {
+        "trait_type": "Habilidade",
+        "value": "Traz Alegria"
+      }
+    ],
+    "ru": [
+      {
+        "trait_type": "Тело",
+        "value": "Торт"
+      },
+      {
+        "trait_type": "Содержимое",
+        "value": "Клубника"
+      },
+      {
+        "trait_type": "Личность",
+        "value": "Веселый"
+      },
+      {
+        "trait_type": "Способность",
+        "value": "Приносит радость"
+      }
+    ],
+    "ar": [
+      {
+        "trait_type": "جسم",
+        "value": "كيك"
+      },
+      {
+        "trait_type": "محتويات",
+        "value": "فراولة"
+      },
+      {
+        "trait_type": "شخصية",
+        "value": "مبتهج"
+      },
+      {
+        "trait_type": "قدرة",
+        "value": "يجلب الفرح"
+      }
+    ],
+    "hi": [
+      {
+        "trait_type": "शरीर",
+        "value": "केक"
+      },
+      {
+        "trait_type": "सामग्री",
+        "value": "स्ट्रॉबेरी"
+      },
+      {
+        "trait_type": "व्यक्तित्व",
+        "value": "हंसमुख"
+      },
+      {
+        "trait_type": "क्षमता",
+        "value": "खुशी लाता है"
+      }
+    ]
+  },
+  "birthday": "",
+  "version": 2
+}
