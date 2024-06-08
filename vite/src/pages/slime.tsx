@@ -1,7 +1,12 @@
 import Spline from "@splinetool/react-spline";
 import { FC, useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
-import { useLocation, useNavigate } from "react-router-dom";
+import {
+  useLocation,
+  useNavigate,
+  useOutletContext,
+  useParams,
+} from "react-router-dom";
 import i18n from "../lib/i18n";
 
 const Slime: FC = () => {
@@ -10,27 +15,32 @@ const Slime: FC = () => {
   const [width, setWidth] = useState<number>(640);
   const [height, setHeight] = useState<number>(640);
 
+  const { metadata } = useOutletContext<OutletContext>();
+
   const navigate = useNavigate();
+
+  const { id } = useParams();
 
   const { state } = useLocation();
 
   const { t } = useTranslation();
 
   useEffect(() => {
-    if (!state) {
-      navigate("/");
+    if (state) {
+      setSlimeData(state.slimeData);
+    } else {
+      setSlimeData(metadata[Number(id) - 1]);
     }
 
-    setSlimeData(state.slimeData);
     setScale(window.screen.height / 1500);
 
     if (window.screen.width < 640) {
       setWidth(window.screen.width);
       setHeight(window.screen.width);
     }
-  }, []);
+  }, [metadata]);
 
-  if (!slimeData) return <div>슬라임 데이터 로드에 실패했습니다.</div>;
+  if (!slimeData) return <div>슬라임 데이터 로딩중...</div>;
 
   const locale = t("locale") as keyof Language;
   const localizedAttributes = slimeData.localizedAttributes

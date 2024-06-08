@@ -249,5 +249,6 @@
       }
     ]
   },
-  "birthday": ""
+  "birthday": "",
+  "version": 2
 }
