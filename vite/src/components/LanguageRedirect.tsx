@@ -10,7 +10,7 @@ const LanguageRedirect: FC = () => {
     return <Navigate to="/" />;
   }
 
-  return <Navigate to="/ko" />;
+  return <Navigate to="/en" />;
 };
 
 export default LanguageRedirect;
