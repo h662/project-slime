@@ -34,7 +34,7 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Cake"
+      "value": "White"
     },
     {
       "trait_type": "Contents",
@@ -42,18 +42,18 @@
     },
     {
       "trait_type": "Personality",
-      "value": "Cheerful"
+      "value": "Joyful"
     },
     {
       "trait_type": "Ability",
-      "value": "Brings Joy"
+      "value": "Strengthens team spirit"
     }
   ],
   "localizedAttributes": {
     "en": [
       {
         "trait_type": "Body",
-        "value": "Cake"
+        "value": "White"
       },
       {
         "trait_type": "Contents",
@@ -61,17 +61,17 @@
       },
       {
         "trait_type": "Personality",
-        "value": "Cheerful"
+        "value": "Joyful"
       },
       {
         "trait_type": "Ability",
-        "value": "Brings Joy"
+        "value": "Strengthens team spirit"
       }
     ],
     "ko": [
       {
         "trait_type": "몸",
-        "value": "케이크"
+        "value": "하얀색"
       },
       {
         "trait_type": "내용물",
@@ -79,17 +79,17 @@
       },
       {
         "trait_type": "성격",
-        "value": "밝은"
+        "value": "즐거운"
       },
       {
         "trait_type": "능력",
-        "value": "기쁨을 가져다 줌"
+        "value": "팀워크 강화"
       }
     ],
     "jp": [
       {
         "trait_type": "体",
-        "value": "ケーキ"
+        "value": "白"
       },
       {
         "trait_type": "内容物",
@@ -97,17 +97,17 @@
       },
       {
         "trait_type": "性格",
-        "value": "明るい"
+        "value": "喜びに満ちた"
       },
       {
         "trait_type": "能力",
-        "value": "喜びをもたらす"
+        "value": "チームスピリットを強化"
       }
     ],
     "zh-CN": [
       {
         "trait_type": "身体",
-        "value": "蛋糕"
+        "value": "白色"
       },
       {
         "trait_type": "内容",
@@ -115,17 +115,17 @@
       },
       {
         "trait_type": "性格",
-        "value": "开朗"
+        "value": "快乐"
       },
       {
         "trait_type": "能力",
-        "value": "带来欢乐"
+        "value": "增强团队精神"
       }
     ],
     "es": [
       {
         "trait_type": "Cuerpo",
-        "value": "Pastel"
+        "value": "Blanco"
       },
       {
         "trait_type": "Contenido",
@@ -137,13 +137,13 @@
       },
       {
         "trait_type": "Habilidad",
-        "value": "Trae Alegría"
+        "value": "Fortalece el espíritu de equipo"
       }
     ],
     "fr": [
       {
         "trait_type": "Corps",
-        "value": "Gâteau"
+        "value": "Blanc"
       },
       {
         "trait_type": "Contenu",
@@ -155,13 +155,13 @@
       },
       {
         "trait_type": "Capacité",
-        "value": "Apporte de la Joie"
+        "value": "Renforce l'esprit d'équipe"
       }
     ],
     "de": [
       {
         "trait_type": "Körper",
-        "value": "Kuchen"
+        "value": "Weiß"
       },
       {
         "trait_type": "Inhalt",
@@ -173,13 +173,13 @@
       },
       {
         "trait_type": "Fähigkeit",
-        "value": "Bringt Freude"
+        "value": "Stärkt den Teamgeist"
       }
     ],
     "pt": [
       {
         "trait_type": "Corpo",
-        "value": "Bolo"
+        "value": "Branco"
       },
       {
         "trait_type": "Conteúdo",
@@ -191,13 +191,13 @@
       },
       {
         "trait_type": "Habilidade",
-        "value": "Traz Alegria"
+        "value": "Fortalece o espírito de equipe"
       }
     ],
     "ru": [
       {
         "trait_type": "Тело",
-        "value": "Торт"
+        "value": "Белый"
       },
       {
         "trait_type": "Содержимое",
@@ -205,17 +205,17 @@
       },
       {
         "trait_type": "Личность",
-        "value": "Веселый"
+        "value": "Радостный"
       },
       {
         "trait_type": "Способность",
-        "value": "Приносит радость"
+        "value": "Укрепляет командный дух"
       }
     ],
     "ar": [
       {
         "trait_type": "جسم",
-        "value": "كيك"
+        "value": "أبيض"
       },
       {
         "trait_type": "محتويات",
@@ -227,13 +227,13 @@
       },
       {
         "trait_type": "قدرة",
-        "value": "يجلب الفرح"
+        "value": "يقوي روح الفريق"
       }
     ],
     "hi": [
       {
         "trait_type": "शरीर",
-        "value": "केक"
+        "value": "सफेद"
       },
       {
         "trait_type": "सामग्री",
@@ -241,11 +241,11 @@
       },
       {
         "trait_type": "व्यक्तित्व",
-        "value": "हंसमुख"
+        "value": "प्रसन्न"
       },
       {
         "trait_type": "क्षमता",
-        "value": "खुशी लाता है"
+        "value": "टीम भावना को मजबूत करता है"
       }
     ]
   },

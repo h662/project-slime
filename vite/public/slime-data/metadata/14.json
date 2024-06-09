@@ -34,7 +34,7 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Cake"
+      "value": "Brown"
     },
     {
       "trait_type": "Contents",
@@ -42,18 +42,18 @@
     },
     {
       "trait_type": "Personality",
-      "value": "Cheerful"
+      "value": "Festive"
     },
     {
       "trait_type": "Ability",
-      "value": "Brings Joy"
+      "value": "Creates joyful celebrations"
     }
   ],
   "localizedAttributes": {
     "en": [
       {
         "trait_type": "Body",
-        "value": "Cake"
+        "value": "Brown"
       },
       {
         "trait_type": "Contents",
@@ -61,17 +61,17 @@
       },
       {
         "trait_type": "Personality",
-        "value": "Cheerful"
+        "value": "Festive"
       },
       {
         "trait_type": "Ability",
-        "value": "Brings Joy"
+        "value": "Creates joyful celebrations"
       }
     ],
     "ko": [
       {
         "trait_type": "몸",
-        "value": "케이크"
+        "value": "갈색"
       },
       {
         "trait_type": "내용물",
@@ -79,17 +79,17 @@
       },
       {
         "trait_type": "성격",
-        "value": "밝은"
+        "value": "축제 같은"
       },
       {
         "trait_type": "능력",
-        "value": "기쁨을 가져다 줌"
+        "value": "즐거운 축하 행사 만들기"
       }
     ],
     "jp": [
       {
         "trait_type": "体",
-        "value": "ケーキ"
+        "value": "茶色"
       },
       {
         "trait_type": "内容物",
@@ -97,17 +97,17 @@
       },
       {
         "trait_type": "性格",
-        "value": "明るい"
+        "value": "お祭り好き"
       },
       {
         "trait_type": "能力",
-        "value": "喜びをもたらす"
+        "value": "楽しいお祝いを作り出す"
       }
     ],
     "zh-CN": [
       {
         "trait_type": "身体",
-        "value": "蛋糕"
+        "value": "棕色"
       },
       {
         "trait_type": "内容",
@@ -115,17 +115,17 @@
       },
       {
         "trait_type": "性格",
-        "value": "开朗"
+        "value": "节日的"
       },
       {
         "trait_type": "能力",
-        "value": "带来欢乐"
+        "value": "创造快乐的庆祝活动"
       }
     ],
     "es": [
       {
         "trait_type": "Cuerpo",
-        "value": "Pastel"
+        "value": "Marrón"
       },
       {
         "trait_type": "Contenido",
@@ -133,17 +133,17 @@
       },
       {
         "trait_type": "Personalidad",
-        "value": "Alegre"
+        "value": "Festivo"
       },
       {
         "trait_type": "Habilidad",
-        "value": "Trae Alegría"
+        "value": "Crea celebraciones alegres"
       }
     ],
     "fr": [
       {
         "trait_type": "Corps",
-        "value": "Gâteau"
+        "value": "Marron"
       },
       {
         "trait_type": "Contenu",
@@ -151,17 +151,17 @@
       },
       {
         "trait_type": "Personnalité",
-        "value": "Joyeux"
+        "value": "Festif"
       },
       {
         "trait_type": "Capacité",
-        "value": "Apporte de la Joie"
+        "value": "Crée des célébrations joyeuses"
       }
     ],
     "de": [
       {
         "trait_type": "Körper",
-        "value": "Kuchen"
+        "value": "Braun"
       },
       {
         "trait_type": "Inhalt",
@@ -169,17 +169,17 @@
       },
       {
         "trait_type": "Persönlichkeit",
-        "value": "Fröhlich"
+        "value": "Festlich"
       },
       {
         "trait_type": "Fähigkeit",
-        "value": "Bringt Freude"
+        "value": "Schafft freudige Feiern"
       }
     ],
     "pt": [
       {
         "trait_type": "Corpo",
-        "value": "Bolo"
+        "value": "Marrom"
       },
       {
         "trait_type": "Conteúdo",
@@ -187,17 +187,17 @@
       },
       {
         "trait_type": "Personalidade",
-        "value": "Alegre"
+        "value": "Festivo"
       },
       {
         "trait_type": "Habilidade",
-        "value": "Traz Alegria"
+        "value": "Cria celebrações alegres"
       }
     ],
     "ru": [
       {
         "trait_type": "Тело",
-        "value": "Торт"
+        "value": "Коричневый"
       },
       {
         "trait_type": "Содержимое",
@@ -205,17 +205,17 @@
       },
       {
         "trait_type": "Личность",
-        "value": "Веселый"
+        "value": "Праздничный"
       },
       {
         "trait_type": "Способность",
-        "value": "Приносит радость"
+        "value": "Создает радостные праздники"
       }
     ],
     "ar": [
       {
         "trait_type": "جسم",
-        "value": "كيك"
+        "value": "بني"
       },
       {
         "trait_type": "محتويات",
@@ -223,17 +223,17 @@
       },
       {
         "trait_type": "شخصية",
-        "value": "مبتهج"
+        "value": "احتفالي"
       },
       {
         "trait_type": "قدرة",
-        "value": "يجلب الفرح"
+        "value": "يخلق احتفالات مبهجة"
       }
     ],
     "hi": [
       {
         "trait_type": "शरीर",
-        "value": "केक"
+        "value": "भूरा"
       },
       {
         "trait_type": "सामग्री",
@@ -241,11 +241,11 @@
       },
       {
         "trait_type": "व्यक्तित्व",
-        "value": "हंसमुख"
+        "value": "उत्सवपूर्ण"
       },
       {
         "trait_type": "क्षमता",
-        "value": "खुशी लाता है"
+        "value": "आनंदमय उत्सव बनाता है"
       }
     ]
   },

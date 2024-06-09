@@ -49,5 +49,205 @@
       "value": "Illumination"
     }
   ],
+  "localizedAttributes": {
+    "en": [
+      {
+        "trait_type": "Body",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Light Bulb"
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Bright"
+      },
+      {
+        "trait_type": "Ability",
+        "value": "Illumination"
+      }
+    ],
+    "ko": [
+      {
+        "trait_type": "몸",
+        "value": "노랑"
+      },
+      {
+        "trait_type": "모양",
+        "value": "전구"
+      },
+      {
+        "trait_type": "성격",
+        "value": "밝은"
+      },
+      {
+        "trait_type": "능력",
+        "value": "조명"
+      }
+    ],
+    "jp": [
+      {
+        "trait_type": "体",
+        "value": "黄色"
+      },
+      {
+        "trait_type": "形状",
+        "value": "電球"
+      },
+      {
+        "trait_type": "性格",
+        "value": "明るい"
+      },
+      {
+        "trait_type": "能力",
+        "value": "照明"
+      }
+    ],
+    "zh-CN": [
+      {
+        "trait_type": "身体",
+        "value": "黄色"
+      },
+      {
+        "trait_type": "形状",
+        "value": "灯泡"
+      },
+      {
+        "trait_type": "性格",
+        "value": "明亮"
+      },
+      {
+        "trait_type": "能力",
+        "value": "照明"
+      }
+    ],
+    "es": [
+      {
+        "trait_type": "Cuerpo",
+        "value": "Amarillo"
+      },
+      {
+        "trait_type": "Forma",
+        "value": "Bombilla"
+      },
+      {
+        "trait_type": "Personalidad",
+        "value": "Brillante"
+      },
+      {
+        "trait_type": "Habilidad",
+        "value": "Iluminación"
+      }
+    ],
+    "fr": [
+      {
+        "trait_type": "Corps",
+        "value": "Jaune"
+      },
+      {
+        "trait_type": "Forme",
+        "value": "Ampoule"
+      },
+      {
+        "trait_type": "Personnalité",
+        "value": "Lumieux"
+      },
+      {
+        "trait_type": "Capacité",
+        "value": "Illumination"
+      }
+    ],
+    "de": [
+      {
+        "trait_type": "Körper",
+        "value": "Gelb"
+      },
+      {
+        "trait_type": "Form",
+        "value": "Glühbirne"
+      },
+      {
+        "trait_type": "Persönlichkeit",
+        "value": "Helligkeit"
+      },
+      {
+        "trait_type": "Fähigkeit",
+        "value": "Beleuchtung"
+      }
+    ],
+    "pt": [
+      {
+        "trait_type": "Corpo",
+        "value": "Amarelo"
+      },
+      {
+        "trait_type": "Forma",
+        "value": "Lâmpada"
+      },
+      {
+        "trait_type": "Personalidade",
+        "value": "Brilhante"
+      },
+      {
+        "trait_type": "Habilidade",
+        "value": "Iluminação"
+      }
+    ],
+    "ru": [
+      {
+        "trait_type": "Тело",
+        "value": "Желтый"
+      },
+      {
+        "trait_type": "Форма",
+        "value": "Лампочка"
+      },
+      {
+        "trait_type": "Личность",
+        "value": "Яркий"
+      },
+      {
+        "trait_type": "Способность",
+        "value": "Освещение"
+      }
+    ],
+    "ar": [
+      {
+        "trait_type": "جسم",
+        "value": "أصفر"
+      },
+      {
+        "trait_type": "شكل",
+        "value": "مصباح"
+      },
+      {
+        "trait_type": "شخصية",
+        "value": "ساطع"
+      },
+      {
+        "trait_type": "قدرة",
+        "value": "إضاءة"
+      }
+    ],
+    "hi": [
+      {
+        "trait_type": "शरीर",
+        "value": "पीला"
+      },
+      {
+        "trait_type": "आकार",
+        "value": "लाइट बल्ब"
+      },
+      {
+        "trait_type": "व्यक्तित्व",
+        "value": "उज्ज्वल"
+      },
+      {
+        "trait_type": "क्षमता",
+        "value": "प्रकाश"
+      }
+    ]
+  },
   "birthday": "2024-06-04"
 }
