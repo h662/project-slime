@@ -1,299 +1,251 @@
 {
   "id": 14,
-  "name": "Beaker Slime",
+  "name": "Chocolate Cake Slime",
   "localizedNames": {
-    "en": "Beaker Slime",
-    "ko": "비커 슬라임",
-    "jp": "ビーカースライム",
-    "zh-CN": "烧杯史莱姆",
-    "es": "Slime de Vaso",
-    "fr": "Slime Bécher",
-    "de": "Becher Schleim",
-    "pt": "Slime de Becker",
-    "ru": "Колбовый Слайм",
-    "ar": "سلايم دورق",
-    "hi": "बीकर स्लाइम"
+    "en": "Chocolate Cake Slime",
+    "ko": "초코 케이크 슬라임",
+    "jp": "チョコケーキスライム",
+    "zh-CN": "巧克力蛋糕史莱姆",
+    "es": "Slime de Pastel de Chocolate",
+    "fr": "Slime Gâteau au Chocolat",
+    "de": "Schokoladenkuchen Schleim",
+    "pt": "Slime de Bolo de Chocolate",
+    "ru": "Шоколадный Торт Слизь",
+    "ar": "سلايم كعكة الشوكولاتة",
+    "hi": "चॉकलेट केक स्लाइम"
   },
-  "description": "An essential slime for experiments in the Slime Project. Beaker Slime has the unique ability to safely contain and react with various substances. Researchers use it to conduct experiments, observe reactions, and study the properties of different materials.",
+  "description": "A slime that embodies the sweetness of chocolate and the tanginess of strawberries. In the Slime Project, Chocolate Cake Slime is known for its ability to celebrate and bring joy to any occasion, much like its twin, the Whipped Cream Cake Slime. Researchers observe it to study the effects of positive emotions and social bonding among slimes.",
   "localizedDescriptions": {
-    "en": "An essential slime for experiments in the Slime Project. Beaker Slime has the unique ability to safely contain and react with various substances. Researchers use it to conduct experiments, observe reactions, and study the properties of different materials.",
-    "ko": "슬라임 프로젝트 연구 실험에 필수적인 슬라임입니다. 비커 슬라임은 다양한 물질을 안전하게 담고 반응할 수 있는 독특한 능력을 가지고 있습니다. 연구자들은 이를 사용하여 실험을 진행하고 반응을 관찰하며 다양한 물질의 특성을 연구합니다.",
-    "jp": "スライムプロジェクトの実験に欠かせないスライムです。ビーカースライムは、さまざまな物質を安全に含有し、反応する独自の能力を持っています。研究者たちはこれを使って実験を行い、反応を観察し、さまざまな物質の特性を研究します。",
-    "zh-CN": "在史莱姆项目的实验中必不可少的史莱姆。烧杯史莱姆具有安全容纳和反应各种物质的独特能力。研究人员使用它来进行实验，观察反应，并研究不同材料的特性。",
-    "es": "Un slime esencial para los experimentos en el Proyecto Slime. El Slime de Vaso tiene la capacidad única de contener y reaccionar de manera segura con diversas sustancias. Los investigadores lo usan para realizar experimentos, observar reacciones y estudiar las propiedades de diferentes materiales.",
-    "fr": "Un slime essentiel pour les expériences dans le Projet Slime. Le Slime Bécher a la capacité unique de contenir et de réagir en toute sécurité avec diverses substances. Les chercheurs l'utilisent pour mener des expériences, observer des réactions et étudier les propriétés de différents matériaux.",
-    "de": "Ein wesentlicher Schleim für Experimente im Slime-Projekt. Der Becher Schleim hat die einzigartige Fähigkeit, verschiedene Substanzen sicher zu enthalten und zu reagieren. Forscher verwenden ihn, um Experimente durchzuführen, Reaktionen zu beobachten und die Eigenschaften verschiedener Materialien zu untersuchen.",
-    "pt": "Um slime essencial para os experimentos no Projeto Slime. O Slime de Becker tem a capacidade única de conter e reagir com segurança a várias substâncias. Os pesquisadores o usam para conduzir experimentos, observar reações e estudar as propriedades de diferentes materiais.",
-    "ru": "Необходимый слайм для экспериментов в проекте Slime. Колбовый Слайм обладает уникальной способностью безопасно содержать и реагировать с различными веществами. Исследователи используют его для проведения экспериментов, наблюдения за реакциями и изучения свойств различных материалов.",
-    "ar": "سلايم أساسي للتجارب في مشروع السلايم. يتمتع سلايم دورق بقدرة فريدة على احتواء والتفاعل بأمان مع المواد المختلفة. يستخدمه الباحثون لإجراء التجارب، ومراقبة التفاعلات، ودراسة خصائص المواد المختلفة.",
-    "hi": "स्लाइम प्रोजेक्ट में प्रयोगों के लिए एक आवश्यक स्लाइम। बीकर स्लाइम में विभिन्न पदार्थों को सुरक्षित रूप से रखने और प्रतिक्रिया करने की अनूठी क्षमता है। शोधकर्ता इसका उपयोग प्रयोगों को करने, प्रतिक्रियाओं का अवलोकन करने और विभिन्न सामग्रियों के गुणों का अध्ययन करने के लिए करते हैं।"
+    "en": "A slime that embodies the sweetness of chocolate and the tanginess of strawberries. In the Slime Project, Chocolate Cake Slime is known for its ability to celebrate and bring joy to any occasion, much like its twin, the Whipped Cream Cake Slime. Researchers observe it to study the effects of positive emotions and social bonding among slimes.",
+    "ko": "초콜릿의 달콤함과 딸기의 상큼함을 품고 있는 슬라임입니다. 슬라임 프로젝트에서 초코 케이크 슬라임은 쌍둥이인 생크림 케이크 슬라임처럼 어떤 상황에서도 기쁨을 주고 축하하는 능력으로 유명합니다. 연구자들은 이를 관찰하여 긍정적인 감정과 슬라임 간의 사회적 유대감의 영향을 연구합니다.",
+    "jp": "チョコレートの甘さとイチゴの酸味を兼ね備えたスライムです。スライムプロジェクトでは、チョコケーキスライムはどんな場面でも喜びをもたらし、祝う能力で知られています。研究者たちはそれを観察して、スライム同士の社会的絆とポジティブな感情の影響を研究します。",
+    "zh-CN": "一种兼具巧克力的甜味和草莓的酸味的史莱姆。在史莱姆项目中，巧克力蛋糕史莱姆以其在任何场合带来欢乐和庆祝能力而闻名，和它的双胞胎奶油蛋糕史莱姆一样。研究人员观察它，以研究积极情绪和史莱姆之间社会联系的影响。",
+    "es": "Un slime que encarna la dulzura del chocolate y el sabor ácido de las fresas. En el Proyecto Slime, el Slime de Pastel de Chocolate es conocido por su capacidad para celebrar y traer alegría a cualquier ocasión, al igual que su gemelo, el Slime de Pastel de Crema Batida. Los investigadores lo observan para estudiar los efectos de las emociones positivas y la unión social entre slimes.",
+    "fr": "Un slime qui incarne la douceur du chocolat et l'acidité des fraises. Dans le Projet Slime, le Slime Gâteau au Chocolat est connu pour sa capacité à célébrer et à apporter de la joie à toute occasion, tout comme son jumeau, le Slime Gâteau à la Crème Fouettée. Les chercheurs l'observent pour étudier les effets des émotions positives et des liens sociaux entre les slimes.",
+    "de": "Ein Schleim, der die Süße von Schokolade und die Säure von Erdbeeren vereint. Im Slime-Projekt ist der Schokoladenkuchen Schleim für seine Fähigkeit bekannt, bei jeder Gelegenheit Freude zu verbreiten und zu feiern, ähnlich wie sein Zwilling, der Schlagsahne-Kuchen Schleim. Forscher beobachten ihn, um die Auswirkungen positiver Emotionen und sozialer Bindungen unter den Schleimen zu untersuchen.",
+    "pt": "Um slime que incorpora a doçura do chocolate e o sabor ácido dos morangos. No Projeto Slime, o Slime de Bolo de Chocolate é conhecido por sua capacidade de celebrar e trazer alegria a qualquer ocasião, assim como seu gêmeo, o Slime de Bolo de Creme de Chantilly. Os pesquisadores o observam para estudar os efeitos das emoções positivas e da ligação social entre os slimes.",
+    "ru": "Слизь, которая сочетает в себе сладость шоколада и кислинку клубники. В проекте Slime шоколадный торт слизь известна своей способностью приносить радость и отмечать любое событие, так же, как и его двойник, взбитый кремовый торт слизь. Исследователи наблюдают за ней, чтобы изучить влияние положительных эмоций и социальных связей среди слизней.",
+    "ar": "سلايم يجسد حلاوة الشوكولاتة ونكهة الفراولة الحامضة. في مشروع السلايم، يُعرف سلايم كعكة الشوكولاتة بقدرته على الاحتفال وجلب الفرح في أي مناسبة، تمامًا مثل توأمه، سلايم كعكة الكريمة المخفوقة. يراقبها الباحثون لدراسة تأثيرات المشاعر الإيجابية والترابط الاجتماعي بين السلايم.",
+    "hi": "एक स्लाइम जो चॉकलेट की मिठास और स्ट्रॉबेरी की खटास को समाहित करता है। स्लाइम प्रोजेक्ट में, चॉकलेट केक स्लाइम को किसी भी अवसर पर खुशी लाने और जश्न मनाने की क्षमता के लिए जाना जाता है, ठीक अपने जुड़वां व्हीप्ड क्रीम केक स्लाइम की तरह। शोधकर्ता सकारात्मक भावनाओं और स्लाइम्स के बीच सामाजिक बंधन के प्रभावों का अध्ययन करने के लिए इसे देखते हैं।"
   },
-  "scene": "https://prod.spline.design/QzaKXun503uGxOHg/scene.splinecode",
-  "image": "",
-  "image_name": "beaker_slime.png",
+  "scene": "https://prod.spline.design/ZPfioXfiZy7aGyyu/scene.splinecode",
+  "image": "https://slime-project.mypinata.cloud/ipfs/Qmbk9mXZfi4jMVCj76ZxhjHkfccAYHnyafWq7E7SZCAXJR",
+  "image_name": "cake_slime_chocolate.png",
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Red"
+      "value": "Cake"
     },
     {
       "trait_type": "Contents",
-      "value": "Various Substances"
+      "value": "Strawberries"
     },
     {
       "trait_type": "Personality",
-      "value": "Analytical"
+      "value": "Cheerful"
     },
     {
       "trait_type": "Ability",
-      "value": "Containment"
-    },
-    {
-      "trait_type": "Purpose",
-      "value": "Experiment"
+      "value": "Brings Joy"
     }
   ],
   "localizedAttributes": {
     "en": [
       {
         "trait_type": "Body",
-        "value": "Red"
+        "value": "Cake"
       },
       {
         "trait_type": "Contents",
-        "value": "Various Substances"
+        "value": "Strawberries"
       },
       {
         "trait_type": "Personality",
-        "value": "Analytical"
+        "value": "Cheerful"
       },
       {
         "trait_type": "Ability",
-        "value": "Containment"
-      },
-      {
-        "trait_type": "Purpose",
-        "value": "Experiment"
+        "value": "Brings Joy"
       }
     ],
     "ko": [
       {
         "trait_type": "몸",
-        "value": "빨강"
+        "value": "케이크"
       },
       {
         "trait_type": "내용물",
-        "value": "다양한 물질"
+        "value": "딸기"
       },
       {
         "trait_type": "성격",
-        "value": "분석적"
+        "value": "밝은"
       },
       {
         "trait_type": "능력",
-        "value": "포함"
-      },
-      {
-        "trait_type": "목적",
-        "value": "실험"
+        "value": "기쁨을 가져다 줌"
       }
     ],
     "jp": [
       {
         "trait_type": "体",
-        "value": "赤"
+        "value": "ケーキ"
       },
       {
         "trait_type": "内容物",
-        "value": "さまざまな物質"
+        "value": "いちご"
       },
       {
         "trait_type": "性格",
-        "value": "分析的"
+        "value": "明るい"
       },
       {
         "trait_type": "能力",
-        "value": "含有"
-      },
-      {
-        "trait_type": "目的",
-        "value": "実験"
+        "value": "喜びをもたらす"
       }
     ],
     "zh-CN": [
       {
         "trait_type": "身体",
-        "value": "红色"
+        "value": "蛋糕"
       },
       {
         "trait_type": "内容",
-        "value": "各种物质"
+        "value": "草莓"
       },
       {
         "trait_type": "性格",
-        "value": "分析性"
+        "value": "开朗"
       },
       {
         "trait_type": "能力",
-        "value": "容纳"
-      },
-      {
-        "trait_type": "目的",
-        "value": "实验"
+        "value": "带来欢乐"
       }
     ],
     "es": [
       {
         "trait_type": "Cuerpo",
-        "value": "Rojo"
+        "value": "Pastel"
       },
       {
         "trait_type": "Contenido",
-        "value": "Diversas Sustancias"
+        "value": "Fresas"
       },
       {
         "trait_type": "Personalidad",
-        "value": "Analítico"
+        "value": "Alegre"
       },
       {
         "trait_type": "Habilidad",
-        "value": "Contención"
-      },
-      {
-        "trait_type": "Propósito",
-        "value": "Experimento"
+        "value": "Trae Alegría"
       }
     ],
     "fr": [
       {
         "trait_type": "Corps",
-        "value": "Rouge"
+        "value": "Gâteau"
       },
       {
         "trait_type": "Contenu",
-        "value": "Diverses Substances"
+        "value": "Fraises"
       },
       {
         "trait_type": "Personnalité",
-        "value": "Analytique"
+        "value": "Joyeux"
       },
       {
         "trait_type": "Capacité",
-        "value": "Contenue"
-      },
-      {
-        "trait_type": "But",
-        "value": "Expérience"
+        "value": "Apporte de la Joie"
       }
     ],
     "de": [
       {
         "trait_type": "Körper",
-        "value": "Rot"
+        "value": "Kuchen"
       },
       {
         "trait_type": "Inhalt",
-        "value": "Verschiedene Substanzen"
+        "value": "Erdbeeren"
       },
       {
         "trait_type": "Persönlichkeit",
-        "value": "Analytisch"
+        "value": "Fröhlich"
       },
       {
         "trait_type": "Fähigkeit",
-        "value": "Einschluss"
-      },
-      {
-        "trait_type": "Zweck",
-        "value": "Experiment"
+        "value": "Bringt Freude"
       }
     ],
     "pt": [
       {
         "trait_type": "Corpo",
-        "value": "Vermelho"
+        "value": "Bolo"
       },
       {
         "trait_type": "Conteúdo",
-        "value": "Várias Substâncias"
+        "value": "Morangos"
       },
       {
         "trait_type": "Personalidade",
-        "value": "Analítico"
+        "value": "Alegre"
       },
       {
         "trait_type": "Habilidade",
-        "value": "Confinamento"
-      },
-      {
-        "trait_type": "Propósito",
-        "value": "Experimento"
+        "value": "Traz Alegria"
       }
     ],
     "ru": [
       {
         "trait_type": "Тело",
-        "value": "Красное"
+        "value": "Торт"
       },
       {
         "trait_type": "Содержимое",
-        "value": "Разные Вещества"
+        "value": "Клубника"
       },
       {
         "trait_type": "Личность",
-        "value": "Аналитический"
+        "value": "Веселый"
       },
       {
         "trait_type": "Способность",
-        "value": "Содержание"
-      },
-      {
-        "trait_type": "Цель",
-        "value": "Эксперимент"
+        "value": "Приносит радость"
       }
     ],
     "ar": [
       {
         "trait_type": "جسم",
-        "value": "أحمر"
+        "value": "كيك"
       },
       {
         "trait_type": "محتويات",
-        "value": "مواد مختلفة"
+        "value": "فراولة"
       },
       {
         "trait_type": "شخصية",
-        "value": "تحليلي"
+        "value": "مبتهج"
       },
       {
         "trait_type": "قدرة",
-        "value": "احتواء"
-      },
-      {
-        "trait_type": "غرض",
-        "value": "تجربة"
+        "value": "يجلب الفرح"
       }
     ],
     "hi": [
       {
         "trait_type": "शरीर",
-        "value": "लाल"
+        "value": "केक"
       },
       {
         "trait_type": "सामग्री",
-        "value": "विभिन्न पदार्थ"
+        "value": "स्ट्रॉबेरी"
       },
       {
         "trait_type": "व्यक्तित्व",
-        "value": "विश्लेषणात्मक"
+        "value": "हंसमुख"
       },
       {
         "trait_type": "क्षमता",
-        "value": "सामग्री रखना"
-      },
-      {
-        "trait_type": "उद्देश्य",
-        "value": "प्रयोग"
+        "value": "खुशी लाता है"
       }
     ]
   },

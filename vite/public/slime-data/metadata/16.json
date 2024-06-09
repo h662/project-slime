@@ -1,0 +1,302 @@
+{
+  "id": 16,
+  "name": "Flask Slime",
+  "localizedNames": {
+    "en": "Flask Slime",
+    "ko": "플라스크 슬라임",
+    "jp": "フラスコスライム",
+    "zh-CN": "烧瓶史莱姆",
+    "es": "Slime de Matraz",
+    "fr": "Slime Erlenmeyer",
+    "de": "Flaschen-Schleim",
+    "pt": "Slime de Frasco",
+    "ru": "Флакон Слайм",
+    "ar": "سلايم قارورة",
+    "hi": "फ्लास्क स्लाइम"
+  },
+  "description": "Flask Slime is known for its precision and ability to measure and mix substances accurately. It plays a crucial role in complex experiments within the Slime Project. Researchers rely on Flask Slime to ensure the correct proportions and reactions during their studies. Often seen working alongside Beaker Slime, Flask Slime's partnership is essential for conducting thorough and accurate scientific research.",
+  "localizedDescriptions": {
+    "en": "Flask Slime is known for its precision and ability to measure and mix substances accurately. It plays a crucial role in complex experiments within the Slime Project. Researchers rely on Flask Slime to ensure the correct proportions and reactions during their studies. Often seen working alongside Beaker Slime, Flask Slime's partnership is essential for conducting thorough and accurate scientific research.",
+    "ko": "플라스크 슬라임은 정밀도와 정확한 측정 및 혼합 능력으로 유명합니다. 슬라임 프로젝트에서 복잡한 실험에서 중요한 역할을 합니다. 연구자들은 연구 중 올바른 비율과 반응을 보장하기 위해 플라스크 슬라임을 신뢰합니다. 비커 슬라임과 함께 일하는 모습이 자주 보이며, 플라스크 슬라임의 파트너십은 철저하고 정확한 과학 연구를 수행하는 데 필수적입니다.",
+    "jp": "フラスコスライムは、正確さと物質の測定および混合能力で知られています。スライムプロジェクトでは複雑な実験において重要な役割を果たします。研究者たちは、研究中に正しい割合と反応を保証するためにフラスコスライムを信頼しています。ビーカースライムと一緒に働く姿がよく見られ、フラスコスライムのパートナーシップは徹底した正確な科学研究を行うために不可欠です。",
+    "zh-CN": "烧瓶史莱姆以其精确性和准确测量及混合物质的能力而闻名。它在史莱姆项目中的复杂实验中发挥着关键作用。研究人员依靠烧瓶史莱姆确保研究过程中正确的比例和反应。经常与烧杯史莱姆一起工作，烧瓶史莱姆的伙伴关系对于进行全面和准确的科学研究至关重要。",
+    "es": "El Slime de Matraz es conocido por su precisión y capacidad para medir y mezclar sustancias con precisión. Desempeña un papel crucial en los experimentos complejos dentro del Proyecto Slime. Los investigadores confían en el Slime de Matraz para asegurar las proporciones y reacciones correctas durante sus estudios. A menudo se le ve trabajando junto al Slime de Vaso, la asociación del Slime de Matraz es esencial para llevar a cabo una investigación científica exhaustiva y precisa.",
+    "fr": "Le Slime Erlenmeyer est connu pour sa précision et sa capacité à mesurer et à mélanger des substances avec précision. Il joue un rôle crucial dans les expériences complexes du Projet Slime. Les chercheurs comptent sur le Slime Erlenmeyer pour garantir les proportions et les réactions correctes au cours de leurs études. Souvent vu en train de travailler aux côtés du Slime Bécher, le partenariat du Slime Erlenmeyer est essentiel pour mener des recherches scientifiques rigoureuses et précises.",
+    "de": "Flaschen-Schleim ist bekannt für seine Präzision und Fähigkeit, Substanzen genau zu messen und zu mischen. Er spielt eine entscheidende Rolle bei komplexen Experimenten im Slime-Projekt. Forscher verlassen sich auf Flaschen-Schleim, um während ihrer Studien die richtigen Proportionen und Reaktionen sicherzustellen. Oft sieht man ihn zusammen mit Becher Schleim arbeiten, die Partnerschaft von Flaschen-Schleim ist entscheidend für die Durchführung gründlicher und genauer wissenschaftlicher Forschung.",
+    "pt": "O Slime de Frasco é conhecido por sua precisão e capacidade de medir e misturar substâncias com precisão. Ele desempenha um papel crucial em experimentos complexos no Projeto Slime. Os pesquisadores confiam no Slime de Frasco para garantir as proporções e reações corretas durante seus estudos. Frequentemente visto trabalhando ao lado do Slime de Becker, a parceria do Slime de Frasco é essencial para realizar uma pesquisa científica completa e precisa.",
+    "ru": "Флакон Слайм известен своей точностью и способностью точно измерять и смешивать вещества. Он играет решающую роль в сложных экспериментах в проекте Slime. Исследователи полагаются на Флакон Слайм, чтобы обеспечить правильные пропорции и реакции во время их исследований. Часто его можно увидеть работающим вместе с Колбовым Слаймом, их партнерство имеет решающее значение для проведения тщательных и точных научных исследований.",
+    "ar": "سلايم قارورة معروف بدقته وقدرته على قياس ومزج المواد بدقة. يلعب دورًا حاسمًا في التجارب المعقدة داخل مشروع السلايم. يعتمد الباحثون على سلايم قارورة لضمان النسب والتفاعلات الصحيحة أثناء دراساتهم. غالبًا ما يُرى يعمل جنبًا إلى جنب مع سلايم دورق، فإن شراكة سلايم قارورة ضرورية لإجراء بحث علمي دقيق وشامل.",
+    "hi": "फ्लास्क स्लाइम अपनी सटीकता और पदार्थों को मापने और मिलाने की क्षमता के लिए जाना जाता है। यह स्लाइम प्रोजेक्ट के जटिल प्रयोगों में एक महत्वपूर्ण भूमिका निभाता है। शोधकर्ता अपने अध्ययन के दौरान सही अनुपात और प्रतिक्रियाओं को सुनिश्चित करने के लिए फ्लास्क स्लाइम पर निर्भर करते हैं। बीकर स्लाइम के साथ काम करते हुए अक्सर देखा जाने वाला फ्लास्क स्लाइम का साझेदारी गहन और सटीक वैज्ञानिक अनुसंधान के लिए आवश्यक है।"
+  },
+  "scene": "https://prod.spline.design/bXAGhFKEUyj8GKFA/scene.splinecode",
+  "image": "",
+  "image_name": "flask_slime.png",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Contents",
+      "value": "Various Substances"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Precise"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Measurement"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Experiment"
+    }
+  ],
+  "localizedAttributes": {
+    "en": [
+      {
+        "trait_type": "Body",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Contents",
+        "value": "Various Substances"
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Precise"
+      },
+      {
+        "trait_type": "Ability",
+        "value": "Measurement"
+      },
+      {
+        "trait_type": "Purpose",
+        "value": "Experiment"
+      }
+    ],
+    "ko": [
+      {
+        "trait_type": "몸",
+        "value": "파랑"
+      },
+      {
+        "trait_type": "내용물",
+        "value": "다양한 물질"
+      },
+      {
+        "trait_type": "성격",
+        "value": "정확한"
+      },
+      {
+        "trait_type": "능력",
+        "value": "측정"
+      },
+      {
+        "trait_type": "목적",
+        "value": "실험"
+      }
+    ],
+    "jp": [
+      {
+        "trait_type": "体",
+        "value": "青"
+      },
+      {
+        "trait_type": "内容物",
+        "value": "さまざまな物質"
+      },
+      {
+        "trait_type": "性格",
+        "value": "正確"
+      },
+      {
+        "trait_type": "能力",
+        "value": "測定"
+      },
+      {
+        "trait_type": "目的",
+        "value": "実験"
+      }
+    ],
+    "zh-CN": [
+      {
+        "trait_type": "身体",
+        "value": "蓝色"
+      },
+      {
+        "trait_type": "内容",
+        "value": "各种物质"
+      },
+      {
+        "trait_type": "性格",
+        "value": "精确"
+      },
+      {
+        "trait_type": "能力",
+        "value": "测量"
+      },
+      {
+        "trait_type": "目的",
+        "value": "实验"
+      }
+    ],
+    "es": [
+      {
+        "trait_type": "Cuerpo",
+        "value": "Azul"
+      },
+      {
+        "trait_type": "Contenido",
+        "value": "Diversas Sustancias"
+      },
+      {
+        "trait_type": "Personalidad",
+        "value": "Preciso"
+      },
+      {
+        "trait_type": "Habilidad",
+        "value": "Medición"
+      },
+      {
+        "trait_type": "Propósito",
+        "value": "Experimento"
+      }
+    ],
+    "fr": [
+      {
+        "trait_type": "Corps",
+        "value": "Bleu"
+      },
+      {
+        "trait_type": "Contenu",
+        "value": "Diverses Substances"
+      },
+      {
+        "trait_type": "Personnalité",
+        "value": "Précis"
+      },
+      {
+        "trait_type": "Capacité",
+        "value": "Mesure"
+      },
+      {
+        "trait_type": "But",
+        "value": "Expérience"
+      }
+    ],
+    "de": [
+      {
+        "trait_type": "Körper",
+        "value": "Blau"
+      },
+      {
+        "trait_type": "Inhalt",
+        "value": "Verschiedene Substanzen"
+      },
+      {
+        "trait_type": "Persönlichkeit",
+        "value": "Präzise"
+      },
+      {
+        "trait_type": "Fähigkeit",
+        "value": "Messung"
+      },
+      {
+        "trait_type": "Zweck",
+        "value": "Experiment"
+      }
+    ],
+    "pt": [
+      {
+        "trait_type": "Corpo",
+        "value": "Azul"
+      },
+      {
+        "trait_type": "Conteúdo",
+        "value": "Várias Substâncias"
+      },
+      {
+        "trait_type": "Personalidade",
+        "value": "Preciso"
+      },
+      {
+        "trait_type": "Habilidade",
+        "value": "Medição"
+      },
+      {
+        "trait_type": "Propósito",
+        "value": "Experimento"
+      }
+    ],
+    "ru": [
+      {
+        "trait_type": "Тело",
+        "value": "Синий"
+      },
+      {
+        "trait_type": "Содержимое",
+        "value": "Разные Вещества"
+      },
+      {
+        "trait_type": "Личность",
+        "value": "Точный"
+      },
+      {
+        "trait_type": "Способность",
+        "value": "Измерение"
+      },
+      {
+        "trait_type": "Цель",
+        "value": "Эксперимент"
+      }
+    ],
+    "ar": [
+      {
+        "trait_type": "جسم",
+        "value": "أزرق"
+      },
+      {
+        "trait_type": "محتويات",
+        "value": "مواد مختلفة"
+      },
+      {
+        "trait_type": "شخصية",
+        "value": "دقيق"
+      },
+      {
+        "trait_type": "قدرة",
+        "value": "قياس"
+      },
+      {
+        "trait_type": "غرض",
+        "value": "تجربة"
+      }
+    ],
+    "hi": [
+      {
+        "trait_type": "शरीर",
+        "value": "नीला"
+      },
+      {
+        "trait_type": "सामग्री",
+        "value": "विभिन्न पदार्थ"
+      },
+      {
+        "trait_type": "व्यक्तित्व",
+        "value": "सटीक"
+      },
+      {
+        "trait_type": "क्षमता",
+        "value": "मापना"
+      },
+      {
+        "trait_type": "उद्देश्य",
+        "value": "प्रयोग"
+      }
+    ]
+  },
+  "birthday": "",
+  "version": 2
+}

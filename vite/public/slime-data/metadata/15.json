@@ -1,0 +1,302 @@
+{
+  "id": 15,
+  "name": "Beaker Slime",
+  "localizedNames": {
+    "en": "Beaker Slime",
+    "ko": "비커 슬라임",
+    "jp": "ビーカースライム",
+    "zh-CN": "烧杯史莱姆",
+    "es": "Slime de Vaso",
+    "fr": "Slime Bécher",
+    "de": "Becher Schleim",
+    "pt": "Slime de Becker",
+    "ru": "Колбовый Слайм",
+    "ar": "سلايم دورق",
+    "hi": "बीकर स्लाइम"
+  },
+  "description": "An essential slime for experiments in the Slime Project. Beaker Slime has the unique ability to safely contain and react with various substances. Researchers use it to conduct experiments, observe reactions, and study the properties of different materials. Often seen working alongside Flask Slime, their partnership ensures the success of complex scientific experiments.",
+  "localizedDescriptions": {
+    "en": "An essential slime for experiments in the Slime Project. Beaker Slime has the unique ability to safely contain and react with various substances. Researchers use it to conduct experiments, observe reactions, and study the properties of different materials. Often seen working alongside Flask Slime, their partnership ensures the success of complex scientific experiments.",
+    "ko": "슬라임 프로젝트 연구 실험에 필수적인 슬라임입니다. 비커 슬라임은 다양한 물질을 안전하게 담고 반응할 수 있는 독특한 능력을 가지고 있습니다. 연구자들은 이를 사용하여 실험을 진행하고 반응을 관찰하며 다양한 물질의 특성을 연구합니다. 비커 슬라임은 플라스크 슬라임과 함께 일하는 모습이 자주 보이며, 이들의 협력은 복잡한 과학 실험의 성공을 보장합니다.",
+    "jp": "スライムプロジェクトの実験に欠かせないスライムです。ビーカースライムは、さまざまな物質を安全に含有し、反応する独自の能力を持っています。研究者たちはこれを使って実験を行い、反応を観察し、さまざまな物質の特性を研究します。ビーカースライムはフラスコスライムと一緒に働く姿がよく見られ、彼らのパートナーシップは複雑な科学実験の成功を保証します。",
+    "zh-CN": "在史莱姆项目的实验中必不可少的史莱姆。烧杯史莱姆具有安全容纳和反应各种物质的独特能力。研究人员使用它来进行实验，观察反应，并研究不同材料的特性。经常与烧瓶史莱姆一起工作，他们的合作确保了复杂科学实验的成功。",
+    "es": "Un slime esencial para los experimentos en el Proyecto Slime. El Slime de Vaso tiene la capacidad única de contener y reaccionar de manera segura con diversas sustancias. Los investigadores lo usan para realizar experimentos, observar reacciones y estudiar las propiedades de diferentes materiales. A menudo se le ve trabajando junto al Slime de Matraz, su colaboración asegura el éxito de experimentos científicos complejos.",
+    "fr": "Un slime essentiel pour les expériences dans le Projet Slime. Le Slime Bécher a la capacité unique de contenir et de réagir en toute sécurité avec diverses substances. Les chercheurs l'utilisent pour mener des expériences, observer des réactions et étudier les propriétés de différents matériaux. Souvent vu en train de travailler aux côtés du Slime Erlenmeyer, leur partenariat assure le succès des expériences scientifiques complexes.",
+    "de": "Ein wesentlicher Schleim für Experimente im Slime-Projekt. Der Becher Schleim hat die einzigartige Fähigkeit, verschiedene Substanzen sicher zu enthalten und zu reagieren. Forscher verwenden ihn, um Experimente durchzuführen, Reaktionen zu beobachten und die Eigenschaften verschiedener Materialien zu untersuchen. Oft sieht man ihn zusammen mit Flaschen-Schleim arbeiten, ihre Partnerschaft sichert den Erfolg komplexer wissenschaftlicher Experimente.",
+    "pt": "Um slime essencial para os experimentos no Projeto Slime. O Slime de Becker tem a capacidade única de conter e reagir com segurança a várias substâncias. Os pesquisadores o usam para conduzir experimentos, observar reações e estudar as propriedades de diferentes materiais. Frequentemente visto trabalhando ao lado do Slime de Frasco, sua parceria garante o sucesso de experimentos científicos complexos.",
+    "ru": "Необходимый слайм для экспериментов в проекте Slime. Колбовый Слайм обладает уникальной способностью безопасно содержать и реагировать с различными веществами. Исследователи используют его для проведения экспериментов, наблюдения за реакциями и изучения свойств различных материалов. Часто его можно увидеть работающим вместе с Флакон Слайм, их партнерство обеспечивает успех сложных научных экспериментов.",
+    "ar": "سلايم أساسي للتجارب في مشروع السلايم. يتمتع سلايم دورق بقدرة فريدة على احتواء والتفاعل بأمان مع المواد المختلفة. يستخدمه الباحثون لإجراء التجارب، ومراقبة التفاعلات، ودراسة خصائص المواد المختلفة. غالبًا ما يُرى يعمل جنبًا إلى جنب مع سلايم قارورة، فإن شراكتهم تضمن نجاح التجارب العلمية المعقدة.",
+    "hi": "स्लाइम प्रोजेक्ट में प्रयोगों के लिए एक आवश्यक स्लाइम। बीकर स्लाइम में विभिन्न पदार्थों को सुरक्षित रूप से रखने और प्रतिक्रिया करने की अनूठी क्षमता है। शोधकर्ता इसका उपयोग प्रयोगों को करने, प्रतिक्रियाओं का अवलोकन करने और विभिन्न सामग्रियों के गुणों का अध्ययन करने के लिए करते हैं। इसे अक्सर फ्लास्क स्लाइम के साथ काम करते देखा जाता है, उनकी साझेदारी जटिल वैज्ञानिक प्रयोगों की सफलता सुनिश्चित करती है।"
+  },
+  "scene": "https://prod.spline.design/QzaKXun503uGxOHg/scene.splinecode",
+  "image": "",
+  "image_name": "beaker_slime.png",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Contents",
+      "value": "Various Substances"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Analytical"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Containment"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Experiment"
+    }
+  ],
+  "localizedAttributes": {
+    "en": [
+      {
+        "trait_type": "Body",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Contents",
+        "value": "Various Substances"
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Analytical"
+      },
+      {
+        "trait_type": "Ability",
+        "value": "Containment"
+      },
+      {
+        "trait_type": "Purpose",
+        "value": "Experiment"
+      }
+    ],
+    "ko": [
+      {
+        "trait_type": "몸",
+        "value": "빨강"
+      },
+      {
+        "trait_type": "내용물",
+        "value": "다양한 물질"
+      },
+      {
+        "trait_type": "성격",
+        "value": "분석적"
+      },
+      {
+        "trait_type": "능력",
+        "value": "포함"
+      },
+      {
+        "trait_type": "목적",
+        "value": "실험"
+      }
+    ],
+    "jp": [
+      {
+        "trait_type": "体",
+        "value": "赤"
+      },
+      {
+        "trait_type": "内容物",
+        "value": "さまざまな物質"
+      },
+      {
+        "trait_type": "性格",
+        "value": "分析的"
+      },
+      {
+        "trait_type": "能力",
+        "value": "含有"
+      },
+      {
+        "trait_type": "目的",
+        "value": "実験"
+      }
+    ],
+    "zh-CN": [
+      {
+        "trait_type": "身体",
+        "value": "红色"
+      },
+      {
+        "trait_type": "内容",
+        "value": "各种物质"
+      },
+      {
+        "trait_type": "性格",
+        "value": "分析性"
+      },
+      {
+        "trait_type": "能力",
+        "value": "容纳"
+      },
+      {
+        "trait_type": "目的",
+        "value": "实验"
+      }
+    ],
+    "es": [
+      {
+        "trait_type": "Cuerpo",
+        "value": "Rojo"
+      },
+      {
+        "trait_type": "Contenido",
+        "value": "Diversas Sustancias"
+      },
+      {
+        "trait_type": "Personalidad",
+        "value": "Analítico"
+      },
+      {
+        "trait_type": "Habilidad",
+        "value": "Contención"
+      },
+      {
+        "trait_type": "Propósito",
+        "value": "Experimento"
+      }
+    ],
+    "fr": [
+      {
+        "trait_type": "Corps",
+        "value": "Rouge"
+      },
+      {
+        "trait_type": "Contenu",
+        "value": "Diverses Substances"
+      },
+      {
+        "trait_type": "Personnalité",
+        "value": "Analytique"
+      },
+      {
+        "trait_type": "Capacité",
+        "value": "Contenue"
+      },
+      {
+        "trait_type": "But",
+        "value": "Expérience"
+      }
+    ],
+    "de": [
+      {
+        "trait_type": "Körper",
+        "value": "Rot"
+      },
+      {
+        "trait_type": "Inhalt",
+        "value": "Verschiedene Substanzen"
+      },
+      {
+        "trait_type": "Persönlichkeit",
+        "value": "Analytisch"
+      },
+      {
+        "trait_type": "Fähigkeit",
+        "value": "Einschluss"
+      },
+      {
+        "trait_type": "Zweck",
+        "value": "Experiment"
+      }
+    ],
+    "pt": [
+      {
+        "trait_type": "Corpo",
+        "value": "Vermelho"
+      },
+      {
+        "trait_type": "Conteúdo",
+        "value": "Várias Substâncias"
+      },
+      {
+        "trait_type": "Personalidade",
+        "value": "Analítico"
+      },
+      {
+        "trait_type": "Habilidade",
+        "value": "Confinamento"
+      },
+      {
+        "trait_type": "Propósito",
+        "value": "Experimento"
+      }
+    ],
+    "ru": [
+      {
+        "trait_type": "Тело",
+        "value": "Красное"
+      },
+      {
+        "trait_type": "Содержимое",
+        "value": "Разные Вещества"
+      },
+      {
+        "trait_type": "Личность",
+        "value": "Аналитический"
+      },
+      {
+        "trait_type": "Способность",
+        "value": "Содержание"
+      },
+      {
+        "trait_type": "Цель",
+        "value": "Эксперимент"
+      }
+    ],
+    "ar": [
+      {
+        "trait_type": "جسم",
+        "value": "أحمر"
+      },
+      {
+        "trait_type": "محتويات",
+        "value": "مواد مختلفة"
+      },
+      {
+        "trait_type": "شخصية",
+        "value": "تحليلي"
+      },
+      {
+        "trait_type": "قدرة",
+        "value": "احتواء"
+      },
+      {
+        "trait_type": "غرض",
+        "value": "تجربة"
+      }
+    ],
+    "hi": [
+      {
+        "trait_type": "शरीर",
+        "value": "लाल"
+      },
+      {
+        "trait_type": "सामग्री",
+        "value": "विभिन्न पदार्थ"
+      },
+      {
+        "trait_type": "व्यक्तित्व",
+        "value": "विश्लेषणात्मक"
+      },
+      {
+        "trait_type": "क्षमता",
+        "value": "सामग्री रखना"
+      },
+      {
+        "trait_type": "उद्देश्य",
+        "value": "प्रयोग"
+      }
+    ]
+  },
+  "birthday": "",
+  "version": 2
+}
