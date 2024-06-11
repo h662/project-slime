@@ -30,6 +30,8 @@ const Layout: FC = () => {
         "14.json",
         "15.json",
         "16.json",
+        "17.json",
+        "18.json",
       ];
 
       const fetches = fileNames.map((v) =>

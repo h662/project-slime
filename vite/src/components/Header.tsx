@@ -5,6 +5,22 @@ import Logo from "../icons/Logo";
 import { useTranslation } from "react-i18next";
 import LanguageSelector from "./LanguageSelector";
 
+const navLinkData = [
+  {
+    link: "/report",
+    button: "slimeProjectReport",
+  },
+  {
+    link: "/all-slimes",
+    button: "seeAllSlimes",
+  },
+  {
+    link: "/slime-personality",
+    button: "slimePersonality",
+    isNew: true,
+  },
+];
+
 const Header: FC = () => {
   const [isButtonClicked, setIsButtonClicked] = useState<boolean>(false);
   const [isLinkHover, setIsLinkHover] = useState<boolean>(false);
@@ -44,24 +60,28 @@ const Header: FC = () => {
           } bg-white bg-opacity-40 shadow-lg transition delay-150 duration-300 ease-in-out pt-4 px-2 md:px-4 py-4 md:py-8 flex justify-between`}
         >
           <nav className="flex flex-col gap-1">
-            <button
-              className="button-style-sm text-left"
-              onClick={() => navigatePage("/report")}
-            >
-              {t("slimeProjectReport")}
-            </button>
-            <button
-              className="button-style-sm text-left"
-              onClick={() => navigatePage("/all-slimes")}
-            >
-              {t("seeAllSlimes")}
-            </button>
+            {navLinkData.map((v, i) => (
+              <button
+                key={i}
+                className="relative button-style-sm text-left"
+                onClick={() => navigatePage(v.link)}
+              >
+                {v.isNew ? (
+                  <div className="absolute top-0 right-0 bg-slimeGreen-500 text-white rounded-full px-1 text-[8px] md:text-xs">
+                    new
+                  </div>
+                ) : (
+                  ""
+                )}
+                {t(v.button)}
+              </button>
+            ))}
           </nav>
           <LanguageSelector />
         </div>
       </header>
       <button
-        className="fixed top-0 right-0 z-10 m-2 md:m-6 button-style"
+        className="fixed top-4 right-6 z-10 button-style-fixed"
         onClick={() => setIsButtonClicked(!isButtonClicked)}
       >
         <FaPowerOff className="w-6 md:w-8 h-6 md:h-8" />

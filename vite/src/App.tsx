@@ -7,6 +7,7 @@ import LanguageRedirect from "./components/LanguageRedirect";
 import AllSlimes from "./pages/all-slimes";
 import Slime from "./pages/slime";
 import Report from "./pages/report";
+import SlimePersonality from "./pages/slime-personality";
 
 const App: FC = () => {
   return (
@@ -18,6 +19,7 @@ const App: FC = () => {
           <Route path="/report" element={<Report />} />
           <Route path="/all-slimes" element={<AllSlimes />} />
           <Route path="/slime/:id" element={<Slime />} />
+          <Route path="/slime-personality" element={<SlimePersonality />} />
         </Route>
         <Route path="*" element={<NotFound />} />
       </Routes>

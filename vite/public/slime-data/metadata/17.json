@@ -1,0 +1,302 @@
+{
+  "id": 17,
+  "name": "Angel Slime",
+  "localizedNames": {
+    "en": "Angel Slime",
+    "ko": "천사 슬라임",
+    "jp": "エンジェルスライム",
+    "zh-CN": "天使史莱姆",
+    "es": "Slime Ángel",
+    "fr": "Slime Ange",
+    "de": "Engel Schleim",
+    "pt": "Slime Anjo",
+    "ru": "Ангел Слайм",
+    "ar": "سلايم ملاك",
+    "hi": "परी स्लाइम"
+  },
+  "description": "Angel Slime is known for its gentle and kind nature, always bringing comfort and healing to those around it. In the Slime Project, Angel Slime plays a crucial role in providing emotional support and soothing energy to other slimes and researchers. Its presence helps maintain a positive and calm atmosphere, making it indispensable for the wellbeing of the lab community. Angel Slime is friendly with everyone but has a notable rivalry with Devil Slime.",
+  "localizedDescriptions": {
+    "en": "Angel Slime is known for its gentle and kind nature, always bringing comfort and healing to those around it. In the Slime Project, Angel Slime plays a crucial role in providing emotional support and soothing energy to other slimes and researchers. Its presence helps maintain a positive and calm atmosphere, making it indispensable for the wellbeing of the lab community. Angel Slime is friendly with everyone but has a notable rivalry with Devil Slime.",
+    "ko": "천사 슬라임은 상냥하고 친절한 성격으로 유명하며 주변 사람들에게 항상 위로와 치유를 제공합니다. 슬라임 프로젝트에서 천사 슬라임은 다른 슬라임들과 연구자들에게 정서적 지원과 진정 에너지를 제공하는 중요한 역할을 합니다. 그 존재는 긍정적이고 평온한 분위기를 유지하는 데 도움이 되어 연구소 공동체의 웰빙에 필수적입니다. 천사 슬라임은 모두에게 친절하지만 악마 슬라임과는 사이가 좋지 않습니다.",
+    "jp": "エンジェルスライムは、その優しく親切な性格で知られており、周囲の人々に常に安らぎと癒しをもたらします。スライムプロジェクトでは、エンジェルスライムは他のスライムや研究者に対して感情的なサポートと癒しのエネルギーを提供する重要な役割を果たしています。その存在は、研究所のコミュニティの健康を維持するために不可欠です。エンジェルスライムは誰にでも友好的ですが、悪魔スライムとは著しいライバル関係があります。",
+    "zh-CN": "天使史莱姆以其温柔和善良的性格而闻名，总是为周围的人带来安慰和治愈。在史莱姆项目中，天使史莱姆在为其他史莱姆和研究人员提供情感支持和抚慰能量方面起着至关重要的作用。它的存在有助于保持积极和平静的氛围，对实验室社区的福祉至关重要。天使史莱姆与每个人都很友好，但与恶魔史莱姆有显著的竞争关系。",
+    "es": "El Slime Ángel es conocido por su naturaleza gentil y amable, siempre brindando consuelo y sanación a quienes lo rodean. En el Proyecto Slime, el Slime Ángel juega un papel crucial al proporcionar apoyo emocional y energía calmante a otros slimes e investigadores. Su presencia ayuda a mantener una atmósfera positiva y tranquila, haciéndolo indispensable para el bienestar de la comunidad del laboratorio. El Slime Ángel es amigable con todos, pero tiene una notable rivalidad con el Slime Demonio.",
+    "fr": "Le Slime Ange est connu pour sa nature douce et gentille, apportant toujours du réconfort et de la guérison à ceux qui l'entourent. Dans le Projet Slime, le Slime Ange joue un rôle crucial en fournissant un soutien émotionnel et une énergie apaisante aux autres slimes et chercheurs. Sa présence aide à maintenir une atmosphère positive et calme, le rendant indispensable au bien-être de la communauté du laboratoire. Le Slime Ange est amical avec tout le monde mais a une rivalité notable avec le Slime Diable.",
+    "de": "Der Engel Schleim ist für seine sanfte und freundliche Natur bekannt und bringt immer Trost und Heilung zu denen um ihn herum. Im Slime-Projekt spielt der Engel Schleim eine entscheidende Rolle bei der Bereitstellung von emotionaler Unterstützung und beruhigender Energie für andere Schleime und Forscher. Seine Präsenz trägt dazu bei, eine positive und ruhige Atmosphäre aufrechtzuerhalten, was ihn für das Wohlbefinden der Laborgemeinschaft unverzichtbar macht. Der Engel Schleim ist mit allen freundlich, hat aber eine bemerkenswerte Rivalität mit dem Teufel Schleim.",
+    "pt": "O Slime Anjo é conhecido por sua natureza gentil e amável, sempre trazendo conforto e cura para aqueles ao seu redor. No Projeto Slime, o Slime Anjo desempenha um papel crucial ao fornecer apoio emocional e energia calmante para outros slimes e pesquisadores. Sua presença ajuda a manter uma atmosfera positiva e calma, tornando-o indispensável para o bem-estar da comunidade do laboratório. O Slime Anjo é amigável com todos, mas tem uma rivalidade notável com o Slime Demônio.",
+    "ru": "Ангел Слайм известен своей доброй и ласковой натурой, всегда приносящей утешение и исцеление окружающим. В проекте Slime Ангел Слайм играет важнейшую роль в оказании эмоциональной поддержки и успокаивающей энергии другим слизням и исследователям. Его присутствие помогает поддерживать позитивную и спокойную атмосферу, что делает его незаменимым для благополучия лабораторного сообщества. Ангел Слайм дружелюбен со всеми, но имеет заметное соперничество с Дьяволом Слаймом.",
+    "ar": "سلايم الملاك معروف بطبيعته اللطيفة والطيبة، ويجلب دائمًا الراحة والشفاء لمن حوله. في مشروع السلايم، يلعب سلايم الملاك دورًا حاسمًا في توفير الدعم العاطفي والطاقة المهدئة للسلايمات والباحثين الآخرين. تساعد وجوده في الحفاظ على جو إيجابي وهادئ، مما يجعله لا غنى عنه لرفاهية مجتمع المختبر. سلايم الملاك ودود مع الجميع، لكنه يتمتع بمنافسة ملحوظة مع سلايم الشيطان.",
+    "hi": "एंजेल स्लाइम अपने कोमल और दयालु स्वभाव के लिए जाना जाता है, जो हमेशा अपने आस-पास के लोगों को आराम और उपचार प्रदान करता है। स्लाइम प्रोजेक्ट में, एंजेल स्लाइम अन्य स्लाइम्स और शोधकर्ताओं को भावनात्मक समर्थन और शांत ऊर्जा प्रदान करने में महत्वपूर्ण भूमिका निभाता है। इसकी उपस्थिति सकारात्मक और शांत वातावरण बनाए रखने में मदद करती है, जिससे यह लैब समुदाय की भलाई के लिए अनिवार्य हो जाता है। एंजेल स्लाइम सभी के साथ दोस्ताना है, लेकिन डेविल स्लाइम के साथ महत्वपूर्ण प्रतिद्वंद्विता है।"
+  },
+  "scene": "https://prod.spline.design/FR-p25IZHB7ljW59/scene.splinecode",
+  "image": "",
+  "image_name": "angel_slime.png",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "White"
+    },
+    {
+      "trait_type": "Contents",
+      "value": "Healing Energy"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Kind"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Healing"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Comfort"
+    }
+  ],
+  "localizedAttributes": {
+    "en": [
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Contents",
+        "value": "Healing Energy"
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Kind"
+      },
+      {
+        "trait_type": "Ability",
+        "value": "Healing"
+      },
+      {
+        "trait_type": "Purpose",
+        "value": "Comfort"
+      }
+    ],
+    "ko": [
+      {
+        "trait_type": "몸",
+        "value": "하얀색"
+      },
+      {
+        "trait_type": "내용물",
+        "value": "치유 에너지"
+      },
+      {
+        "trait_type": "성격",
+        "value": "상냥한"
+      },
+      {
+        "trait_type": "능력",
+        "value": "치유"
+      },
+      {
+        "trait_type": "목적",
+        "value": "위로"
+      }
+    ],
+    "jp": [
+      {
+        "trait_type": "体",
+        "value": "白"
+      },
+      {
+        "trait_type": "内容物",
+        "value": "治癒エネルギー"
+      },
+      {
+        "trait_type": "性格",
+        "value": "親切"
+      },
+      {
+        "trait_type": "能力",
+        "value": "治癒"
+      },
+      {
+        "trait_type": "目的",
+        "value": "慰め"
+      }
+    ],
+    "zh-CN": [
+      {
+        "trait_type": "身体",
+        "value": "白色"
+      },
+      {
+        "trait_type": "内容",
+        "value": "治疗能量"
+      },
+      {
+        "trait_type": "性格",
+        "value": "善良"
+      },
+      {
+        "trait_type": "能力",
+        "value": "治愈"
+      },
+      {
+        "trait_type": "目的",
+        "value": "安慰"
+      }
+    ],
+    "es": [
+      {
+        "trait_type": "Cuerpo",
+        "value": "Blanco"
+      },
+      {
+        "trait_type": "Contenido",
+        "value": "Energía Sanadora"
+      },
+      {
+        "trait_type": "Personalidad",
+        "value": "Amable"
+      },
+      {
+        "trait_type": "Habilidad",
+        "value": "Sanación"
+      },
+      {
+        "trait_type": "Propósito",
+        "value": "Consuelo"
+      }
+    ],
+    "fr": [
+      {
+        "trait_type": "Corps",
+        "value": "Blanc"
+      },
+      {
+        "trait_type": "Contenu",
+        "value": "Énergie de Guérison"
+      },
+      {
+        "trait_type": "Personnalité",
+        "value": "Gentil"
+      },
+      {
+        "trait_type": "Capacité",
+        "value": "Guérison"
+      },
+      {
+        "trait_type": "But",
+        "value": "Confort"
+      }
+    ],
+    "de": [
+      {
+        "trait_type": "Körper",
+        "value": "Weiß"
+      },
+      {
+        "trait_type": "Inhalt",
+        "value": "Heilenergie"
+      },
+      {
+        "trait_type": "Persönlichkeit",
+        "value": "Freundlich"
+      },
+      {
+        "trait_type": "Fähigkeit",
+        "value": "Heilung"
+      },
+      {
+        "trait_type": "Zweck",
+        "value": "Trost"
+      }
+    ],
+    "pt": [
+      {
+        "trait_type": "Corpo",
+        "value": "Branco"
+      },
+      {
+        "trait_type": "Conteúdo",
+        "value": "Energia Curativa"
+      },
+      {
+        "trait_type": "Personalidade",
+        "value": "Gentil"
+      },
+      {
+        "trait_type": "Habilidade",
+        "value": "Cura"
+      },
+      {
+        "trait_type": "Propósito",
+        "value": "Conforto"
+      }
+    ],
+    "ru": [
+      {
+        "trait_type": "Тело",
+        "value": "Белый"
+      },
+      {
+        "trait_type": "Содержимое",
+        "value": "Целительная Энергия"
+      },
+      {
+        "trait_type": "Личность",
+        "value": "Добрый"
+      },
+      {
+        "trait_type": "Способность",
+        "value": "Исцеление"
+      },
+      {
+        "trait_type": "Цель",
+        "value": "Утешение"
+      }
+    ],
+    "ar": [
+      {
+        "trait_type": "جسم",
+        "value": "أبيض"
+      },
+      {
+        "trait_type": "محتويات",
+        "value": "طاقة الشفاء"
+      },
+      {
+        "trait_type": "شخصية",
+        "value": "لطيف"
+      },
+      {
+        "trait_type": "قدرة",
+        "value": "شفاء"
+      },
+      {
+        "trait_type": "غرض",
+        "value": "راحة"
+      }
+    ],
+    "hi": [
+      {
+        "trait_type": "शरीर",
+        "value": "सफेद"
+      },
+      {
+        "trait_type": "सामग्री",
+        "value": "चिकित्सा ऊर्जा"
+      },
+      {
+        "trait_type": "व्यक्तित्व",
+        "value": "दयालु"
+      },
+      {
+        "trait_type": "क्षमता",
+        "value": "चिकित्सा"
+      },
+      {
+        "trait_type": "उद्देश्य",
+        "value": "सांत्वना"
+      }
+    ]
+  },
+  "birthday": "",
+  "version": 2
+}

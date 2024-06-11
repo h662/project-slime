@@ -29,8 +29,8 @@
     "hi": "एक स्लाइम जो चॉकलेट की मिठास और स्ट्रॉबेरी की खटास को समाहित करता है। स्लाइम प्रोजेक्ट में, चॉकलेट केक स्लाइम को किसी भी अवसर पर खुशी लाने और जश्न मनाने की क्षमता के लिए जाना जाता है, ठीक अपने जुड़वां व्हीप्ड क्रीम केक स्लाइम की तरह। शोधकर्ता सकारात्मक भावनाओं और स्लाइम्स के बीच सामाजिक बंधन के प्रभावों का अध्ययन करने के लिए इसे देखते हैं।"
   },
   "scene": "https://prod.spline.design/ZPfioXfiZy7aGyyu/scene.splinecode",
-  "image": "https://slime-project.mypinata.cloud/ipfs/Qmbk9mXZfi4jMVCj76ZxhjHkfccAYHnyafWq7E7SZCAXJR",
-  "image_name": "cake_slime_chocolate.png",
+  "image": "https://slime-project.mypinata.cloud/ipfs/QmPr9o6eahLD2ynUPw5PdAPwnK2U29MGCmzvtpiSVBGuXu",
+  "image_name": "chocolate_cake_slime.png",
   "attributes": [
     {
       "trait_type": "Body",
@@ -249,6 +249,6 @@
       }
     ]
   },
-  "birthday": "",
+  "birthday": "2024-06-10",
   "version": 2
 }

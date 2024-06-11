@@ -115,7 +115,11 @@ const Report: FC = () => {
                 {t("signatory")}
               </div>
               <div className="h-full border-r-2 border-black flex justify-center">
-                <img className="w-[42px] text-200" src="/logo.svg" />
+                <img
+                  className="w-[42px] text-200"
+                  src="/images/logo.svg"
+                  alt="slime-project"
+                />
               </div>
             </div>
             <div className="flex flex-col w-full text-white">

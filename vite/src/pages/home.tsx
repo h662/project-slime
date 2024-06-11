@@ -35,7 +35,7 @@ const Home: FC = () => {
         <button
           className={`${
             isClicked && "rotate-180"
-          } transition delay-150 duration-300 ease-in-out absolute -top-10 md:-top-10 left-1/2 -translate-x-full z-10 m-4 button-style`}
+          } transition delay-150 duration-300 ease-in-out absolute -top-10 md:-top-10 left-1/2 -translate-x-full z-10 m-4 button-style-fixed`}
           onClick={() => setIsClicked(!isClicked)}
         >
           <FaAngleUp className="w-8 md:w-8 h-8 md:h-8" />

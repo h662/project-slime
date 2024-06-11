@@ -25,12 +25,24 @@
 }
 
 @layer components {
-  .button-style {
+  .button-style-fixed {
     @apply bg-white bg-opacity-50 w-12 md:w-16 h-12 md:h-16 rounded-lg shadow-md flex justify-center items-center;
   }
 
   .button-style-sm {
-    @apply text-xs md:text-base bg-opacity-0 bg-white px-2 rounded-full shadow-md hover:bg-slimeGreen-300 active:bg-slimeGreen-200;
+    @apply text-xs md:text-base bg-opacity-0 bg-white px-2 py-1 rounded-full shadow-md hover:bg-slimeGreen-300 active:bg-slimeGreen-200;
+  }
+
+  .button-style-lg {
+    @apply text-lg md:text-xl bg-opacity-0 bg-white px-4 py-2 rounded-full shadow-md hover:bg-slimeGreen-300 active:bg-slimeGreen-200;
+  }
+
+  .button-style-xl {
+    @apply text-xl md:text-2xl bg-opacity-0 bg-white px-6 py-3 rounded-full shadow-md hover:bg-slimeGreen-300 active:bg-slimeGreen-200;
+  }
+
+  .button-style-2xl {
+    @apply text-2xl md:text-3xl bg-opacity-0 bg-white px-8 py-4 rounded-full shadow-md hover:bg-slimeGreen-300 active:bg-slimeGreen-200;
   }
 }
 
