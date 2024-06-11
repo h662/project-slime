@@ -1,7 +1,7 @@
 import { FC, useEffect, useState } from "react";
-import { Navigate, Outlet, useLocation, useNavigate } from "react-router-dom";
+import { Outlet, useLocation, useNavigate } from "react-router-dom";
 import Header from "./Header";
-import i18n, { supportedLngs } from "../lib/i18n";
+import i18n from "../lib/i18n";
 
 const allLanguages = [
   "/ar",
