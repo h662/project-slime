@@ -8,15 +8,15 @@ import i18n from "../lib/i18n";
 
 const navLinkData = [
   {
-    link: "report",
+    link: "/report",
     button: "slimeProjectReport",
   },
   {
-    link: "all-slimes",
+    link: "/all-slimes",
     button: "seeAllSlimes",
   },
   {
-    link: "slime-personality",
+    link: "/slime-personality",
     button: "slimePersonality",
     isNew: true,
   },
@@ -50,7 +50,7 @@ const Header: FC = () => {
             onMouseLeave={() => setIsLinkHover(false)}
             onTouchStart={() => setIsLinkHover(true)}
             onTouchEnd={() => setIsLinkHover(false)}
-            onClick={() => navigatePage(`/${i18n.language}/`)}
+            onClick={() => navigatePage(`/${i18n.language}`)}
           >
             <Logo isLinkHover={isLinkHover} /> {t("logo")}
           </button>
@@ -65,7 +65,7 @@ const Header: FC = () => {
               <button
                 key={i}
                 className="relative button-style-sm text-left"
-                onClick={() => navigatePage(`/${i18n.language}/${v.link}`)}
+                onClick={() => navigatePage(`/${i18n.language}${v.link}`)}
               >
                 {v.isNew ? (
                   <div className="absolute top-0 right-0 bg-slimeGreen-500 text-white rounded-full px-1 text-[8px] md:text-xs">

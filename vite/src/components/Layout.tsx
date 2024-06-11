@@ -61,8 +61,6 @@ const Layout: FC = () => {
 
     const isIncluded = allLanguages.includes(`/${firstSegment}`);
 
-    console.log(firstSegment);
-
     if (!isIncluded) {
       if (!i18n.language) {
         i18n.changeLanguage("en");
