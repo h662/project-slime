@@ -14,12 +14,15 @@ const App: FC = () => {
     <BrowserRouter>
       <Routes>
         <Route element={<Layout />}>
-          <Route path="/:lang" element={<LanguageRedirect />} />
-          <Route path="/" element={<Home />} />
-          <Route path="/report" element={<Report />} />
-          <Route path="/all-slimes" element={<AllSlimes />} />
-          <Route path="/slime/:id" element={<Slime />} />
-          <Route path="/slime-personality" element={<SlimePersonality />} />
+          <Route path="/" element={<LanguageRedirect />} />
+          <Route path="/:lang/" element={<Home />} />
+          <Route path="/:lang/report" element={<Report />} />
+          <Route path="/:lang/all-slimes" element={<AllSlimes />} />
+          <Route path="/:lang/slime/:id" element={<Slime />} />
+          <Route
+            path="/:lang/slime-personality"
+            element={<SlimePersonality />}
+          />
         </Route>
         <Route path="*" element={<NotFound />} />
       </Routes>
