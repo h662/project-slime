@@ -1,5 +1,6 @@
 import { FC, useState } from "react";
 import { Link } from "react-router-dom";
+import i18n from "../lib/i18n";
 
 const NotFound: FC = () => {
   const [isClicked, setIsClicked] = useState<boolean>(false);
@@ -38,7 +39,7 @@ const NotFound: FC = () => {
         className={`mt-2 underline underline-offset-2 ${
           isClicked ? "text-slimeGreen-700" : ""
         }`}
-        to="/"
+        to={`/${i18n.language}/`}
         onMouseEnter={() => setIsClicked(true)}
         onMouseLeave={() => setIsClicked(false)}
         onTouchStart={() => setIsClicked(true)}

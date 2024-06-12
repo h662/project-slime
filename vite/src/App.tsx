@@ -8,37 +8,19 @@ import Slime from "./pages/slime";
 import Report from "./pages/report";
 import SlimePersonality from "./pages/slime-personality";
 
-const pageComponents = [
-  {
-    path: "/",
-    element: <Home />,
-  },
-  {
-    path: "/report",
-    element: <Report />,
-  },
-  {
-    path: "/all-slimes",
-    element: <AllSlimes />,
-  },
-  {
-    path: "/slime/:id",
-    element: <Slime />,
-  },
-  {
-    path: "/slime-personality",
-    element: <SlimePersonality />,
-  },
-];
-
 const App: FC = () => {
   return (
     <BrowserRouter>
       <Routes>
         <Route element={<Layout />}>
-          {pageComponents.map((v, i) => (
-            <Route key={i} path={`/:lang${v.path}`} element={v.element} />
-          ))}
+          <Route path="/:lang/" element={<Home />} />
+          <Route path="/:lang/report" element={<Report />} />
+          <Route path="/:lang/all-slimes" element={<AllSlimes />} />
+          <Route path="/:lang/slime/:id" element={<Slime />} />
+          <Route
+            path="/:lang/slime-personality"
+            element={<SlimePersonality />}
+          />
         </Route>
         <Route path="*" element={<NotFound />} />
       </Routes>
