@@ -1,4 +1,4 @@
-import { FC } from "react";
+import { FC, useEffect, useState } from "react";
 import i18n, { languageNames } from "../lib/i18n";
 import { useLocation, useNavigate } from "react-router-dom";
 
@@ -10,14 +10,22 @@ const LanguageSelectorButton: FC<LanguageSelectorButtonProps> = ({ lng }) => {
   const { pathname } = useLocation();
   const navigate = useNavigate();
 
+  const [languageChanged, setLanguageChanged] = useState(false);
+
+  useEffect(() => {
+    if (languageChanged) {
+      const firstSlashIndex = pathname.indexOf("/", 1);
+      const restSegments =
+        firstSlashIndex === -1 ? "" : pathname.substring(firstSlashIndex);
+      navigate(`/${i18n.language}${restSegments}`);
+      setLanguageChanged(false);
+    }
+  }, [languageChanged, pathname, navigate]);
+
   const onClickChangeLanguage = () => {
-    i18n.changeLanguage(lng);
-
-    const firstSlashIndex = pathname.indexOf("/", 1);
-
-    const restSegments = pathname.substring(firstSlashIndex);
-
-    navigate(`/${i18n.language}${restSegments}`);
+    i18n.changeLanguage(lng).then(() => {
+      setLanguageChanged(true);
+    });
   };
 
   return (
