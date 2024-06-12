@@ -37,7 +37,7 @@ i18n
   .use(initReactI18next)
   .init({
     supportedLngs,
-    fallbackLng: "ko",
+    fallbackLng: "en",
     detection: {
       order: ["path", "cookie", "htmlTag"],
       caches: ["cookie"],

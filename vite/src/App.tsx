@@ -7,13 +7,15 @@ import AllSlimes from "./pages/all-slimes";
 import Slime from "./pages/slime";
 import Report from "./pages/report";
 import SlimePersonality from "./pages/slime-personality";
+import LanguageRedirect from "./components/LanguageRedirect";
 
 const App: FC = () => {
   return (
     <BrowserRouter>
       <Routes>
+        <Route index path="/" element={<LanguageRedirect />} />
         <Route element={<Layout />}>
-          <Route path="/:lang/" element={<Home />} />
+          <Route index path="/:lang/" element={<Home />} />
           <Route path="/:lang/report" element={<Report />} />
           <Route path="/:lang/all-slimes" element={<AllSlimes />} />
           <Route path="/:lang/slime/:id" element={<Slime />} />

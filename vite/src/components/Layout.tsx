@@ -57,6 +57,8 @@ const Layout: FC = () => {
   };
 
   const checkLangPrefix = () => {
+    console.log(pathname);
+
     const firstSegment = pathname.split("/")[1];
 
     const isIncluded = allLanguages.includes(`/${firstSegment}`);
@@ -64,11 +66,9 @@ const Layout: FC = () => {
     if (!isIncluded) {
       if (!i18n.language) {
         i18n.changeLanguage("en");
-
-        navigate(`/en${pathname}`);
       }
 
-      navigate(`/${i18n.language}${pathname}`);
+      navigate(`/${i18n.language}`);
     }
   };
 
