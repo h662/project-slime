@@ -1,0 +1,301 @@
+{
+  "id": 19,
+  "name": "Bookmark Slime",
+  "localizedNames": {
+    "en": "Bookmark Slime",
+    "ko": "책갈피 슬라임",
+    "jp": "ブックマークスライム",
+    "zh-CN": "书签史莱姆",
+    "es": "Slime Marcador",
+    "fr": "Slime Signet",
+    "de": "Lesezeichen Schleim",
+    "pt": "Slime Marcador",
+    "ru": "Закладка Слайм",
+    "ar": "سلايم العلامة",
+    "hi": "बुकमार्क स्लाइम"
+  },
+  "description": "Bookmark Slime is an innovative type of slime that has taken the form of a book's bookmark, with the bookmark being the actual slime rather than the book itself. In the Slime Project, this unique slime plays a significant role in marking important pages and assisting researchers in keeping track of their progress. With its quirky and helpful nature, Bookmark Slime has quickly become a favorite among the team. Despite its simple appearance, it holds the ability to absorb and recall information, making it an indispensable tool in the lab.",
+  "localizedDescriptions": {
+    "en": "Bookmark Slime is an innovative type of slime that has taken the form of a book's bookmark, with the bookmark being the actual slime rather than the book itself. In the Slime Project, this unique slime plays a significant role in marking important pages and assisting researchers in keeping track of their progress. With its quirky and helpful nature, Bookmark Slime has quickly become a favorite among the team. Despite its simple appearance, it holds the ability to absorb and recall information, making it an indispensable tool in the lab.",
+    "ko": "책갈피 슬라임은 책갈피 형태로 변신한 혁신적인 슬라임으로, 책이 본체가 아닌 책갈피가 본체입니다. 슬라임 프로젝트에서 이 독특한 슬라임은 중요한 페이지를 표시하고 연구자들이 진행 상황을 추적하는 데 중요한 역할을 합니다. 독특하고 도움이 되는 성격 덕분에 책갈피 슬라임은 팀의 사랑을 빨리 받게 되었습니다. 단순한 외모에도 불구하고 정보를 흡수하고 기억하는 능력을 가지고 있어 실험실에서 없어서는 안될 도구입니다.",
+    "jp": "ブックマークスライムは、ブックマークの形をした革新的なスライムであり、本体は本ではなくブックマークです。スライムプロジェクトでは、このユニークなスライムは重要なページをマークし、研究者が進捗を追跡するのを助ける重要な役割を果たします。その風変わりで助けになる性質により、ブックマークスライムはすぐにチームのお気に入りになりました。シンプルな見た目にもかかわらず、情報を吸収して記憶する能力を持っており、ラボで不可欠なツールです。",
+    "zh-CN": "书签史莱姆是一种创新的史莱姆，它变成了书签的形式，实际的史莱姆是书签而不是书本身。在史莱姆项目中，这种独特的史莱姆在标记重要页面和帮助研究人员跟踪进展方面发挥了重要作用。凭借其古怪且有帮助的性质，书签史莱姆很快成为团队的最爱。尽管外表简单，但它具有吸收和回忆信息的能力，使其成为实验室中不可或缺的工具。",
+    "es": "Slime Marcador es un tipo innovador de slime que ha tomado la forma de un marcador de libros, siendo el marcador el slime real en lugar del libro en sí. En el Proyecto Slime, este slime único juega un papel importante en marcar páginas importantes y ayudar a los investigadores a llevar un registro de su progreso. Con su naturaleza peculiar y útil, el Slime Marcador se ha convertido rápidamente en el favorito del equipo. A pesar de su apariencia simple, tiene la capacidad de absorber y recordar información, lo que lo convierte en una herramienta indispensable en el laboratorio.",
+    "fr": "Le Slime Signet est un type de slime innovant qui a pris la forme d'un signet de livre, le signet étant le slime réel plutôt que le livre lui-même. Dans le Projet Slime, ce slime unique joue un rôle important en marquant les pages importantes et en aidant les chercheurs à suivre leurs progrès. Avec sa nature excentrique et utile, le Slime Signet est rapidement devenu un favori parmi l'équipe. Malgré son apparence simple, il a la capacité d'absorber et de se rappeler des informations, ce qui en fait un outil indispensable dans le laboratoire.",
+    "de": "Lesezeichen Schleim ist eine innovative Art von Schleim, die die Form eines Buchlesezeichens angenommen hat, wobei das Lesezeichen der eigentliche Schleim ist und nicht das Buch selbst. Im Slime-Projekt spielt dieser einzigartige Schleim eine wichtige Rolle beim Markieren wichtiger Seiten und hilft den Forschern, ihren Fortschritt zu verfolgen. Mit seiner skurrilen und hilfreichen Natur ist der Lesezeichen Schleim schnell zum Favoriten des Teams geworden. Trotz seines einfachen Aussehens hat es die Fähigkeit, Informationen aufzunehmen und abzurufen, was es zu einem unverzichtbaren Werkzeug im Labor macht.",
+    "pt": "Slime Marcador é um tipo inovador de slime que assumiu a forma de um marcador de livros, sendo o marcador o verdadeiro slime em vez do próprio livro. No Projeto Slime, este slime único desempenha um papel significativo em marcar páginas importantes e ajudar os pesquisadores a acompanhar seu progresso. Com sua natureza peculiar e útil, o Slime Marcador rapidamente se tornou o favorito da equipe. Apesar de sua aparência simples, possui a capacidade de absorver e recordar informações, tornando-o uma ferramenta indispensável no laboratório.",
+    "ru": "Закладка Слайм - это инновационный тип слайма, который принял форму книжной закладки, при этом закладка является настоящим слаймом, а не книгой. В проекте Slime этот уникальный слайм играет значительную роль в отметке важных страниц и помогает исследователям отслеживать их прогресс. Благодаря своей причудливой и полезной природе Закладка Слайм быстро стала фаворитом среди команды. Несмотря на свой простой внешний вид, он обладает способностью поглощать и вспоминать информацию, что делает его незаменимым инструментом в лаборатории.",
+    "ar": "سلايم العلامة هو نوع مبتكر من السلايم الذي اتخذ شكل علامة كتاب، حيث أن العلامة هي السلايم الحقيقي وليس الكتاب نفسه. في مشروع السلايم، يلعب هذا السلايم الفريد دورًا مهمًا في وضع علامات على الصفحات المهمة ومساعدة الباحثين في تتبع تقدمهم. بطبيعته الغريبة والمفيدة، أصبح سلايم العلامة بسرعة المفضل بين الفريق. على الرغم من مظهره البسيط، إلا أنه يمتلك القدرة على امتصاص وتذكر المعلومات، مما يجعله أداة لا غنى عنها في المختبر.",
+    "hi": "बुकमार्क स्लाइम एक अभिनव प्रकार का स्लाइम है जिसने एक किताब के बुकमार्क का रूप धारण कर लिया है, जिसमें बुकमार्क किताब के बजाय वास्तविक स्लाइम है। स्लाइम प्रोजेक्ट में, यह अद्वितीय स्लाइम महत्वपूर्ण पृष्ठों को चिह्नित करने और शोधकर्ताओं को उनकी प्रगति को ट्रैक करने में सहायता करने में महत्वपूर्ण भूमिका निभाता है। अपनी विचित्र और सहायक प्रकृति के कारण, बुकमार्क स्लाइम जल्दी ही टीम का पसंदीदा बन गया है। इसकी साधारण उपस्थिति के बावजूद, इसमें जानकारी को अवशोषित करने और याद करने की क्षमता है, जो इसे प्रयोगशाला में एक अनिवार्य उपकरण बनाता है।"
+  },
+  "scene": "https://prod.spline.design/66XF6aD91lKgEAau/scene.splinecode",
+  "image": "https://slime-project.mypinata.cloud/ipfs/[YourImageHash]",
+  "image_name": "bookmark_slime.png",
+  "attributes": [
+    {
+      "trait_type": "Form",
+      "value": "Bookmark"
+    },
+    {
+      "trait_type": "Function",
+      "value": "Page Marker"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Helpful"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Information Absorption"
+    }
+  ],
+  "localizedAttributes": {
+    "en": [
+      {
+        "trait_type": "Form",
+        "value": "Bookmark"
+      },
+      {
+        "trait_type": "Function",
+        "value": "Page Marker"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Helpful"
+      },
+      {
+        "trait_type": "Ability",
+        "value": "Information Absorption"
+      }
+    ],
+    "ko": [
+      {
+        "trait_type": "형태",
+        "value": "책갈피"
+      },
+      {
+        "trait_type": "기능",
+        "value": "페이지 표시"
+      },
+      {
+        "trait_type": "몸",
+        "value": "빨강"
+      },
+      {
+        "trait_type": "성격",
+        "value": "도움이 되는"
+      },
+      {
+        "trait_type": "능력",
+        "value": "정보 흡수"
+      }
+    ],
+    "jp": [
+      {
+        "trait_type": "形",
+        "value": "ブックマーク"
+      },
+      {
+        "trait_type": "機能",
+        "value": "ページマーカー"
+      },
+      {
+        "trait_type": "体",
+        "value": "赤"
+      },
+      {
+        "trait_type": "性格",
+        "value": "役に立つ"
+      },
+      {
+        "trait_type": "能力",
+        "value": "情報吸収"
+      }
+    ],
+    "zh-CN": [
+      {
+        "trait_type": "形状",
+        "value": "书签"
+      },
+      {
+        "trait_type": "功能",
+        "value": "页面标记"
+      },
+      {
+        "trait_type": "身体",
+        "value": "红色"
+      },
+      {
+        "trait_type": "性格",
+        "value": "有帮助的"
+      },
+      {
+        "trait_type": "能力",
+        "value": "信息吸收"
+      }
+    ],
+    "es": [
+      {
+        "trait_type": "Forma",
+        "value": "Marcador"
+      },
+      {
+        "trait_type": "Función",
+        "value": "Marcador de Página"
+      },
+      {
+        "trait_type": "Cuerpo",
+        "value": "Rojo"
+      },
+      {
+        "trait_type": "Personalidad",
+        "value": "Útil"
+      },
+      {
+        "trait_type": "Habilidad",
+        "value": "Absorción de Información"
+      }
+    ],
+    "fr": [
+      {
+        "trait_type": "Forme",
+        "value": "Signet"
+      },
+      {
+        "trait_type": "Fonction",
+        "value": "Marque-page"
+      },
+      {
+        "trait_type": "Corps",
+        "value": "Rouge"
+      },
+      {
+        "trait_type": "Personnalité",
+        "value": "Serviable"
+      },
+      {
+        "trait_type": "Capacité",
+        "value": "Absorption d'Information"
+      }
+    ],
+    "de": [
+      {
+        "trait_type": "Form",
+        "value": "Lesezeichen"
+      },
+      {
+        "trait_type": "Funktion",
+        "value": "Seitenmarkierung"
+      },
+      {
+        "trait_type": "Körper",
+        "value": "Rot"
+      },
+      {
+        "trait_type": "Persönlichkeit",
+        "value": "Hilfreich"
+      },
+      {
+        "trait_type": "Fähigkeit",
+        "value": "Informationsaufnahme"
+      }
+    ],
+    "pt": [
+      {
+        "trait_type": "Forma",
+        "value": "Marcador"
+      },
+      {
+        "trait_type": "Função",
+        "value": "Marcador de Página"
+      },
+      {
+        "trait_type": "Corpo",
+        "value": "Vermelho"
+      },
+      {
+        "trait_type": "Personalidade",
+        "value": "Útil"
+      },
+      {
+        "trait_type": "Habilidade",
+        "value": "Absorção de Informação"
+      }
+    ],
+    "ru": [
+      {
+        "trait_type": "Форма",
+        "value": "Закладка"
+      },
+      {
+        "trait_type": "Функция",
+        "value": "Маркер страницы"
+      },
+      {
+        "trait_type": "Тело",
+        "value": "Красный"
+      },
+      {
+        "trait_type": "Личность",
+        "value": "Полезный"
+      },
+      {
+        "trait_type": "Способность",
+        "value": "Поглощение информации"
+      }
+    ],
+    "ar": [
+      {
+        "trait_type": "شكل",
+        "value": "علامة"
+      },
+      {
+        "trait_type": "وظيفة",
+        "value": "علامة الصفحة"
+      },
+      {
+        "trait_type": "جسم",
+        "value": "أحمر"
+      },
+      {
+        "trait_type": "شخصية",
+        "value": "مفيد"
+      },
+      {
+        "trait_type": "قدرة",
+        "value": "امتصاص المعلومات"
+      }
+    ],
+    "hi": [
+      {
+        "trait_type": "रूप",
+        "value": "बुकमार्क"
+      },
+      {
+        "trait_type": "कार्य",
+        "value": "पृष्ठ मार्कर"
+      },
+      {
+        "trait_type": "शरीर",
+        "value": "लाल"
+      },
+      {
+        "trait_type": "व्यक्तित्व",
+        "value": "सहायक"
+      },
+      {
+        "trait_type": "क्षमता",
+        "value": "जानकारी अवशोषण"
+      }
+    ]
+  },
+  "birthday": ""
+}

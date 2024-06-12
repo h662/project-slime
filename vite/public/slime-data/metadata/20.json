@@ -1,0 +1,253 @@
+{
+  "id": 20,
+  "name": "Hollow Slime",
+  "localizedNames": {
+    "en": "Hollow Slime",
+    "ko": "구멍 슬라임",
+    "jp": "ホロースライム",
+    "zh-CN": "空心史莱姆",
+    "es": "Slime Hueco",
+    "fr": "Slime Creux",
+    "de": "Hohlschleim",
+    "pt": "Slime Oco",
+    "ru": "Полый Слайм",
+    "ar": "السلايم المجوف",
+    "hi": "खोखला स्लाइम"
+  },
+  "description": "A peculiar slime with a hollow center, making it impossible to discern its true nature. In the Slime Project, Hollow Slime is renowned for its enigmatic properties and the mystery it brings to the lab. Researchers study it to uncover the secrets within its void, hoping to discover new scientific phenomena. Its unpredictable nature and the potential for hidden capabilities make it a subject of fascination and critical importance.",
+  "localizedDescriptions": {
+    "en": "A peculiar slime with a hollow center, making it impossible to discern its true nature. In the Slime Project, Hollow Slime is renowned for its enigmatic properties and the mystery it brings to the lab. Researchers study it to uncover the secrets within its void, hoping to discover new scientific phenomena. Its unpredictable nature and the potential for hidden capabilities make it a subject of fascination and critical importance.",
+    "ko": "속이 비어 있어 속내를 알 수 없는 독특한 슬라임입니다. 슬라임 프로젝트에서 구멍 슬라임은 그 신비로운 속성과 실험실에 가져다주는 미스터리로 유명합니다. 연구자들은 그 속의 비밀을 밝혀 새로운 과학적 현상을 발견하기 위해 이를 연구합니다. 그 예측 불가능한 성격과 숨겨진 능력의 잠재력 덕분에 흥미롭고 중요한 연구 대상으로 여겨집니다.",
+    "jp": "中心が空洞であり、その真の性質を見極めることができない奇妙なスライムです。スライムプロジェクトでは、その謎めいた特性とラボにもたらす神秘で知られています。研究者たちはその空洞の中にある秘密を解明し、新しい科学的現象を発見することを期待して研究しています。その予測不可能な性質と隠された能力の可能性から、魅力的で重要な研究対象となっています。",
+    "zh-CN": "一种中心空洞的奇特史莱姆，使其本质无法被识别。在史莱姆项目中，空心史莱姆因其神秘的特性和给实验室带来的谜团而闻名。研究人员研究它，以揭开其空洞中的秘密，希望发现新的科学现象。它的不可预测性和隐藏能力的潜力使其成为一个令人着迷且至关重要的研究对象。",
+    "es": "Un slime peculiar con un centro hueco, lo que hace imposible discernir su verdadera naturaleza. En el Proyecto Slime, el Slime Hueco es conocido por sus propiedades enigmáticas y el misterio que trae al laboratorio. Los investigadores lo estudian para descubrir los secretos dentro de su vacío, con la esperanza de encontrar nuevos fenómenos científicos. Su naturaleza impredecible y el potencial para capacidades ocultas lo convierten en un objeto de fascinación y de importancia crítica.",
+    "fr": "Un slime particulier avec un centre creux, rendant impossible de discerner sa véritable nature. Dans le Projet Slime, le Slime Creux est réputé pour ses propriétés énigmatiques et le mystère qu'il apporte au laboratoire. Les chercheurs l'étudient pour découvrir les secrets de son vide, espérant découvrir de nouveaux phénomènes scientifiques. Sa nature imprévisible et son potentiel pour des capacités cachées en font un sujet de fascination et d'importance cruciale.",
+    "de": "Ein eigentümlicher Schleim mit einem hohlen Zentrum, das es unmöglich macht, seine wahre Natur zu erkennen. Im Slime-Projekt ist Hohlschleim für seine rätselhaften Eigenschaften und das Geheimnis, das er ins Labor bringt, bekannt. Forscher untersuchen ihn, um die Geheimnisse seines Hohlraums zu lüften und hoffen, neue wissenschaftliche Phänomene zu entdecken. Seine unvorhersehbare Natur und das Potenzial für verborgene Fähigkeiten machen ihn zu einem faszinierenden und wichtigen Forschungsobjekt.",
+    "pt": "Um slime peculiar com um centro oco, tornando impossível discernir sua verdadeira natureza. No Projeto Slime, o Slime Oco é conhecido por suas propriedades enigmáticas e pelo mistério que traz ao laboratório. Os pesquisadores o estudam para descobrir os segredos dentro de seu vazio, esperando descobrir novos fenômenos científicos. Sua natureza imprevisível e o potencial para capacidades ocultas o tornam um objeto de fascinação e de importância crítica.",
+    "ru": "Особенный слайм с полым центром, что делает невозможным распознавание его истинной природы. В проекте Slime Полый Слайм известен своими загадочными свойствами и тайной, которую он приносит в лабораторию. Исследователи изучают его, чтобы раскрыть секреты внутри его пустоты, надеясь обнаружить новые научные явления. Его непредсказуемая природа и потенциал скрытых способностей делают его предметом увлекательных и важных исследований.",
+    "ar": "سلايم غريب بمركز مجوف، مما يجعل من المستحيل تمييز طبيعته الحقيقية. في مشروع السلايم، يُعرف السلايم المجوف بخصائصه الغامضة والغموض الذي يجلبه إلى المختبر. يدرسه الباحثون لكشف الأسرار داخل فراغه، على أمل اكتشاف ظواهر علمية جديدة. تجعل طبيعته غير المتوقعة وإمكانية امتلاكه قدرات خفية منه موضوعًا للفتن وأهمية بالغة.",
+    "hi": "एक अजीबोगरीब स्लाइम जिसमें एक खोखला केंद्र है, जिससे इसकी सच्ची प्रकृति को पहचानना असंभव हो जाता है। स्लाइम प्रोजेक्ट में, खोखला स्लाइम अपनी रहस्यमयी विशेषताओं और लैब में लाए जाने वाले रहस्य के लिए जाना जाता है। शोधकर्ता इसके शून्य के भीतर के रहस्यों को उजागर करने के लिए इसका अध्ययन करते हैं, उम्मीद करते हैं कि नए वैज्ञानिक घटनाओं की खोज की जाएगी। इसकी अप्रत्याशित प्रकृति और छिपी हुई क्षमताओं की संभावना इसे आकर्षण और महत्वपूर्ण महत्व का विषय बनाती है।"
+  },
+  "scene": "https://prod.spline.design/F9HWh2ly3MDPx4x4/scene.splinecode",
+  "image": "",
+  "image_name": "hollow_slime.png",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Center",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Enigmatic"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Unpredictability"
+    }
+  ],
+  "localizedAttributes": {
+    "en": [
+      {
+        "trait_type": "Body",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Center",
+        "value": "Hollow"
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Enigmatic"
+      },
+      {
+        "trait_type": "Ability",
+        "value": "Unpredictability"
+      }
+    ],
+    "ko": [
+      {
+        "trait_type": "몸",
+        "value": "분홍"
+      },
+      {
+        "trait_type": "중심",
+        "value": "구멍"
+      },
+      {
+        "trait_type": "성격",
+        "value": "신비"
+      },
+      {
+        "trait_type": "능력",
+        "value": "예측 불가능"
+      }
+    ],
+    "jp": [
+      {
+        "trait_type": "体",
+        "value": "ピンク"
+      },
+      {
+        "trait_type": "中心",
+        "value": "ホロウ"
+      },
+      {
+        "trait_type": "性格",
+        "value": "謎めいた"
+      },
+      {
+        "trait_type": "能力",
+        "value": "予測不可能"
+      }
+    ],
+    "zh-CN": [
+      {
+        "trait_type": "身体",
+        "value": "粉色"
+      },
+      {
+        "trait_type": "中心",
+        "value": "空心"
+      },
+      {
+        "trait_type": "性格",
+        "value": "神秘"
+      },
+      {
+        "trait_type": "能力",
+        "value": "不可预测性"
+      }
+    ],
+    "es": [
+      {
+        "trait_type": "Cuerpo",
+        "value": "Rosa"
+      },
+      {
+        "trait_type": "Centro",
+        "value": "Hueco"
+      },
+      {
+        "trait_type": "Personalidad",
+        "value": "Enigmático"
+      },
+      {
+        "trait_type": "Habilidad",
+        "value": "Imprevisibilidad"
+      }
+    ],
+    "fr": [
+      {
+        "trait_type": "Corps",
+        "value": "Rose"
+      },
+      {
+        "trait_type": "Centre",
+        "value": "Creux"
+      },
+      {
+        "trait_type": "Personnalité",
+        "value": "Énigmatique"
+      },
+      {
+        "trait_type": "Capacité",
+        "value": "Imprévisibilité"
+      }
+    ],
+    "de": [
+      {
+        "trait_type": "Körper",
+        "value": "Rosa"
+      },
+      {
+        "trait_type": "Zentrum",
+        "value": "Hohl"
+      },
+      {
+        "trait_type": "Persönlichkeit",
+        "value": "Rätselhaft"
+      },
+      {
+        "trait_type": "Fähigkeit",
+        "value": "Unvorhersehbarkeit"
+      }
+    ],
+    "pt": [
+      {
+        "trait_type": "Corpo",
+        "value": "Rosa"
+      },
+      {
+        "trait_type": "Centro",
+        "value": "Oco"
+      },
+      {
+        "trait_type": "Personalidade",
+        "value": "Enigmático"
+      },
+      {
+        "trait_type": "Habilidade",
+        "value": "Imprevisibilidade"
+      }
+    ],
+    "ru": [
+      {
+        "trait_type": "Тело",
+        "value": "Розовый"
+      },
+      {
+        "trait_type": "Центр",
+        "value": "Полый"
+      },
+      {
+        "trait_type": "Личность",
+        "value": "Загадочный"
+      },
+      {
+        "trait_type": "Способность",
+        "value": "Непредсказуемость"
+      }
+    ],
+    "ar": [
+      {
+        "trait_type": "جسم",
+        "value": "وردي"
+      },
+      {
+        "trait_type": "مركز",
+        "value": "مجوف"
+      },
+      {
+        "trait_type": "شخصية",
+        "value": "غامض"
+      },
+      {
+        "trait_type": "قدرة",
+        "value": "عدم القدرة على التنبؤ"
+      }
+    ],
+    "hi": [
+      {
+        "trait_type": "शरीर",
+        "value": "गुलाबी"
+      },
+      {
+        "trait_type": "केंद्र",
+        "value": "खोखला"
+      },
+      {
+        "trait_type": "व्यक्तित्व",
+        "value": "रहस्यमय"
+      },
+      {
+        "trait_type": "क्षमता",
+        "value": "अप्रत्याशितता"
+      }
+    ]
+  },
+  "birthday": ""
+}
