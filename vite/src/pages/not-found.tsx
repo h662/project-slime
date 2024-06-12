@@ -12,7 +12,7 @@ const NotFound: FC = () => {
         data-name="Layer 1"
         xmlns="http://www.w3.org/2000/svg"
         viewBox="0 0 923 923"
-        className={`w-16 h-16 flex justify-center items-center rounded-full mr-2 text-black`}
+        className="w-16 h-16 flex justify-center items-center rounded-full mr-2 text-black"
       >
         <defs>
           <style>{`.cls-1 { fill: currentColor; stroke-width: 0px; }`}</style>

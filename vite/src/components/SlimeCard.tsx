@@ -43,7 +43,9 @@ const SlimeCard: FC<SlimeCardProps> = ({ slimeData }) => {
       <button
         className="mt-2 mr-2 mb-4 button-style-sm"
         onClick={() =>
-          navigate(`/slime/${slimeData.id}`, { state: { slimeData } })
+          navigate(`/${i18n.language}/slime/${slimeData.id}`, {
+            state: { slimeData },
+          })
         }
       >
         {t("view")}
