@@ -27,7 +27,13 @@ const Layout: FC = () => {
 
   const fetchMetadata = async () => {
     const baseUrl = "/slime-data/metadata/";
-    const fileNames = Array.from({ length: 20 }, (_, i) => `${i + 1}.json`);
+    const fileNames = Array.from({ length: 21 }, (_, i) => {
+      if (i > 16) {
+        return `${i + 2}.json`;
+      } else {
+        return `${i + 1}.json`;
+      }
+    });
 
     try {
       const results = await Promise.all(

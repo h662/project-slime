@@ -1,0 +1,254 @@
+{
+  "id": 22,
+  "name": "Balloon Slime",
+  "localizedNames": {
+    "en": "Balloon Slime",
+    "ko": "풍선 슬라임",
+    "jp": "バルーンスライム",
+    "zh-CN": "气球史莱姆",
+    "es": "Slime Globo",
+    "fr": "Slime Ballon",
+    "de": "Ballon-Schleim",
+    "pt": "Slime Balão",
+    "ru": "Воздушный Слайм",
+    "ar": "سلايم البالون",
+    "hi": "गुब्बारा स्लाइम"
+  },
+  "description": "A lightweight slime that floats effortlessly in the lightest breeze. In the Slime Project, Balloon Slime is celebrated for its buoyant nature and the whimsical joy it brings. Researchers study its properties to understand its unique lightweight composition and potential applications in aerial transport and entertainment. Balloon Slime plays a crucial role in inspiring creativity and bringing light-hearted fun to the lab.",
+  "localizedDescriptions": {
+    "en": "A lightweight slime that floats effortlessly in the lightest breeze. In the Slime Project, Balloon Slime is celebrated for its buoyant nature and the whimsical joy it brings. Researchers study its properties to understand its unique lightweight composition and potential applications in aerial transport and entertainment. Balloon Slime plays a crucial role in inspiring creativity and bringing light-hearted fun to the lab.",
+    "ko": "약한 바람에도 잘 날아다니는 가벼운 슬라임입니다. 슬라임 프로젝트에서 풍선 슬라임은 그 부력 있는 성질과 재미있는 즐거움을 주는 것으로 유명합니다. 연구자들은 그 가벼운 조성을 이해하고 공중 운송 및 엔터테인먼트 분야에서의 잠재적 응용을 연구합니다. 풍선 슬라임은 창의성을 자극하고 실험실에 가벼운 재미를 가져오는 데 중요한 역할을 합니다.",
+    "jp": "軽量で、わずかな風でも簡単に浮かぶスライムです。スライムプロジェクトでは、その浮力のある性質と楽しさをもたらすことで知られています。研究者たちはその特有の軽量組成と空中輸送やエンターテイメントでの潜在的な応用を理解するためにその特性を研究しています。バルーンスライムは創造性を刺激し、実験室に楽しい雰囲気をもたらす上で重要な役割を果たしています。",
+    "zh-CN": "一种轻质的史莱姆，即使在微风中也能轻松漂浮。在史莱姆项目中，气球史莱姆因其浮力和带来的奇妙乐趣而受到赞誉。研究人员研究其特性，以了解其独特的轻质成分及其在空中运输和娱乐方面的潜在应用。气球史莱姆在激发创造力和为实验室带来轻松乐趣方面发挥着至关重要的作用。",
+    "es": "Un slime ligero que flota sin esfuerzo en la más ligera brisa. En el Proyecto Slime, el Slime Globo es celebrado por su naturaleza flotante y la alegría caprichosa que trae. Los investigadores estudian sus propiedades para entender su composición única y ligera, y sus posibles aplicaciones en el transporte aéreo y el entretenimiento. El Slime Globo juega un papel crucial en inspirar la creatividad y traer diversión ligera al laboratorio.",
+    "fr": "Un slime léger qui flotte sans effort dans la plus légère brise. Dans le Projet Slime, le Slime Ballon est célébré pour sa nature flottante et la joie fantaisiste qu'il apporte. Les chercheurs étudient ses propriétés pour comprendre sa composition légère unique et ses applications potentielles dans le transport aérien et le divertissement. Le Slime Ballon joue un rôle crucial dans l'inspiration de la créativité et l'apport de divertissement léger au laboratoire.",
+    "de": "Ein leichter Schleim, der mühelos in der leichtesten Brise schwebt. Im Slime-Projekt wird der Ballon-Schleim für seine schwimmende Natur und die launische Freude, die er bringt, gefeiert. Forscher untersuchen seine Eigenschaften, um seine einzigartige leichte Zusammensetzung und potenzielle Anwendungen im Lufttransport und Unterhaltung zu verstehen. Der Ballon-Schleim spielt eine entscheidende Rolle bei der Inspiration von Kreativität und bringt leichten Spaß ins Labor.",
+    "pt": "Um slime leve que flutua sem esforço na brisa mais leve. No Projeto Slime, o Slime Balão é celebrado por sua natureza flutuante e a alegria caprichosa que traz. Os pesquisadores estudam suas propriedades para entender sua composição leve única e possíveis aplicações no transporte aéreo e entretenimento. O Slime Balão desempenha um papel crucial em inspirar a criatividade e trazer diversão leve ao laboratório.",
+    "ru": "Легкий слайм, который легко парит в самом легком ветре. В проекте Slime воздушный слайм известен своей плавучестью и причудливой радостью, которую он приносит. Исследователи изучают его свойства, чтобы понять его уникальный легкий состав и потенциальные применения в воздушном транспорте и развлечениях. Воздушный слайм играет решающую роль в вдохновении творчества и привнесении легкости в лабораторию.",
+    "ar": "سلايم خفيف الوزن يطفو بلا جهد في أضعف نسيم. في مشروع السلايم، يحتفل بسلايم البالون لطبيعته العائمة والبهجة العفوية التي يجلبها. يدرس الباحثون خصائصه لفهم تكوينه الخفيف الفريد وتطبيقاته المحتملة في النقل الجوي والترفيه. يلعب سلايم البالون دورًا حاسمًا في إلهام الإبداع وجلب المتعة الخفيفة إلى المختبر.",
+    "hi": "एक हल्का स्लाइम जो सबसे हल्की हवा में भी आसानी से तैरता है। स्लाइम प्रोजेक्ट में, बैलून स्लाइम को इसकी उछाल वाली प्रकृति और जो खुशी यह लाता है उसके लिए मनाया जाता है। शोधकर्ता इसके गुणों का अध्ययन इसकी अद्वितीय हल्की संरचना और हवाई परिवहन और मनोरंजन में संभावित अनुप्रयोगों को समझने के लिए करते हैं। बैलून स्लाइम प्रयोगशाला में रचनात्मकता को प्रेरित करने और हल्के-फुल्के मज़े लाने में महत्वपूर्ण भूमिका निभाता है।"
+  },
+  "scene": "https://prod.spline.design/k5R6qcC4zzqabcRs/scene.splinecode",
+  "image": "",
+  "image_name": "balloon_slime.png",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Shape",
+      "value": "Balloon"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Light-hearted"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Buoyant"
+    }
+  ],
+  "localizedAttributes": {
+    "en": [
+      {
+        "trait_type": "Body",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Balloon"
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Light-hearted"
+      },
+      {
+        "trait_type": "Ability",
+        "value": "Buoyant"
+      }
+    ],
+    "ko": [
+      {
+        "trait_type": "몸",
+        "value": "파랑"
+      },
+      {
+        "trait_type": "모양",
+        "value": "풍선"
+      },
+      {
+        "trait_type": "성격",
+        "value": "가벼운"
+      },
+      {
+        "trait_type": "능력",
+        "value": "부력"
+      }
+    ],
+    "jp": [
+      {
+        "trait_type": "体",
+        "value": "青"
+      },
+      {
+        "trait_type": "形",
+        "value": "風船"
+      },
+      {
+        "trait_type": "性格",
+        "value": "軽やか"
+      },
+      {
+        "trait_type": "能力",
+        "value": "浮力"
+      }
+    ],
+    "zh-CN": [
+      {
+        "trait_type": "身体",
+        "value": "蓝色"
+      },
+      {
+        "trait_type": "形状",
+        "value": "气球"
+      },
+      {
+        "trait_type": "性格",
+        "value": "轻松"
+      },
+      {
+        "trait_type": "能力",
+        "value": "浮力"
+      }
+    ],
+    "es": [
+      {
+        "trait_type": "Cuerpo",
+        "value": "Azul"
+      },
+      {
+        "trait_type": "Forma",
+        "value": "Globo"
+      },
+      {
+        "trait_type": "Personalidad",
+        "value": "Alegre"
+      },
+      {
+        "trait_type": "Habilidad",
+        "value": "Flotante"
+      }
+    ],
+    "fr": [
+      {
+        "trait_type": "Corps",
+        "value": "Bleu"
+      },
+      {
+        "trait_type": "Forme",
+        "value": "Ballon"
+      },
+      {
+        "trait_type": "Personnalité",
+        "value": "Légère"
+      },
+      {
+        "trait_type": "Capacité",
+        "value": "Flottant"
+      }
+    ],
+    "de": [
+      {
+        "trait_type": "Körper",
+        "value": "Blau"
+      },
+      {
+        "trait_type": "Form",
+        "value": "Ballon"
+      },
+      {
+        "trait_type": "Persönlichkeit",
+        "value": "Unbeschwert"
+      },
+      {
+        "trait_type": "Fähigkeit",
+        "value": "Schwimmfähig"
+      }
+    ],
+    "pt": [
+      {
+        "trait_type": "Corpo",
+        "value": "Azul"
+      },
+      {
+        "trait_type": "Forma",
+        "value": "Balão"
+      },
+      {
+        "trait_type": "Personalidade",
+        "value": "Leve"
+      },
+      {
+        "trait_type": "Habilidade",
+        "value": "Flutuante"
+      }
+    ],
+    "ru": [
+      {
+        "trait_type": "Тело",
+        "value": "Синий"
+      },
+      {
+        "trait_type": "Форма",
+        "value": "Воздушный шар"
+      },
+      {
+        "trait_type": "Личность",
+        "value": "Беспечный"
+      },
+      {
+        "trait_type": "Способность",
+        "value": "Плавучий"
+      }
+    ],
+    "ar": [
+      {
+        "trait_type": "جسم",
+        "value": "أزرق"
+      },
+      {
+        "trait_type": "الشكل",
+        "value": "بالون"
+      },
+      {
+        "trait_type": "شخصية",
+        "value": "مرِح"
+      },
+      {
+        "trait_type": "قدرة",
+        "value": "عائم"
+      }
+    ],
+    "hi": [
+      {
+        "trait_type": "शरीर",
+        "value": "नीला"
+      },
+      {
+        "trait_type": "आकार",
+        "value": "गुब्बारा"
+      },
+      {
+        "trait_type": "व्यक्तित्व",
+        "value": "हल्का-फुल्का"
+      },
+      {
+        "trait_type": "क्षमता",
+        "value": "प्लवनशील"
+      }
+    ]
+  },
+  "birthday": "",
+  "version": 2
+}

@@ -36,7 +36,7 @@
   "strengthenCollaborationDescription": "加强与国内外研究机构和产业界的合作，以提高史莱姆的商业化和实际应用潜力。",
   "developTechnology": "技术开发",
   "developTechnologyDescription": "继续研究和技术开发，以进一步推进史莱姆转化技术。",
-  "slimePersonality": "史莱姆个性",
+  "slimePersonalityTest": "史莱姆性格测试",
   "question_1": "当你遇到新的史莱姆朋友时，你会怎么做？",
   "answer_1_A": "主动走上去打招呼，并提出各种问题。",
   "answer_1_B": "静静观察，等待自然地开始对话的机会。",
@@ -97,5 +97,6 @@
   "enfpResult": "喜欢分享和庆祝的您。与您最匹配的史莱姆类型是'巧克力蛋糕史莱姆'。",
   "istpResult": "分析和实用的您。与您最匹配的史莱姆类型是'烧瓶史莱姆'。",
   "estjResult": "准确而仔细的您。与您最匹配的史莱姆类型是'烧杯史莱姆'。",
-  "retry": "重新尝试"
+  "retry": "重新尝试",
+  "share": "分享"
 }

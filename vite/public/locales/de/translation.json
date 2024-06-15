@@ -36,7 +36,7 @@
   "strengthenCollaborationDescription": "Verbesserung der Zusammenarbeit mit nationalen und internationalen Forschungseinrichtungen und Industrien, um das Potenzial der Kommerzialisierung und praktischen Anwendung von Slimes zu erhöhen.",
   "developTechnology": "Technologieentwicklung",
   "developTechnologyDescription": "Fortsetzung der Forschung und technologischen Entwicklung, um die Techniken zur Slime-Transformation weiter voranzutreiben.",
-  "slimePersonality": "Schleim-Persönlichkeit",
+  "slimePersonalityTest": "Schleim-Persönlichkeitstest",
   "question_1": "Wie verhalten Sie sich, wenn Sie einen neuen Schleimfreund treffen?",
   "answer_1_A": "Ich gehe auf sie zu, sage Hallo und stelle verschiedene Fragen.",
   "answer_1_B": "Ich beobachte leise und warte auf eine natürliche Gelegenheit, ein Gespräch zu beginnen.",
@@ -97,5 +97,6 @@
   "enfpResult": "Sie teilen gerne Feierlichkeiten und Freude. Der Schleimtyp, der zu Ihnen passt, ist 'Schokoladenkuchen-Schleim'.",
   "istpResult": "Sie sind analytisch und praktisch. Der Schleimtyp, der zu Ihnen passt, ist 'Becher-Schleim'.",
   "estjResult": "Sie sind genau und sorgfältig. Der Schleimtyp, der zu Ihnen passt, ist 'Kolben-Schleim'.",
-  "retry": "Erneut versuchen"
+  "retry": "Erneut versuchen",
+  "share": "Teilen"
 }

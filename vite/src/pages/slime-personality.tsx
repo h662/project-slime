@@ -314,8 +314,8 @@ const SlimePersonality: FC = () => {
                 src="/images/logo.svg"
                 alt="slime-project"
               />
-              <span className="font-semibold">{t("slimePersonality")}</span> -{" "}
-              {t("welcomeMessage")}
+              <span className="font-semibold">{t("slimePersonalityTest")}</span>{" "}
+              - {t("welcomeMessage")}
             </h1>
             <h2 className="bg-white bg-opacity-60 rounded-md mx-2 px-1 md:mx-4 md:px-2 flex flex-wrap text-xs md:text-lg gap-1 md:gap-2">
               <span>{t("testDescription")}</span>

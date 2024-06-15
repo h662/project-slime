@@ -36,7 +36,7 @@
   "strengthenCollaborationDescription": "Mejorar la cooperación con instituciones de investigación y industrias nacionales e internacionales para aumentar el potencial de comercialización y aplicación práctica de los slimes.",
   "developTechnology": "Desarrollo de Tecnología",
   "developTechnologyDescription": "Continuar la investigación y el desarrollo tecnológico para avanzar aún más en las técnicas de transformación de slimes.",
-  "slimePersonality": "Personalidad del Slime",
+  "slimePersonalityTest": "Prueba de Personalidad de Slime",
   "question_1": "¿Cómo crees que actuarías al conocer a un nuevo amigo slime?",
   "answer_1_A": "Me acerco primero, saludo y hago varias preguntas.",
   "answer_1_B": "Observo en silencio y espero una oportunidad natural para iniciar una conversación.",
@@ -97,5 +97,6 @@
   "enfpResult": "Te encanta compartir celebraciones y alegrías. El tipo de slime que se adapta a ti es 'Slime de Pastel de Chocolate'.",
   "istpResult": "Eres analítico y práctico. El tipo de slime que se adapta a ti es 'Slime de Vaso de Precipitados'.",
   "estjResult": "Eres preciso y meticuloso. El tipo de slime que se adapta a ti es 'Slime de Matraz'.",
-  "retry": "Reintentar"
+  "retry": "Reintentar",
+  "share": "Compartir"
 }

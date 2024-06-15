@@ -36,7 +36,7 @@
   "strengthenCollaborationDescription": "Enhance cooperation with domestic and international research institutions and industries to increase the commercialization and practical application potential of slimes.",
   "developTechnology": "Technology Development",
   "developTechnologyDescription": "Continue research and technology development to further advance slime transformation techniques.",
-  "slimePersonality": "Slime Personality",
+  "slimePersonalityTest": "Slime Personality Test",
   "question_1": "How do you think you would act when meeting a new slime friend?",
   "answer_1_A": "I approach them first, say hello, and ask various questions.",
   "answer_1_B": "I quietly observe and wait for a natural opportunity to start a conversation.",
@@ -97,5 +97,6 @@
   "enfpResult": "You love to share celebrations and joy. The slime type that suits you is 'Chocolate Cake Slime'.",
   "istpResult": "You are analytical and practical. The slime type that suits you is 'Beaker Slime'.",
   "estjResult": "You are precise and meticulous. The slime type that suits you is 'Flask Slime'.",
-  "retry": "Retry"
+  "retry": "Retry",
+  "share": "Share"
 }

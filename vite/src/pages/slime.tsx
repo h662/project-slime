@@ -8,6 +8,7 @@ import {
   useParams,
 } from "react-router-dom";
 import i18n from "../lib/i18n";
+import { FaAngleLeft } from "react-icons/fa6";
 
 const Slime: FC = () => {
   const [slimeData, setSlimeData] = useState<SlimeMetadata>();
@@ -65,7 +66,7 @@ const Slime: FC = () => {
             className="button-style-sm w-6 h-6"
             onClick={() => navigate(-1)}
           >
-            &lt;
+            <FaAngleLeft />
           </button>
           <h1 className="font-semibold text-lg">
             {i18n.language

@@ -2,6 +2,7 @@ import { FC, useState } from "react";
 import { useTranslation } from "react-i18next";
 import ReportCard from "../components/ReportCard";
 import { useNavigate } from "react-router-dom";
+import { FaAngleLeft, FaAngleRight } from "react-icons/fa6";
 
 const reportCardData = [
   <ReportCard
@@ -103,7 +104,7 @@ const Report: FC = () => {
           className="absolute top-0 left-0 m-2 button-style-sm w-8 h-8 md:w-10 md:h-10 text-lg md:text-2xl"
           onClick={() => navigate(-1)}
         >
-          &lt;
+          <FaAngleLeft />
         </button>
         <div className="flex flex-col-reverse md:flex-row">
           <h1 className="grow font-semibold text-lg md:text-2xl bg-slimeGreen-200 border-2 border-black p-2 md:p-4 mt-4 md:mt-0">
@@ -147,10 +148,10 @@ const Report: FC = () => {
           {reportCardData[currentReportCardIndex]}
           <div className="mt-4 flex justify-center gap-2">
             <button className="button-style-sm" onClick={onClickPrev}>
-              &lt;
+              <FaAngleLeft />
             </button>
             <button className="button-style-sm" onClick={onClickNext}>
-              &gt;
+              <FaAngleRight />
             </button>
           </div>
         </div>

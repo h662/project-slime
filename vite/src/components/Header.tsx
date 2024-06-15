@@ -1,5 +1,5 @@
 import { FC, useState } from "react";
-import { FaPowerOff } from "react-icons/fa6";
+import { FaInstagram, FaPinterest, FaPowerOff } from "react-icons/fa6";
 import { useNavigate } from "react-router-dom";
 import Logo from "../icons/Logo";
 import { useTranslation } from "react-i18next";
@@ -17,7 +17,7 @@ const navLinkData = [
   },
   {
     link: "/slime-personality",
-    button: "slimePersonality",
+    button: "slimePersonalityTest",
     isNew: true,
   },
 ];
@@ -33,7 +33,11 @@ const Header: FC = () => {
   const navigatePage = (to: string) => {
     setIsButtonClicked(false);
 
-    navigate(to);
+    if (to.startsWith("http")) {
+      window.location.href = to;
+    } else {
+      navigate(to);
+    }
   };
 
   return (
@@ -43,7 +47,7 @@ const Header: FC = () => {
           isButtonClicked ? "translate-y-16 md:translate-y-28 z-10" : "-z-10"
         } -mt-[72px] md:-mt-[136px] h-16 md:h-28 transition delay-150 duration-300 ease-in-out fixed top-2 md:top-6 w-full`}
       >
-        <div className="bg-white bg-opacity-40 p-2 md:p-6">
+        <div className="bg-white bg-opacity-70 p-2 md:p-6">
           <button
             className="flex items-center text-lg font-bold w-fit"
             onMouseEnter={() => setIsLinkHover(true)}
@@ -64,11 +68,11 @@ const Header: FC = () => {
             {navLinkData.map((v, i) => (
               <button
                 key={i}
-                className="relative button-style-sm text-left"
+                className="relative button-style-sm text-left bg-white"
                 onClick={() => navigatePage(`/${i18n.language}${v.link}`)}
               >
                 {v.isNew ? (
-                  <div className="absolute top-0 right-0 bg-slimeGreen-500 text-white rounded-full px-1 text-[8px] md:text-xs">
+                  <div className="absolute -top-2 -right-2 bg-slimeGreen-500 text-white rounded-full px-1 text-[8px] md:text-xs">
                     new
                   </div>
                 ) : (
@@ -77,6 +81,24 @@ const Header: FC = () => {
                 {t(v.button)}
               </button>
             ))}
+            <div className="flex gap-2 mt-2 md:mt-4">
+              <button
+                className="relative button-style-sm text-left bg-white"
+                onClick={() =>
+                  navigatePage("https://instagram.com/slime_project_official")
+                }
+              >
+                <FaInstagram />
+              </button>
+              <button
+                className="relative button-style-sm text-left bg-white"
+                onClick={() =>
+                  navigatePage("https://pinterest.com/slime_project/research/")
+                }
+              >
+                <FaPinterest />
+              </button>
+            </div>
           </nav>
           <LanguageSelector />
         </div>

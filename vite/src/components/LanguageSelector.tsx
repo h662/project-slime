@@ -12,7 +12,9 @@ const LanguageSelector: FC = () => {
   return (
     <div>
       <button
-        className={`mb-1 button-style-sm ${isClickeded && "bg-slimeGreen-300"}`}
+        className={`mb-1 button-style-sm bg-white ${
+          isClickeded && "bg-slimeGreen-300"
+        }`}
         onClick={() => setIsClickeded(!isClickeded)}
       >
         {t("languageSelection")}

@@ -1,301 +1,302 @@
 {
   "id": 19,
-  "name": "Bookmark Slime",
+  "name": "Devil Slime",
   "localizedNames": {
-    "en": "Bookmark Slime",
-    "ko": "책갈피 슬라임",
-    "jp": "ブックマークスライム",
-    "zh-CN": "书签史莱姆",
-    "es": "Slime Marcador",
-    "fr": "Slime Signet",
-    "de": "Lesezeichen Schleim",
-    "pt": "Slime Marcador",
-    "ru": "Закладка Слайм",
-    "ar": "سلايم العلامة",
-    "hi": "बुकमार्क स्लाइम"
+    "en": "Devil Slime",
+    "ko": "악마 슬라임",
+    "jp": "デビルスライム",
+    "zh-CN": "恶魔史莱姆",
+    "es": "Slime Demonio",
+    "fr": "Slime Diable",
+    "de": "Teufel Schleim",
+    "pt": "Slime Demônio",
+    "ru": "Дьявол Слайм",
+    "ar": "سلايم الشيطان",
+    "hi": "डेविल स्लाइम"
   },
-  "description": "Bookmark Slime is an innovative type of slime that has taken the form of a book's bookmark, with the bookmark being the actual slime rather than the book itself. In the Slime Project, this unique slime plays a significant role in marking important pages and assisting researchers in keeping track of their progress. With its quirky and helpful nature, Bookmark Slime has quickly become a favorite among the team. Despite its simple appearance, it holds the ability to absorb and recall information, making it an indispensable tool in the lab.",
+  "description": "Devil Slime is known for its mysterious and somewhat ominous aura, often causing unease among other slimes. In the Slime Project, Devil Slime plays a role in understanding darker and more complex emotions, and how they interact with other slimes. Despite its intimidating presence, it provides valuable insights into the balance of positive and negative energies within the lab. It is known that Devil Slime does not get along well with Angel Slime, creating a dynamic tension that researchers are keen to study.",
   "localizedDescriptions": {
-    "en": "Bookmark Slime is an innovative type of slime that has taken the form of a book's bookmark, with the bookmark being the actual slime rather than the book itself. In the Slime Project, this unique slime plays a significant role in marking important pages and assisting researchers in keeping track of their progress. With its quirky and helpful nature, Bookmark Slime has quickly become a favorite among the team. Despite its simple appearance, it holds the ability to absorb and recall information, making it an indispensable tool in the lab.",
-    "ko": "책갈피 슬라임은 책갈피 형태로 변신한 혁신적인 슬라임으로, 책이 본체가 아닌 책갈피가 본체입니다. 슬라임 프로젝트에서 이 독특한 슬라임은 중요한 페이지를 표시하고 연구자들이 진행 상황을 추적하는 데 중요한 역할을 합니다. 독특하고 도움이 되는 성격 덕분에 책갈피 슬라임은 팀의 사랑을 빨리 받게 되었습니다. 단순한 외모에도 불구하고 정보를 흡수하고 기억하는 능력을 가지고 있어 실험실에서 없어서는 안될 도구입니다.",
-    "jp": "ブックマークスライムは、ブックマークの形をした革新的なスライムであり、本体は本ではなくブックマークです。スライムプロジェクトでは、このユニークなスライムは重要なページをマークし、研究者が進捗を追跡するのを助ける重要な役割を果たします。その風変わりで助けになる性質により、ブックマークスライムはすぐにチームのお気に入りになりました。シンプルな見た目にもかかわらず、情報を吸収して記憶する能力を持っており、ラボで不可欠なツールです。",
-    "zh-CN": "书签史莱姆是一种创新的史莱姆，它变成了书签的形式，实际的史莱姆是书签而不是书本身。在史莱姆项目中，这种独特的史莱姆在标记重要页面和帮助研究人员跟踪进展方面发挥了重要作用。凭借其古怪且有帮助的性质，书签史莱姆很快成为团队的最爱。尽管外表简单，但它具有吸收和回忆信息的能力，使其成为实验室中不可或缺的工具。",
-    "es": "Slime Marcador es un tipo innovador de slime que ha tomado la forma de un marcador de libros, siendo el marcador el slime real en lugar del libro en sí. En el Proyecto Slime, este slime único juega un papel importante en marcar páginas importantes y ayudar a los investigadores a llevar un registro de su progreso. Con su naturaleza peculiar y útil, el Slime Marcador se ha convertido rápidamente en el favorito del equipo. A pesar de su apariencia simple, tiene la capacidad de absorber y recordar información, lo que lo convierte en una herramienta indispensable en el laboratorio.",
-    "fr": "Le Slime Signet est un type de slime innovant qui a pris la forme d'un signet de livre, le signet étant le slime réel plutôt que le livre lui-même. Dans le Projet Slime, ce slime unique joue un rôle important en marquant les pages importantes et en aidant les chercheurs à suivre leurs progrès. Avec sa nature excentrique et utile, le Slime Signet est rapidement devenu un favori parmi l'équipe. Malgré son apparence simple, il a la capacité d'absorber et de se rappeler des informations, ce qui en fait un outil indispensable dans le laboratoire.",
-    "de": "Lesezeichen Schleim ist eine innovative Art von Schleim, die die Form eines Buchlesezeichens angenommen hat, wobei das Lesezeichen der eigentliche Schleim ist und nicht das Buch selbst. Im Slime-Projekt spielt dieser einzigartige Schleim eine wichtige Rolle beim Markieren wichtiger Seiten und hilft den Forschern, ihren Fortschritt zu verfolgen. Mit seiner skurrilen und hilfreichen Natur ist der Lesezeichen Schleim schnell zum Favoriten des Teams geworden. Trotz seines einfachen Aussehens hat es die Fähigkeit, Informationen aufzunehmen und abzurufen, was es zu einem unverzichtbaren Werkzeug im Labor macht.",
-    "pt": "Slime Marcador é um tipo inovador de slime que assumiu a forma de um marcador de livros, sendo o marcador o verdadeiro slime em vez do próprio livro. No Projeto Slime, este slime único desempenha um papel significativo em marcar páginas importantes e ajudar os pesquisadores a acompanhar seu progresso. Com sua natureza peculiar e útil, o Slime Marcador rapidamente se tornou o favorito da equipe. Apesar de sua aparência simples, possui a capacidade de absorver e recordar informações, tornando-o uma ferramenta indispensável no laboratório.",
-    "ru": "Закладка Слайм - это инновационный тип слайма, который принял форму книжной закладки, при этом закладка является настоящим слаймом, а не книгой. В проекте Slime этот уникальный слайм играет значительную роль в отметке важных страниц и помогает исследователям отслеживать их прогресс. Благодаря своей причудливой и полезной природе Закладка Слайм быстро стала фаворитом среди команды. Несмотря на свой простой внешний вид, он обладает способностью поглощать и вспоминать информацию, что делает его незаменимым инструментом в лаборатории.",
-    "ar": "سلايم العلامة هو نوع مبتكر من السلايم الذي اتخذ شكل علامة كتاب، حيث أن العلامة هي السلايم الحقيقي وليس الكتاب نفسه. في مشروع السلايم، يلعب هذا السلايم الفريد دورًا مهمًا في وضع علامات على الصفحات المهمة ومساعدة الباحثين في تتبع تقدمهم. بطبيعته الغريبة والمفيدة، أصبح سلايم العلامة بسرعة المفضل بين الفريق. على الرغم من مظهره البسيط، إلا أنه يمتلك القدرة على امتصاص وتذكر المعلومات، مما يجعله أداة لا غنى عنها في المختبر.",
-    "hi": "बुकमार्क स्लाइम एक अभिनव प्रकार का स्लाइम है जिसने एक किताब के बुकमार्क का रूप धारण कर लिया है, जिसमें बुकमार्क किताब के बजाय वास्तविक स्लाइम है। स्लाइम प्रोजेक्ट में, यह अद्वितीय स्लाइम महत्वपूर्ण पृष्ठों को चिह्नित करने और शोधकर्ताओं को उनकी प्रगति को ट्रैक करने में सहायता करने में महत्वपूर्ण भूमिका निभाता है। अपनी विचित्र और सहायक प्रकृति के कारण, बुकमार्क स्लाइम जल्दी ही टीम का पसंदीदा बन गया है। इसकी साधारण उपस्थिति के बावजूद, इसमें जानकारी को अवशोषित करने और याद करने की क्षमता है, जो इसे प्रयोगशाला में एक अनिवार्य उपकरण बनाता है।"
+    "en": "Devil Slime is known for its mysterious and somewhat ominous aura, often causing unease among other slimes. In the Slime Project, Devil Slime plays a role in understanding darker and more complex emotions, and how they interact with other slimes. Despite its intimidating presence, it provides valuable insights into the balance of positive and negative energies within the lab. It is known that Devil Slime does not get along well with Angel Slime, creating a dynamic tension that researchers are keen to study.",
+    "ko": "악마 슬라임은 수상한 기운과 다소 불길한 분위기로 유명하며 다른 슬라임들에게 불안을 초래합니다. 슬라임 프로젝트에서 악마 슬라임은 어둡고 복잡한 감정을 이해하고 다른 슬라임들과 어떻게 상호작용하는지 연구하는 역할을 합니다. 위협적인 존재감에도 불구하고, 연구소 내 긍정적이고 부정적인 에너지의 균형에 대한 귀중한 통찰력을 제공합니다. 악마 슬라임은 천사 슬라임과 사이가 좋지 않으며, 연구자들은 이 긴장감을 연구하는 데 관심이 많습니다.",
+    "jp": "デビルスライムはその神秘的でやや不吉なオーラで知られており、他のスライムに不安を引き起こすことがあります。スライムプロジェクトでは、デビルスライムは暗くて複雑な感情を理解し、他のスライムとどのように相互作用するかを研究する役割を果たします。その威圧的な存在感にもかかわらず、研究所内の正と負のエネルギーのバランスに関する貴重な洞察を提供します。デビルスライムはエンジェルスライムと仲が悪いことが知られており、研究者たちはこの緊張関係を研究することに興味を持っています。",
+    "zh-CN": "恶魔史莱姆以其神秘且有些不祥的气息而闻名，经常引起其他史莱姆的不安。在史莱姆项目中，恶魔史莱姆在理解更黑暗和复杂的情绪以及它们如何与其他史莱姆互动方面发挥作用。尽管它具有威胁性的存在感，但它提供了关于实验室内正能量和负能量平衡的宝贵见解。众所周知，恶魔史莱姆与天使史莱姆关系不和，研究人员对这种动态紧张关系的研究很感兴趣。",
+    "es": "El Slime Demonio es conocido por su aura misteriosa y algo ominosa, que a menudo causa inquietud entre otros slimes. En el Proyecto Slime, el Slime Demonio juega un papel en la comprensión de emociones más oscuras y complejas, y cómo interactúan con otros slimes. A pesar de su presencia intimidante, proporciona valiosos conocimientos sobre el equilibrio de energías positivas y negativas dentro del laboratorio. Se sabe que el Slime Demonio no se lleva bien con el Slime Ángel, creando una tensión dinámica que los investigadores están ansiosos por estudiar.",
+    "fr": "Le Slime Diable est connu pour son aura mystérieuse et quelque peu menaçante, souvent source d'inquiétude parmi les autres slimes. Dans le Projet Slime, le Slime Diable joue un rôle dans la compréhension des émotions plus sombres et complexes, et de leur interaction avec les autres slimes. Malgré sa présence intimidante, il offre des informations précieuses sur l'équilibre des énergies positives et négatives au sein du laboratoire. On sait que le Slime Diable ne s'entend pas bien avec le Slime Ange, créant une tension dynamique que les chercheurs sont impatients d'étudier.",
+    "de": "Der Teufel Schleim ist für seine geheimnisvolle und etwas unheilvolle Ausstrahlung bekannt, die bei anderen Schleimen oft Unbehagen verursacht. Im Slime-Projekt spielt der Teufel Schleim eine Rolle beim Verständnis dunklerer und komplexerer Emotionen und ihrer Interaktion mit anderen Schleimen. Trotz seiner einschüchternden Präsenz liefert er wertvolle Einblicke in das Gleichgewicht positiver und negativer Energien im Labor. Es ist bekannt, dass der Teufel Schleim sich nicht gut mit dem Engel Schleim versteht, was eine dynamische Spannung schafft, die Forscher gerne untersuchen.",
+    "pt": "O Slime Demônio é conhecido por sua aura misteriosa e um tanto ominosa, muitas vezes causando desconforto entre outros slimes. No Projeto Slime, o Slime Demônio desempenha um papel na compreensão de emoções mais sombrias e complexas, e como elas interagem com outros slimes. Apesar de sua presença intimidante, ele fornece insights valiosos sobre o equilíbrio de energias positivas e negativas dentro do laboratório. Sabe-se que o Slime Demônio não se dá bem com o Slime Anjo, criando uma tensão dinâmica que os pesquisadores estão ansiosos para estudar.",
+    "ru": "Дьявол Слайм известен своей загадочной и несколько зловещей аурой, часто вызывающей беспокойство у других слизней. В проекте Slime Дьявол Слайм играет роль в понимании более темных и сложных эмоций и их взаимодействия с другими слизнями. Несмотря на его устрашающее присутствие, он предоставляет ценные знания о балансе положительных и отрицательных энергий в лаборатории. Известно, что Дьявол Слайм плохо ладит с Ангелом Слаймом, создавая динамическое напряжение, которое исследователи стремятся изучить.",
+    "ar": "سلايم الشيطان معروف بهالته الغامضة والمشؤومة إلى حد ما، وغالبًا ما يسبب القلق بين السلايمات الأخرى. في مشروع السلايم، يلعب سلايم الشيطان دورًا في فهم المشاعر الأكثر قتامة وتعقيدًا وكيفية تفاعلها مع السلايمات الأخرى. على الرغم من حضوره المخيف، إلا أنه يوفر رؤى قيمة حول توازن الطاقات الإيجابية والسلبية داخل المختبر. من المعروف أن سلايم الشيطان لا يتوافق مع سلايم الملاك، مما يخلق توترًا ديناميكيًا يسعى الباحثون لدراسته.",
+    "hi": "डेविल स्लाइम अपने रहस्यमय और कुछ हद तक अशुभ आभा के लिए जाना जाता है, जो अक्सर अन्य स्लाइम्स के बीच बेचैनी का कारण बनता है। स्लाइम प्रोजेक्ट में, डेविल स्लाइम गहरे और अधिक जटिल भावनाओं को समझने में भूमिका निभाता है, और वे अन्य स्लाइम्स के साथ कैसे इंटरैक्ट करते हैं। इसके डराने वाले प्रभाव के बावजूद, यह प्रयोगशाला के भीतर सकारात्मक और नकारात्मक ऊर्जाओं के संतुलन में बहुमूल्य अंतर्दृष्टि प्रदान करता है। यह ज्ञात है कि डेविल स्लाइम और एंजेल स्लाइम के बीच अच्छी बनती नहीं है, जिससे शोधकर्ता इस गतिशील तनाव का अध्ययन करने के इच्छुक हैं।"
   },
-  "scene": "https://prod.spline.design/66XF6aD91lKgEAau/scene.splinecode",
-  "image": "https://slime-project.mypinata.cloud/ipfs/[YourImageHash]",
-  "image_name": "bookmark_slime.png",
+  "scene": "https://prod.spline.design/EsrR8m0VQ6jbvEW4/scene.splinecode",
+  "image": "https://slime-project.mypinata.cloud/ipfs/QmTadGn49SWBeU3hHi1Urdz2fK6GHvrE1qToq7LgzA7LzX",
+  "image_name": "devil_slime.png",
   "attributes": [
     {
-      "trait_type": "Form",
-      "value": "Bookmark"
-    },
-    {
-      "trait_type": "Function",
-      "value": "Page Marker"
-    },
-    {
       "trait_type": "Body",
-      "value": "Red"
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Contents",
+      "value": "Dark Energy"
     },
     {
       "trait_type": "Personality",
-      "value": "Helpful"
+      "value": "Mysterious"
     },
     {
       "trait_type": "Ability",
-      "value": "Information Absorption"
+      "value": "Intimidation"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Study of Negative Emotions"
     }
   ],
   "localizedAttributes": {
     "en": [
       {
-        "trait_type": "Form",
-        "value": "Bookmark"
-      },
-      {
-        "trait_type": "Function",
-        "value": "Page Marker"
-      },
-      {
         "trait_type": "Body",
-        "value": "Red"
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Contents",
+        "value": "Dark Energy"
       },
       {
         "trait_type": "Personality",
-        "value": "Helpful"
+        "value": "Mysterious"
       },
       {
         "trait_type": "Ability",
-        "value": "Information Absorption"
+        "value": "Intimidation"
+      },
+      {
+        "trait_type": "Purpose",
+        "value": "Study of Negative Emotions"
       }
     ],
     "ko": [
       {
-        "trait_type": "형태",
-        "value": "책갈피"
-      },
-      {
-        "trait_type": "기능",
-        "value": "페이지 표시"
-      },
-      {
         "trait_type": "몸",
-        "value": "빨강"
+        "value": "보라색"
+      },
+      {
+        "trait_type": "내용물",
+        "value": "어두운 에너지"
       },
       {
         "trait_type": "성격",
-        "value": "도움이 되는"
+        "value": "신비로운"
       },
       {
         "trait_type": "능력",
-        "value": "정보 흡수"
+        "value": "위협"
+      },
+      {
+        "trait_type": "목적",
+        "value": "부정적 감정 연구"
       }
     ],
     "jp": [
       {
-        "trait_type": "形",
-        "value": "ブックマーク"
-      },
-      {
-        "trait_type": "機能",
-        "value": "ページマーカー"
-      },
-      {
         "trait_type": "体",
-        "value": "赤"
+        "value": "紫"
+      },
+      {
+        "trait_type": "内容物",
+        "value": "暗いエネルギー"
       },
       {
         "trait_type": "性格",
-        "value": "役に立つ"
+        "value": "神秘的"
       },
       {
         "trait_type": "能力",
-        "value": "情報吸収"
+        "value": "威嚇"
+      },
+      {
+        "trait_type": "目的",
+        "value": "負の感情の研究"
       }
     ],
     "zh-CN": [
       {
-        "trait_type": "形状",
-        "value": "书签"
-      },
-      {
-        "trait_type": "功能",
-        "value": "页面标记"
-      },
-      {
         "trait_type": "身体",
-        "value": "红色"
+        "value": "紫色"
+      },
+      {
+        "trait_type": "内容",
+        "value": "黑暗能量"
       },
       {
         "trait_type": "性格",
-        "value": "有帮助的"
+        "value": "神秘"
       },
       {
         "trait_type": "能力",
-        "value": "信息吸收"
+        "value": "威胁"
+      },
+      {
+        "trait_type": "目的",
+        "value": "负面情绪研究"
       }
     ],
     "es": [
       {
-        "trait_type": "Forma",
-        "value": "Marcador"
-      },
-      {
-        "trait_type": "Función",
-        "value": "Marcador de Página"
-      },
-      {
         "trait_type": "Cuerpo",
-        "value": "Rojo"
+        "value": "Púrpura"
+      },
+      {
+        "trait_type": "Contenido",
+        "value": "Energía Oscura"
       },
       {
         "trait_type": "Personalidad",
-        "value": "Útil"
+        "value": "Misterioso"
       },
       {
         "trait_type": "Habilidad",
-        "value": "Absorción de Información"
+        "value": "Intimidación"
+      },
+      {
+        "trait_type": "Propósito",
+        "value": "Estudio de Emociones Negativas"
       }
     ],
     "fr": [
       {
-        "trait_type": "Forme",
-        "value": "Signet"
-      },
-      {
-        "trait_type": "Fonction",
-        "value": "Marque-page"
-      },
-      {
         "trait_type": "Corps",
-        "value": "Rouge"
+        "value": "Violet"
+      },
+      {
+        "trait_type": "Contenu",
+        "value": "Énergie Sombre"
       },
       {
         "trait_type": "Personnalité",
-        "value": "Serviable"
+        "value": "Mystérieux"
       },
       {
         "trait_type": "Capacité",
-        "value": "Absorption d'Information"
+        "value": "Intimidation"
+      },
+      {
+        "trait_type": "But",
+        "value": "Étude des Émotions Négatives"
       }
     ],
     "de": [
       {
-        "trait_type": "Form",
-        "value": "Lesezeichen"
-      },
-      {
-        "trait_type": "Funktion",
-        "value": "Seitenmarkierung"
-      },
-      {
         "trait_type": "Körper",
-        "value": "Rot"
+        "value": "Lila"
+      },
+      {
+        "trait_type": "Inhalt",
+        "value": "Dunkle Energie"
       },
       {
         "trait_type": "Persönlichkeit",
-        "value": "Hilfreich"
+        "value": "Geheimnisvoll"
       },
       {
         "trait_type": "Fähigkeit",
-        "value": "Informationsaufnahme"
+        "value": "Einschüchterung"
+      },
+      {
+        "trait_type": "Zweck",
+        "value": "Studie negativer Emotionen"
       }
     ],
     "pt": [
       {
-        "trait_type": "Forma",
-        "value": "Marcador"
-      },
-      {
-        "trait_type": "Função",
-        "value": "Marcador de Página"
-      },
-      {
         "trait_type": "Corpo",
-        "value": "Vermelho"
+        "value": "Roxo"
+      },
+      {
+        "trait_type": "Conteúdo",
+        "value": "Energia Negra"
       },
       {
         "trait_type": "Personalidade",
-        "value": "Útil"
+        "value": "Misterioso"
       },
       {
         "trait_type": "Habilidade",
-        "value": "Absorção de Informação"
+        "value": "Intimidação"
+      },
+      {
+        "trait_type": "Propósito",
+        "value": "Estudo de Emoções Negativas"
       }
     ],
     "ru": [
       {
-        "trait_type": "Форма",
-        "value": "Закладка"
-      },
-      {
-        "trait_type": "Функция",
-        "value": "Маркер страницы"
-      },
-      {
         "trait_type": "Тело",
-        "value": "Красный"
+        "value": "Фиолетовый"
+      },
+      {
+        "trait_type": "Содержимое",
+        "value": "Темная энергия"
       },
       {
         "trait_type": "Личность",
-        "value": "Полезный"
+        "value": "Загадочный"
       },
       {
         "trait_type": "Способность",
-        "value": "Поглощение информации"
+        "value": "Запугивание"
+      },
+      {
+        "trait_type": "Цель",
+        "value": "Изучение негативных эмоций"
       }
     ],
     "ar": [
       {
-        "trait_type": "شكل",
-        "value": "علامة"
-      },
-      {
-        "trait_type": "وظيفة",
-        "value": "علامة الصفحة"
-      },
-      {
         "trait_type": "جسم",
-        "value": "أحمر"
+        "value": "أرجواني"
+      },
+      {
+        "trait_type": "محتويات",
+        "value": "طاقة مظلمة"
       },
       {
         "trait_type": "شخصية",
-        "value": "مفيد"
+        "value": "غامض"
       },
       {
         "trait_type": "قدرة",
-        "value": "امتصاص المعلومات"
+        "value": "ترهيب"
+      },
+      {
+        "trait_type": "غرض",
+        "value": "دراسة المشاعر السلبية"
       }
     ],
     "hi": [
       {
-        "trait_type": "रूप",
-        "value": "बुकमार्क"
-      },
-      {
-        "trait_type": "कार्य",
-        "value": "पृष्ठ मार्कर"
-      },
-      {
         "trait_type": "शरीर",
-        "value": "लाल"
+        "value": "बैंगनी"
+      },
+      {
+        "trait_type": "सामग्री",
+        "value": "डार्क एनर्जी"
       },
       {
         "trait_type": "व्यक्तित्व",
-        "value": "सहायक"
+        "value": "रहस्यमय"
       },
       {
         "trait_type": "क्षमता",
-        "value": "जानकारी अवशोषण"
+        "value": "धमकाना"
+      },
+      {
+        "trait_type": "उद्देश्य",
+        "value": "नकारात्मक भावनाओं का अध्ययन"
       }
     ]
   },
-  "birthday": ""
+  "birthday": "2024-06-14",
+  "version": 2
 }
