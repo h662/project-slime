@@ -1,6 +1,7 @@
 {
   "locale": "en",
-  "logo": "Slime Project",
+  "title": "Slime Project",
+  "description": "The Slime Project taking place in a cutting-edge laboratory. Explore the diverse characteristics and abilities of various slimes and discover the infinite possibilities for improving human life.",
   "languageSelection": "Language Selection",
   "seeAllSlimes": "See All Slimes",
   "view": "View",

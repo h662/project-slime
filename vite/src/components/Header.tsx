@@ -56,7 +56,7 @@ const Header: FC = () => {
             onTouchEnd={() => setIsLinkHover(false)}
             onClick={() => navigatePage(`/${i18n.language}`)}
           >
-            <Logo isLinkHover={isLinkHover} /> {t("logo")}
+            <Logo isLinkHover={isLinkHover} /> {t("title")}
           </button>
         </div>
         <div

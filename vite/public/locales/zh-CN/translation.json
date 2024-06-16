@@ -1,6 +1,7 @@
 {
   "locale": "zh-CN",
-  "logo": "史莱姆项目",
+  "title": "史莱姆项目",
+  "description": "在最先进的实验室中进行的史莱姆项目。探索各种史莱姆的多样特性和能力，发现改善人类生活的无限可能性。",
   "languageSelection": "语言选择",
   "seeAllSlimes": "查看所有史莱姆",
   "view": "查看",

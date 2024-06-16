@@ -1,6 +1,7 @@
 {
   "locale": "de",
-  "logo": "Schleim-Projekt",
+  "title": "Schleim-Projekt",
+  "description": "Das Slime-Projekt, das in einem hochmodernen Labor stattfindet. Erkunden Sie die verschiedenen Eigenschaften und Fähigkeiten von Slimes und entdecken Sie die unbegrenzten Möglichkeiten zur Verbesserung des menschlichen Lebens.",
   "languageSelection": "Sprachauswahl",
   "seeAllSlimes": "Alle Schleime ansehen",
   "view": "Ansicht",

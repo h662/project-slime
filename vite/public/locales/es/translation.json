@@ -1,6 +1,7 @@
 {
   "locale": "es",
-  "logo": "Proyecto Slime",
+  "title": "Proyecto Slime",
+  "description": "El Proyecto Slime que se lleva a cabo en un laboratorio de vanguardia. Explora las diversas características y habilidades de los diferentes slimes y descubre las infinitas posibilidades para mejorar la vida humana.",
   "languageSelection": "Selección de idioma",
   "seeAllSlimes": "Ver Todos los Slimes",
   "view": "Ver",
